@@ -1,0 +1,1034 @@
+file,name,line,tokens,words_num,polarity,subjectivity,lex_div,Cluster
+script-ch0.rpy,Sayori,Heeeeeeeyyy!!,"['heeeeeeeyyy', '!', '!']",1,0.0,0.0,1.0,0
+script-ch0.rpy,Sayori,Haaahhh...haaahhh...,"['haaahhh', '...', 'haaahhh', '...']",2,0.0,0.0,1.0,0
+script-ch0.rpy,Sayori,I overslept again!,"['overslept', '!']",3,0.0,0.0,1.0,0
+script-ch0.rpy,Sayori,But I caught you this time!,"['caught', 'time', '!']",6,0.0,0.0,1.0,3
+script-ch0.rpy,Sayori,Eeehhhhh you say that like you were thinking about ignoring me!,"['eeehhhhh', 'say', 'like', 'thinking', 'ignoring', '!']",11,0.0,0.0,0.9090909090909091,3
+script-ch0.rpy,Sayori,Thats mean player!,"['thats', 'mean', 'player', '!']",3,-0.390625,0.6875,1.0,4
+script-ch0.rpy,Sayori,Fine fine.,"['fine', 'fine']",2,0.4166666666666667,0.5,0.5,0
+script-ch0.rpy,Sayori,But you did wait for me after all.,['wait'],8,0.0,0.0,1.0,0
+script-ch0.rpy,Sayori,I guess you dont have it in you to be mean even if you want to~,"['guess', 'dont', 'mean', 'even', 'want', 'to~']",16,-0.3125,0.6875,0.875,0
+script-ch0.rpy,Sayori,Ehehe~,['ehehe~'],1,0.0,0.0,1.0,2
+script-ch0.rpy,Sayori,By the way player...,"['way', 'player', '...']",4,0.0,0.0,1.0,4
+script-ch0.rpy,Sayori,Have you decided on a club to join yet?,"['decided', 'club', 'join', 'yet', '?']",9,0.0,0.0,1.0,0
+script-ch0.rpy,Sayori,Eh? Thats not true!,"['eh', '?', 'thats', 'true', '!']",4,-0.21875,0.65,1.0,1
+script-ch0.rpy,Sayori,You told me you would join a club this year!,"['told', 'would', 'join', 'club', 'year', '!']",10,0.0,0.0,0.9,3
+script-ch0.rpy,Sayori,Uh-huh!,"['uh-huh', '!']",2,0.0,0.0,1.0,0
+script-ch0.rpy,Sayori,I was talking about how Im worried that you wont learn how to socialize or have any skills before college.,"['talking', 'im', 'worried', 'wont', 'learn', 'socialize', 'skills', 'college']",20,0.0,0.0,0.95,0
+script-ch0.rpy,Sayori,Your happiness is really important to me you know!,"['happiness', 'really', 'important', 'know', '!']",9,0.6,0.6,1.0,0
+script-ch0.rpy,Sayori,And I know youre happy now but Id die at the thought of you becoming a NEET in a few years because youre not used to the real world!,"['know', 'youre', 'happy', 'id', 'die', 'thought', 'becoming', 'neet', 'years', 'youre', 'used', 'real', 'world', '!']",29,0.325,0.5625,0.896551724137931,0
+script-ch0.rpy,Sayori,You trust me right?,"['trust', 'right', '?']",4,0.2857142857142857,0.5357142857142857,1.0,0
+script-ch0.rpy,Sayori,Dont make me keep worrying about you...,"['dont', 'make', 'keep', 'worrying', '...']",7,0.0,0.0,1.0,0
+script-ch0.rpy,Sayori,Will you at least promise me youll try a little?,"['least', 'promise', 'youll', 'try', 'little', '?']",10,-0.24375,0.45,1.0,0
+script-ch0.rpy,Sayori,Yaay~!,"['yaay~', '!']",1,0.0,0.0,1.0,0
+script-ch0.rpy,Sayori,Hellooo?,"['hellooo', '?']",1,0.0,0.0,1.0,0
+script-ch0.rpy,Sayori,I thought Id catch you coming out of the classroom but I saw you just sitting here and spacing out so I came in.,"['thought', 'id', 'catch', 'coming', 'classroom', 'saw', 'sitting', 'spacing', 'came']",24,0.0,0.0,0.8333333333333334,0
+script-ch0.rpy,Sayori,Honestly youre even worse than me sometimes... Im impressed!,"['honestly', 'youre', 'even', 'worse', 'sometimes', '...', 'im', 'impressed', '!']",9,0.39999999999999997,0.8333333333333334,1.0,0
+script-ch0.rpy,Sayori,Well I thought you might need some encouragement so I thought you know...,"['well', 'thought', 'might', 'need', 'encouragement', 'thought', 'know', '...']",13,0.0,0.0,0.7692307692307693,0
+script-ch0.rpy,Sayori,Well that you could come to my club!,"['well', 'could', 'come', 'club', '!']",8,0.0,0.0,1.0,3
+script-ch0.rpy,Sayori,Yeah??,"['yeah', '?', '?']",1,0.0,0.0,1.0,0
+script-ch0.rpy,Sayori,Eeeehhhhh?! Meanie!,"['eeeehhhhh', '?', '!', 'meanie', '!']",2,0.0,0.0,1.0,0
+script-ch0.rpy,Sayori,Cmon please?,"['cmon', 'please', '?']",2,0.0,0.0,1.0,0
+script-ch0.rpy,Sayori,Well...,"['well', '...']",1,0.0,0.0,1.0,0
+script-ch0.rpy,Sayori,I kind of told the club yesterday I would bring in a new member...,"['kind', 'told', 'club', 'yesterday', 'would', 'bring', 'new', 'member', '...']",14,0.36818181818181817,0.6772727272727272,0.9285714285714286,0
+script-ch0.rpy,Sayori,And Natsuki made cupcakes and everything...,"['natsuki', 'made', 'cupcakes', 'everything', '...']",6,0.0,0.0,0.8333333333333334,0
+script-ch0.rpy,Sayori,Ehehe...,"['ehehe', '...']",1,0.0,0.0,1.0,2
+script-ch0.rpy,Sayori,Yes! Lets go~!,"['yes', '!', 'lets', 'go~', '!']",3,0.0,0.0,1.0,0
+script-ch0.rpy,Sayori,Everyone! The new member is here~!,"['everyone', '!', 'new', 'member', 'here~', '!']",6,0.17045454545454544,0.45454545454545453,1.0,0
+script-ch0.rpy,Sayori,You can just ignore her when she gets moody~,"['ignore', 'gets', 'moody~']",9,0.0,0.0,1.0,0
+script-ch0.rpy,Sayori,Anyway! This is Natsuki always full of energy.,"['anyway', '!', 'natsuki', 'always', 'full', 'energy']",8,0.35,0.55,1.0,3
+script-ch0.rpy,Sayori,And this is Yuri the smartest in the club!,"['yuri', 'smartest', 'club', '!']",9,0.0,0.0,0.8888888888888888,3
+script-ch0.rpy,Sayori,And it sounds like you already know Monika is that right?,"['sounds', 'like', 'already', 'know', 'monika', 'right', '?']",11,0.2857142857142857,0.5357142857142857,1.0,3
+script-ch0.rpy,Sayori,Come sit down player! We made room for you at the table so you can sit next to me or Monika.,"['come', 'sit', 'player', '!', 'made', 'room', 'table', 'sit', 'next', 'monika']",21,-0.09722222222222224,0.14444444444444446,0.9047619047619048,0
+script-ch0.rpy,Sayori,Ill get the cupcakes~,"['ill', 'get', 'cupcakes~']",4,-0.5,1.0,1.0,0
+script-ch0.rpy,Sayori,Sorry I got a little too excited~,"['sorry', 'got', 'little', 'excited~']",7,-0.10416666666666667,0.75,1.0,0
+script-ch0.rpy,Sayori,Uwooooah!,"['uwooooah', '!']",1,0.0,0.0,1.0,0
+script-ch0.rpy,Sayori,So cuuuute~!,"['cuuuute~', '!']",2,0.0,0.0,1.0,0
+script-ch0.rpy,Sayori,Its delicious!,"['delicious', '!']",2,1.0,1.0,1.0,0
+script-ch0.rpy,Sayori,Monika really is a great leader!,"['monika', 'really', 'great', 'leader', '!']",6,1.0,0.75,1.0,0
+script-ch0.rpy,Sayori,Yeah!,"['yeah', '!']",1,0.0,0.0,1.0,0
+script-ch0.rpy,Sayori,Ehehe your cupcakes your poems...,"['ehehe', 'cupcakes', 'poems', '...']",5,0.0,0.0,0.8,0
+script-ch0.rpy,Sayori,Everything you do is just as cute as you are~,"['everything', 'cute', 'are~']",10,0.5,1.0,0.8,0
+script-ch0.rpy,Sayori,Aww... I wanted to read everyones poems...,"['aww', '...', 'wanted', 'read', 'everyones', 'poems', '...']",7,0.3,0.9,1.0,0
+script-ch0.rpy,Sayori,Yeaaah! Lets do it!,"['yeaaah', '!', 'lets', '!']",4,0.0,0.0,1.0,0
+script-ch0.rpy,Sayori,player...,"['player', '...']",1,0.0,0.0,1.0,4
+script-ch0.rpy,Sayori,Yesss! Im so happyyy~,"['yesss', '!', 'im', 'happyyy~']",4,0.0,0.0,1.0,0
+script-ch0.rpy,Sayori,Hey player since were already here do you want to walk home together?,"['hey', 'player', 'since', 'already', 'want', 'walk', 'home', 'together', '?']",13,0.0,0.0,1.0,0
+script-ch0.rpy,Sayori,Yaay~,['yaay~'],1,0.0,0.0,1.0,0
+script-ch0.rpy,Sayori,...,['...'],0,0.0,0.0,1.0,0
+script-ch0.rpy,Sayori,...,['...'],0,0.0,0.0,1.0,0
+script-ch0.rpy,Sayori,W-What...,"['w-what', '...']",2,0.0,0.0,1.0,0
+script-ch0.rpy,Sayori,...,['...'],0,0.0,0.0,1.0,0
+script-ch0.rpy,Sayori,This...,['...'],1,0.0,0.0,1.0,3
+script-ch0.rpy,Sayori,What is this...?,"['...', '?']",3,0.0,0.0,1.0,3
+script-ch0.rpy,Sayori,Oh no...,"['oh', '...']",2,0.0,0.0,1.0,3
+script-ch0.rpy,Sayori,No...,['...'],1,0.0,0.0,1.0,3
+script-ch0.rpy,Sayori,This cant be it.,['cant'],4,0.0,0.0,1.0,3
+script-ch0.rpy,Sayori,This cant be all there is.,['cant'],6,0.0,0.0,0.8333333333333334,3
+script-ch0.rpy,Sayori,What is this?,['?'],3,0.0,0.0,1.0,3
+script-ch0.rpy,Sayori,What am I?,['?'],3,0.0,0.0,1.0,0
+script-ch0.rpy,Sayori,Make it stop!,"['make', 'stop', '!']",3,0.0,0.0,1.0,0
+script-ch0.rpy,Sayori,PLEASE MAKE IT STOP!,"['please', 'make', 'stop', '!']",4,0.0,0.0,1.0,0
+script-ch1.rpy,Sayori,Dont worry guys~,"['dont', 'worry', 'guys~']",3,0.0,0.0,1.0,0
+script-ch1.rpy,Sayori,player always gives it his best as long as hes having fun.,"['player', 'always', 'gives', 'best', 'long', 'hes', 'fun']",12,0.4166666666666667,0.3,0.9166666666666666,0
+script-ch1.rpy,Sayori,He helps me with busywork without me even asking.,"['helps', 'busywork', 'without', 'even', 'asking']",9,0.0,0.0,0.8888888888888888,0
+script-ch1.rpy,Sayori,Like cooking cleaning my room...,"['like', 'cooking', 'cleaning', 'room', '...']",5,0.0,0.0,1.0,0
+script-ch1.rpy,Sayori,Is that so... Ehehe...,"['...', 'ehehe', '...']",4,0.0,0.0,1.0,3
+script-ch1.rpy,Sayori,How come? You and player can become good friends too!,"['come', '?', 'player', 'become', 'good', 'friends', '!']",10,0.875,0.6000000000000001,1.0,0
+script-ch1.rpy,Sayori,Hmm?,"['hmm', '?']",1,0.0,0.0,1.0,0
+script-ch1.rpy,Sayori,Oh oh! Yuri even brought you something today you know~,"['oh', 'oh', '!', 'yuri', 'even', 'brought', 'something', 'today', 'know~']",10,0.0,0.0,0.8,0
+script-ch1.rpy,Sayori,Dont be shy~,"['dont', 'shy~']",3,-0.5,0.5,1.0,0
+script-ch1.rpy,Sayori,Eh? Im sorry Yuri I wasnt thinking...,"['eh', '?', 'im', 'sorry', 'yuri', 'wasnt', 'thinking', '...']",7,-0.5,1.0,1.0,0
+script-ch1.rpy,Sayori,I cant wait~!,"['cant', 'wait~', '!']",3,0.0,0.0,1.0,0
+script-ch1.rpy,Sayori,U-Um!!,"['u-um', '!', '!']",2,0.0,0.0,1.0,0
+script-ch1.rpy,Sayori,Is everyone okay...?,"['everyone', 'okay', '...', '?']",3,0.5,0.5,1.0,0
+script-ch1.rpy,Sayori,I-I dont like fighting guys...!,"['i-i', 'dont', 'like', 'fighting', 'guys', '...', '!']",6,0.0,0.0,1.0,0
+script-ch1.rpy,Sayori,It was a lot of fun!,"['lot', 'fun', '!']",6,0.375,0.2,1.0,0
+script-ch1.rpy,Sayori,player!,"['player', '!']",1,0.0,0.0,1.0,4
+script-ch1.rpy,Sayori,Ready to walk home?,"['ready', 'walk', 'home', '?']",4,0.2,0.5,1.0,0
+script-ch1.rpy,Sayori,Ehehe~,['ehehe~'],1,0.0,0.0,1.0,2
+script-ch1.rpy,Sayori,Eh? What do you mean?,"['eh', '?', 'mean', '?']",5,-0.3125,0.6875,1.0,0
+script-ch1.rpy,Sayori,No no no!,['!'],3,0.0,0.0,0.3333333333333333,3
+script-ch1.rpy,Sayori,Thats really the first time Ive seen them fight like that...,"['thats', 'really', 'first', 'time', 'ive', 'seen', 'fight', 'like', '...']",11,0.225,0.26666666666666666,1.0,3
+script-ch1.rpy,Sayori,I promise theyre both wonderful people.,"['promise', 'theyre', 'wonderful', 'people']",6,1.0,1.0,1.0,0
+script-ch1.rpy,Sayori,You dont... You dont hate them do you??,"['dont', '...', 'dont', 'hate', '?', '?']",8,-0.8,0.9,0.625,0
+script-ch1.rpy,Sayori,Phew...,"['phew', '...']",1,0.0,0.0,1.0,0
+script-ch1.rpy,Sayori,You know player...,"['know', 'player', '...']",3,0.0,0.0,1.0,4
+script-ch1.rpy,Sayori,Its nice that I get to spend time with you in the club.,"['nice', 'get', 'spend', 'time', 'club']",13,0.6,1.0,1.0,3
+script-ch1.rpy,Sayori,But I think seeing you get along with everyone is what makes me the happiest.,"['think', 'seeing', 'get', 'along', 'everyone', 'makes', 'happiest']",15,0.0,0.0,1.0,0
+script-ch1.rpy,Sayori,And I think everyone really likes you too!,"['think', 'everyone', 'really', 'likes', '!']",8,0.25,0.2,1.0,0
+script-ch1.rpy,Sayori,Ehehe~,['ehehe~'],1,0.0,0.0,1.0,2
+script-ch1.rpy,Sayori,Every day is going to be so much fun~,"['every', 'day', 'going', 'much', 'fun~']",9,0.3,0.2,0.8888888888888888,0
+script-ch1.rpy,Sayori,Okay~!,"['okay~', '!']",1,0.625,0.5,1.0,0
+script-ch1.rpy,Sayori,Yeah! Youre naturally beautiful Yuri!!,"['yeah', '!', 'youre', 'naturally', 'beautiful', 'yuri', '!', '!']",5,1.0,1.0,1.0,0
+script-ch1.rpy,Sayori,Ehh?,"['ehh', '?']",1,0.0,0.0,1.0,0
+script-ch1.rpy,Sayori,I was just trying to help!,"['trying', 'help', '!']",6,0.0,0.0,1.0,0
+script-ch1.rpy,Sayori,I disagree Monika!,"['disagree', 'monika', '!']",3,0.0,0.0,1.0,0
+script-ch1.rpy,Sayori,Thats not the most important thing about the literature club!,"['thats', 'important', 'thing', 'literature', 'club', '!']",10,0.5,0.75,0.9,1
+script-ch1.rpy,Sayori,The most important thing...,"['important', 'thing', '...']",4,0.45,0.75,1.0,0
+script-ch1.rpy,Sayori,Is having fun!,"['fun', '!']",3,0.375,0.2,1.0,0
+script-ch1.rpy,Sayori,Ehehe...,"['ehehe', '...']",1,0.0,0.0,1.0,2
+script-ch1.rpy,Sayori,U-Um!,"['u-um', '!']",2,0.0,0.0,1.0,0
+script-ch1.rpy,Sayori,Sometimes when Im hurt...,"['sometimes', 'im', 'hurt', '...']",4,0.0,0.0,1.0,0
+script-ch1.rpy,Sayori,It helps to take a walk and clear my head!,"['helps', 'take', 'walk', 'clear', 'head', '!']",10,0.12500000000000003,0.3833333333333333,1.0,0
+script-ch1.rpy,Sayori,Natsuki...,"['natsuki', '...']",1,0.0,0.0,1.0,0
+script-ch1.rpy,Sayori,Eh?!,"['eh', '?', '!']",1,0.0,0.0,1.0,0
+script-ch1.rpy,Sayori,player...,"['player', '...']",1,0.0,0.0,1.0,4
+script-ch1.rpy,Sayori,iStop!!/i,"['istop', '!', '!', '/i']",2,0.0,0.0,1.0,0
+script-ch1.rpy,Sayori,Natsuki! Yuri!,"['natsuki', '!', 'yuri', '!']",2,0.0,0.0,1.0,0
+script-ch1.rpy,Sayori,You guys are my friends!,"['guys', 'friends', '!']",5,0.0,0.0,1.0,0
+script-ch1.rpy,Sayori,I-I just want everyone to get along and be happy!,"['i-i', 'want', 'everyone', 'get', 'along', 'happy', '!']",11,1.0,1.0,1.0,0
+script-ch1.rpy,Sayori,My friends are wonderful people...,"['friends', 'wonderful', 'people', '...']",5,1.0,1.0,1.0,0
+script-ch1.rpy,Sayori,And I love them because of their differences!,"['love', 'differences', '!']",8,0.625,0.6,1.0,0
+script-ch1.rpy,Sayori,Natsukis poems...,"['natsukis', 'poems', '...']",2,0.0,0.0,1.0,0
+script-ch1.rpy,Sayori,Theyre amazing because they give you so many feelings with just a few words!,"['theyre', 'amazing', 'give', 'many', 'feelings', 'words', '!']",14,0.2833333333333334,0.5,1.0,0
+script-ch1.rpy,Sayori,And Yuris poems are amazing because they paint beautiful pictures in your head!,"['yuris', 'poems', 'amazing', 'paint', 'beautiful', 'pictures', 'head', '!']",13,0.8,0.95,1.0,0
+script-ch1.rpy,Sayori,Everyones so talented...,"['everyones', 'talented', '...']",3,0.7,0.9,1.0,0
+script-ch1.rpy,Sayori,...So why are we fighting...?,"['...', 'fighting', '...', '?']",5,0.0,0.0,1.0,0
+script-ch1.rpy,Sayori,Also!,"['also', '!']",1,0.0,0.0,1.0,0
+script-ch1.rpy,Sayori,Natsukis cute and theres nothing wrong with that!,"['natsukis', 'cute', 'theres', 'nothing', 'wrong', '!']",8,-0.0625,0.95,1.0,3
+script-ch1.rpy,Sayori,And Yuris boobs are the same as they always were!,"['yuris', 'boobs', 'always', '!']",10,0.0,0.125,0.9,0
+script-ch1.rpy,Sayori,Big and beautiful!!,"['big', 'beautiful', '!', '!']",3,0.5,0.55,1.0,0
+script-ch10.rpy,Sayori,gtext,['gtext'],1,0.0,0.0,1.0,0
+script-ch10.rpy,Sayori,cps=60gtext/cpsnw,['cps=60gtext/cpsnw'],3,0.0,0.0,1.0,0
+script-ch10.rpy,Sayori,cps=60gtext/cpsnw,['cps=60gtext/cpsnw'],3,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,Hi player~,"['hi', 'player~']",2,0.0,0.0,1.0,4
+script-ch2.rpy,Sayori,Ehehe~,['ehehe~'],1,0.0,0.0,1.0,2
+script-ch2.rpy,Sayori,Im just still not used to you being in the club thats all.,"['im', 'still', 'used', 'club', 'thats']",13,0.0,0.0,1.0,1
+script-ch2.rpy,Sayori,Speaking of which...,"['speaking', '...']",3,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,Im kinda hungry...,"['im', 'kinda', 'hungry', '...']",3,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,Will you come with me to buy a snack?,"['come', 'buy', 'snack', '?']",9,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,Eh??,"['eh', '?', '?']",1,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,T-Thats not like you at all!!,"['t-thats', 'like', '!', '!']",7,0.0,0.0,1.0,1
+script-ch2.rpy,Sayori,E-Eh?,"['e-eh', '?']",2,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,Why that...all of a sudden?,"['...', 'sudden', '?']",6,0.0,0.5,1.0,3
+script-ch2.rpy,Sayori,A-Ah...,"['a-ah', '...']",2,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,A-Ahaha...,"['a-ahaha', '...']",2,0.0,0.0,1.0,1
+script-ch2.rpy,Sayori,Thats not fair!,"['thats', 'fair', '!']",3,-0.4375,0.9,1.0,1
+script-ch2.rpy,Sayori,How did you even know?,"['even', 'know', '?']",5,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,Uwaaa~!,"['uwaaa~', '!']",1,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,I give up!,"['give', '!']",3,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,Dont make me feel guiltyyy!,"['dont', 'make', 'feel', 'guiltyyy', '!']",5,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,Yuriiii...,"['yuriiii', '...']",1,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,Tell player to let me borrow some money...,"['tell', 'player', 'let', 'borrow', 'money', '...']",8,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,Ahaha!,"['ahaha', '!']",1,0.0,0.0,1.0,1
+script-ch2.rpy,Sayori,I really like when you speak your mind Yuri...,"['really', 'like', 'speak', 'mind', 'yuri', '...']",9,0.2,0.2,1.0,0
+script-ch2.rpy,Sayori,It doesnt happen much but its a fun side of you!,"['doesnt', 'happen', 'much', 'fun', 'side', '!']",11,0.2875,0.2,1.0,0
+script-ch2.rpy,Sayori,You were right though...,"['right', 'though', '...']",4,0.2857142857142857,0.5357142857142857,1.0,0
+script-ch2.rpy,Sayori,I did something bad and now I have to accept the revolution.,"['something', 'bad', 'accept', 'revolution']",12,-0.6999999999999998,0.6666666666666666,0.9166666666666666,0
+script-ch2.rpy,Sayori,That!,['!'],1,0.0,0.0,1.0,3
+script-ch2.rpy,Sayori,Ehehe...,"['ehehe', '...']",1,0.0,0.0,1.0,2
+script-ch2.rpy,Sayori,B-But...!,"['b-but', '...', '!']",2,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,You wouldnt have come if it werent for the cupcakes...,"['wouldnt', 'come', 'werent', 'cupcakes', '...']",10,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,So I had to trick Natsuki into making them!,"['trick', 'natsuki', 'making', '!']",9,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,Ehehe...,"['ehehe', '...']",1,0.0,0.0,1.0,2
+script-ch2.rpy,Sayori,Kyaa--!,"['kyaa', '--', '!']",1,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,Ow...,"['ow', '...']",1,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,What was--,['--'],2,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,Eh??,"['eh', '?', '?']",1,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,A-A cookie!,"['a-a', 'cookie', '!']",3,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,I-Is this a miracle??,"['i-is', 'miracle', '?', '?']",5,0.0,0.0,1.0,3
+script-ch2.rpy,Sayori,Its because I paid my restitution!,"['paid', 'restitution', '!']",6,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,N-Natsuki!,"['n-natsuki', '!']",2,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,Thats so nice of you!,"['thats', 'nice', '!']",5,0.75,1.0,1.0,1
+script-ch2.rpy,Sayori,Im so happy...,"['im', 'happy', '...']",3,0.8,1.0,1.0,0
+script-ch2.rpy,Sayori,Sho good...,"['sho', 'good', '...']",2,0.7,0.6000000000000001,1.0,0
+script-ch2.rpy,Sayori,Mmf--!,"['mmf', '--', '!']",1,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,I bit my tongue...,"['bit', 'tongue', '...']",4,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,Ah yours looks really good too Natsuki!,"['ah', 'looks', 'really', 'good', 'natsuki', '!']",7,0.875,0.6000000000000001,1.0,0
+script-ch2.rpy,Sayori,Can I try it?,"['try', '?']",4,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,But yours is chocolate...,"['chocolate', '...']",4,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,Fine...,"['fine', '...']",1,0.4166666666666667,0.5,1.0,0
+script-ch2.rpy,Sayori,Still Im really happy that you shared this one with me.,"['still', 'im', 'really', 'happy', 'shared', 'one']",11,0.8,1.0,1.0,3
+script-ch2.rpy,Sayori,Ehehe~,['ehehe~'],1,0.0,0.0,1.0,2
+script-ch2.rpy,Sayori,...iOm./i,"['...', 'iom./i']",2,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,Uhuhuhu!,"['uhuhuhu', '!']",1,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,Not me...,['...'],2,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,I hope shes okay...,"['hope', 'shes', 'okay', '...']",4,0.5,0.5,1.0,0
+script-ch2.rpy,Sayori,Eh?,"['eh', '?']",1,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,You dont think she...,"['dont', 'think', '...']",4,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,She has a...!,"['...', '!']",3,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,Ehehe thats true...,"['ehehe', 'thats', 'true', '...']",3,0.35,0.65,1.0,1
+script-ch2.rpy,Sayori,Eh??,"['eh', '?', '?']",1,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,Monika chose the club over her boyfriend after all!,"['monika', 'chose', 'club', 'boyfriend', '!']",9,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,Youre so strong-willed!,"['youre', 'strong-willed', '!']",4,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,Thats so cool!,"['thats', 'cool', '!']",3,0.4375,0.65,1.0,1
+script-ch2.rpy,Sayori,You should play something for us Monika!,"['play', 'something', 'us', 'monika', '!']",7,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,Yay~!,"['yay~', '!']",1,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,Ehehe~,['ehehe~'],1,0.0,0.0,1.0,2
+script-ch2.rpy,Sayori,Guys...,"['guys', '...']",1,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,Yeah!,"['yeah', '!']",1,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,Its about expressing your feelings...,"['expressing', 'feelings', '...']",5,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,Being intimate with yourself...,"['intimate', '...']",4,0.2,0.6,1.0,0
+script-ch2.rpy,Sayori,Finding new horizons...,"['finding', 'new', 'horizons', '...']",3,0.13636363636363635,0.45454545454545453,1.0,0
+script-ch2.rpy,Sayori,And having fun!,"['fun', '!']",3,0.375,0.2,1.0,0
+script-ch2.rpy,Sayori,Alright~!,"['alright~', '!']",1,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,Ahaha! Thats everyone!,"['ahaha', '!', 'thats', 'everyone', '!']",3,0.0,0.0,1.0,1
+script-ch2.rpy,Sayori,Youre the best Yuri~,"['youre', 'best', 'yuri~']",4,1.0,0.3,1.0,0
+script-ch2.rpy,Sayori,Can I go next??,"['go', 'next', '?', '?']",4,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,That...that was so good Monika!,"['...', 'good', 'monika', '!']",6,0.875,0.6000000000000001,1.0,3
+script-ch2.rpy,Sayori,Uwah! Yuris fired up all of a sudden!,"['uwah', '!', 'yuris', 'fired', 'sudden', '!']",8,0.0,0.5,1.0,0
+script-ch2.rpy,Sayori,You can do it Yuri...,"['yuri', '...']",5,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,Okaay~,['okaay~'],1,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,I guess Im next then!,"['guess', 'im', 'next', '!']",5,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,This ones called...iMy Meadow/i.,"['ones', 'called', '...', 'imy', 'meadow/i']",6,0.0,0.0,1.0,3
+script-ch2.rpy,Sayori,Ah...,"['ah', '...']",1,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,...Ahaha!,"['...', 'ahaha', '!']",1,0.0,0.0,1.0,1
+script-ch2.rpy,Sayori,Sorry I giggled...,"['sorry', 'giggled', '...']",3,-0.5,1.0,1.0,0
+script-ch2.rpy,Sayori,Ehehe...,"['ehehe', '...']",1,0.0,0.0,1.0,2
+script-ch2.rpy,Sayori,Its a lot harder than I thought!,"['lot', 'harder', 'thought', '!']",7,-0.125,0.0,1.0,0
+script-ch2.rpy,Sayori,How did you guys do it so easily?,"['guys', 'easily', '?']",8,0.43333333333333335,0.8333333333333334,0.875,0
+script-ch2.rpy,Sayori,I see I see...,"['see', 'see', '...']",4,0.0,0.0,0.5,0
+script-ch2.rpy,Sayori,Okay then...,"['okay', '...']",2,0.5,0.5,1.0,0
+script-ch2.rpy,Sayori,I did it~!,"['it~', '!']",3,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,Ehehe even player liked it.,"['ehehe', 'even', 'player', 'liked']",5,0.6,0.8,1.0,4
+script-ch2.rpy,Sayori,I guess thats a good sign~,"['guess', 'thats', 'good', 'sign~']",6,0.7,0.6000000000000001,1.0,1
+script-ch2.rpy,Sayori,Eh? I dont really understand...,"['eh', '?', 'dont', 'really', 'understand', '...']",5,0.2,0.2,1.0,0
+script-ch2.rpy,Sayori,Oh I know what you mean!,"['oh', 'know', 'mean', '!']",6,-0.390625,0.6875,1.0,0
+script-ch2.rpy,Sayori,Thats...well Ive been practicing that kind of thing...,"['thats', '...', 'well', 'ive', 'practicing', 'kind', 'thing', '...']",9,0.6,0.9,1.0,1
+script-ch2.rpy,Sayori,Its just embarrassing to do in front of everyone...,"['embarrassing', 'front', 'everyone', '...']",9,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,Ehehe...,"['ehehe', '...']",1,0.0,0.0,1.0,2
+script-ch2.rpy,Sayori,Okaaaaay.,['okaaaaay'],1,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,Natsuki...,"['natsuki', '...']",1,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,Thats a surprise Natsuki...,"['thats', 'surprise', 'natsuki', '...']",4,0.0,0.0,1.0,1
+script-ch2.rpy,Sayori,I think it would be the other way around for me.,"['think', 'would', 'way', 'around']",11,-0.125,0.375,1.0,0
+script-ch2.rpy,Sayori,I cant wait~!,"['cant', 'wait~', '!']",3,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,Yep!,"['yep', '!']",1,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,Ehehe~,['ehehe~'],1,0.0,0.0,1.0,2
+script-ch2.rpy,Sayori,Its okay player you dont have to say it.,"['okay', 'player', 'dont', 'say']",9,0.5,0.5,1.0,0
+script-ch2.rpy,Sayori,...,['...'],0,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,...Sorry! I was spacing out!,"['...', 'sorry', '!', 'spacing', '!']",5,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,Um...,"['um', '...']",1,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,I was...thinking about something from earlier.,"['...', 'thinking', 'something', 'earlier']",7,0.0,0.5,1.0,0
+script-ch2.rpy,Sayori,I like how we get to...,"['like', 'get', '...']",6,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,I-I mean...,"['i-i', 'mean', '...']",3,-0.3125,0.6875,1.0,0
+script-ch2.rpy,Sayori,So...lets just say that one day ch2_winner asked to walk home with you...,"['...', 'lets', 'say', 'one', 'day', 'ch2_winner', 'asked', 'walk', 'home', '...']",14,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,What would you do?,"['would', '?']",4,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,Ehehe...,"['ehehe', '...']",1,0.0,0.0,1.0,2
+script-ch2.rpy,Sayori,Eh?!,"['eh', '?', '!']",1,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,B-But...,"['b-but', '...']",2,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,Shes so cute and fun to be around...,"['shes', 'cute', 'fun', 'around', '...']",8,0.4,0.6,1.0,0
+script-ch2.rpy,Sayori,Shes so beautiful and smart...,"['shes', 'beautiful', 'smart', '...']",5,0.5321428571428571,0.8214285714285714,1.0,0
+script-ch2.rpy,Sayori,Youre so silly player...,"['youre', 'silly', 'player', '...']",4,-0.5,0.875,1.0,4
+script-ch2.rpy,Sayori,You think about me too much sometimes.,"['think', 'much', 'sometimes']",7,0.2,0.2,1.0,0
+script-ch2.rpy,Sayori,ch2_winner would deserve it if she wanted it so...,"['ch2_winner', 'would', 'deserve', 'wanted', '...']",9,0.0,0.0,0.8888888888888888,0
+script-ch2.rpy,Sayori,Sorry...,"['sorry', '...']",1,-0.5,1.0,1.0,0
+script-ch2.rpy,Sayori,Hm...,"['hm', '...']",1,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,Isnt she so cute and fun to be around?,"['isnt', 'cute', 'fun', 'around', '?']",9,0.4,0.6,1.0,0
+script-ch2.rpy,Sayori,Isnt she so beautiful and smart?,"['isnt', 'beautiful', 'smart', '?']",6,0.5321428571428571,0.8214285714285714,1.0,0
+script-ch2.rpy,Sayori,Ahaha! You admitted it!,"['ahaha', '!', 'admitted', '!']",4,0.0,0.0,1.0,1
+script-ch2.rpy,Sayori,Well maybe...,"['well', 'maybe', '...']",2,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,But I just like to think about it.,"['like', 'think']",8,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,Its not long before you wont need me anymore you know?,"['long', 'wont', 'need', 'anymore', 'know', '?']",11,0.025,0.4,0.9090909090909091,0
+script-ch2.rpy,Sayori,Sorry...,"['sorry', '...']",1,-0.5,1.0,1.0,0
+script-ch2.rpy,Sayori,Hmm...,"['hmm', '...']",1,0.0,0.0,1.0,0
+script-ch2.rpy,Sayori,If you say so...,"['say', '...']",4,0.0,0.0,1.0,0
+script-ch3.rpy,Sayori,Eh--?,"['eh', '--', '?']",1,0.0,0.0,1.0,0
+script-ch3.rpy,Sayori,A-Ah...,"['a-ah', '...']",2,0.0,0.0,1.0,0
+script-ch3.rpy,Sayori,Ehehe sorry...,"['ehehe', 'sorry', '...']",2,-0.5,1.0,1.0,2
+script-ch3.rpy,Sayori,Dont mind me.,"['dont', 'mind']",3,0.0,0.0,1.0,0
+script-ch3.rpy,Sayori,You can go talk to everyone else.,"['go', 'talk', 'everyone', 'else']",7,0.0,0.0,1.0,0
+script-ch3.rpy,Sayori,O-Of course!,"['o-of', 'course', '!']",3,0.0,0.0,1.0,0
+script-ch3.rpy,Sayori,Why wouldnt it be?,"['wouldnt', '?']",4,0.0,0.0,1.0,0
+script-ch3.rpy,Sayori,Jeez you worry too much about me.,"['jeez', 'worry', 'much']",7,0.2,0.2,1.0,0
+script-ch3.rpy,Sayori,Im fine see?,"['im', 'fine', 'see', '?']",3,0.4166666666666667,0.5,1.0,0
+script-ch3.rpy,Sayori,Dont let me distract you from having fun with everyone.,"['dont', 'let', 'distract', 'fun', 'everyone']",10,0.3,0.2,1.0,0
+script-ch4.rpy,Sayori,Hi player~,"['hi', 'player~']",2,0.0,0.0,1.0,4
+script-ch4.rpy,Sayori,You havent come over like this in a long time have you?,"['havent', 'come', 'like', 'long', 'time', '?']",12,-0.05,0.4,0.9166666666666666,3
+script-ch4.rpy,Sayori,Ehehe~,['ehehe~'],1,0.0,0.0,1.0,2
+script-ch4.rpy,Sayori,If you came over more often it wouldnt be such a mess.,"['came', 'often', 'wouldnt', 'mess']",12,0.10833333333333334,0.39166666666666666,1.0,0
+script-ch4.rpy,Sayori,How come you suddenly wanted to come over today?,"['come', 'suddenly', 'wanted', 'come', 'today', '?']",9,0.0,0.5,0.8888888888888888,0
+script-ch4.rpy,Sayori,Arent you supposed to see ch4_name today?,"['arent', 'supposed', 'see', 'ch4_name', 'today', '?']",7,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,Monika told me.,"['monika', 'told']",3,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,Its only natural for her to keep me informed about the festival preparations right?,"['natural', 'keep', 'informed', 'festival', 'preparations', 'right', '?']",14,0.12857142857142856,0.6452380952380952,1.0,0
+script-ch4.rpy,Sayori,Of course!,"['course', '!']",2,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,But Im just helping her online.,"['im', 'helping', 'online']",6,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,We didnt plan to meet up or anything.,"['didnt', 'plan', 'meet', 'anything']",8,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,Yep~,['yep~'],1,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,Thats no good player.,"['thats', 'good', 'player']",4,-0.35,0.6000000000000001,1.0,4
+script-ch4.rpy,Sayori,Why cant it just be like its always been?,"['cant', 'like', 'always', '?']",9,0.0,0.0,0.8888888888888888,0
+script-ch4.rpy,Sayori,This is all my fault.,['fault'],5,0.0,0.0,1.0,3
+script-ch4.rpy,Sayori,If I didnt get so weak and accidentally express my feelings...,"['didnt', 'get', 'weak', 'accidentally', 'express', 'feelings', '...']",11,-0.375,0.625,1.0,0
+script-ch4.rpy,Sayori,If I didnt make that stupid mistake...,"['didnt', 'make', 'stupid', 'mistake', '...']",7,-0.7999999999999999,1.0,1.0,3
+script-ch4.rpy,Sayori,Then you wouldnt have been worried about me at all.,"['wouldnt', 'worried']",10,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,You wouldnt have come here.,"['wouldnt', 'come']",5,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,You wouldnt have even been thinking about me right now.,"['wouldnt', 'even', 'thinking', 'right']",10,0.2857142857142857,0.5357142857142857,1.0,0
+script-ch4.rpy,Sayori,But this...is just my punishment isnt it?,"['...', 'punishment', 'isnt', '?']",8,0.0,0.0,1.0,3
+script-ch4.rpy,Sayori,Im getting punished for being so selfish.,"['im', 'getting', 'punished', 'selfish']",7,-0.5,1.0,1.0,0
+script-ch4.rpy,Sayori,I think thats why the world decided to have you come over today.,"['think', 'thats', 'world', 'decided', 'come', 'today']",13,0.0,0.0,1.0,1
+script-ch4.rpy,Sayori,It just wants to torture me.,"['wants', 'torture']",6,0.2,0.1,1.0,0
+script-ch4.rpy,Sayori,Ehehe~,['ehehe~'],1,0.0,0.0,1.0,2
+script-ch4.rpy,Sayori,Ah...,"['ah', '...']",1,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,Ahaha...,"['ahaha', '...']",1,0.0,0.0,1.0,1
+script-ch4.rpy,Sayori,You really put me in a trap player.,"['really', 'put', 'trap', 'player']",8,0.2,0.2,1.0,0
+script-ch4.rpy,Sayori,But...,['...'],1,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,Youre wrong.,"['youre', 'wrong']",2,-0.5,0.9,1.0,0
+script-ch4.rpy,Sayori,Nothing happened to me.,"['nothing', 'happened']",4,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,Ive always been like this.,"['ive', 'always', 'like']",5,0.0,0.0,1.0,3
+script-ch4.rpy,Sayori,Youre just seeing it for the first time.,"['youre', 'seeing', 'first', 'time']",8,0.25,0.3333333333333333,1.0,0
+script-ch4.rpy,Sayori,Ehehe~,['ehehe~'],1,0.0,0.0,1.0,2
+script-ch4.rpy,Sayori,Youre really just going to make me say it arent you player?,"['youre', 'really', 'going', 'make', 'say', 'arent', 'player', '?']",12,0.2,0.2,1.0,0
+script-ch4.rpy,Sayori,I guess I have no choice this time.,"['guess', 'choice', 'time']",8,0.0,0.0,0.875,3
+script-ch4.rpy,Sayori,The thing is...,"['thing', '...']",3,0.0,0.0,1.0,3
+script-ch4.rpy,Sayori,Ive had really bad depression my whole life.,"['ive', 'really', 'bad', 'depression', 'whole', 'life']",8,-0.24999999999999992,0.5333333333333333,1.0,0
+script-ch4.rpy,Sayori,Did you know that?,"['know', '?']",4,0.0,0.0,1.0,3
+script-ch4.rpy,Sayori,Why do you think Im late to school every day?,"['think', 'im', 'late', 'school', 'every', 'day', '?']",10,-0.3,0.6,1.0,0
+script-ch4.rpy,Sayori,Because most days I cant even find a reason to get out of bed.,"['days', 'cant', 'even', 'find', 'reason', 'get', 'bed']",14,0.5,0.5,1.0,0
+script-ch4.rpy,Sayori,What reason is there to do anything when I fully know how worthless I am?,"['reason', 'anything', 'fully', 'know', 'worthless', '?']",15,-0.8,0.9,0.8666666666666667,0
+script-ch4.rpy,Sayori,Why go to school?,"['go', 'school', '?']",4,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,Why eat?,"['eat', '?']",2,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,Why make friends?,"['make', 'friends', '?']",3,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,Why make other people put their energy and caring to waste by having them spend it on me?,"['make', 'people', 'put', 'energy', 'caring', 'waste', 'spend', '?']",18,-0.1625,0.1875,1.0,0
+script-ch4.rpy,Sayori,Thats what it feels like.,"['thats', 'feels', 'like']",5,0.0,0.0,1.0,1
+script-ch4.rpy,Sayori,And thats why I just want to make everyone happy...,"['thats', 'want', 'make', 'everyone', 'happy', '...']",10,0.8,1.0,1.0,1
+script-ch4.rpy,Sayori,Without anyone worrying about me.,"['without', 'anyone', 'worrying']",5,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,Eh...?,"['eh', '...', '?']",1,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,You dont understand at all player.,"['dont', 'understand', 'player']",6,0.0,0.0,1.0,4
+script-ch4.rpy,Sayori,Why do you think I didnt tell you?,"['think', 'didnt', 'tell', '?']",8,0.0,0.0,0.875,0
+script-ch4.rpy,Sayori,Because if I told you then you would have to waste effort caring about me instead of doing important things.,"['told', 'would', 'waste', 'effort', 'caring', 'instead', 'important', 'things']",20,0.1,0.5,0.95,0
+script-ch4.rpy,Sayori,I dont want to be cared about.,"['dont', 'want', 'cared']",7,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,Its bittersweet when people try to care about me.,"['bittersweet', 'people', 'try', 'care']",9,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,It feels nice sometimes.,"['feels', 'nice', 'sometimes']",4,0.6,1.0,1.0,0
+script-ch4.rpy,Sayori,But it also feels like a bat being swung against my head.,"['also', 'feels', 'like', 'bat', 'swung', 'head']",12,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,Ahaha~,['ahaha~'],1,0.0,0.0,1.0,1
+script-ch4.rpy,Sayori,Thats why I wanted so badly for you to make friends with everyone else...,"['thats', 'wanted', 'badly', 'make', 'friends', 'everyone', 'else', '...']",14,-0.6999999999999998,0.6666666666666666,1.0,1
+script-ch4.rpy,Sayori,Helping everyone be happy together is the best thing for me.,"['helping', 'everyone', 'happy', 'together', 'best', 'thing']",11,0.9,0.65,0.9090909090909091,0
+script-ch4.rpy,Sayori,But then I discovered something else too.,"['discovered', 'something', 'else']",7,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,Seeing you make friends and get closer with everyone in the club...,"['seeing', 'make', 'friends', 'get', 'closer', 'everyone', 'club', '...']",12,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,It feels like a spear going through my heart.,"['feels', 'like', 'spear', 'going', 'heart']",9,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,So thats why.,['thats'],3,0.0,0.0,1.0,1
+script-ch4.rpy,Sayori,Thats why I decided the world just wants to torture me.,"['thats', 'decided', 'world', 'wants', 'torture']",11,0.2,0.1,1.0,1
+script-ch4.rpy,Sayori,Every path leads to nothing but hurt.,"['every', 'path', 'leads', 'nothing', 'hurt']",7,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,Ahaha~,['ahaha~'],1,0.0,0.0,1.0,1
+script-ch4.rpy,Sayori,No player.,['player'],2,0.0,0.0,1.0,4
+script-ch4.rpy,Sayori,Theres nothing.,"['theres', 'nothing']",2,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,Nothing at all.,['nothing'],3,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,The only thing that could have helped is if everything could be like it always was.,"['thing', 'could', 'helped', 'everything', 'could', 'like', 'always']",16,0.0,1.0,0.8125,3
+script-ch4.rpy,Sayori,But I was selfish.,['selfish'],4,-0.5,1.0,1.0,0
+script-ch4.rpy,Sayori,I finally showed you what a horrible person I am.,"['finally', 'showed', 'horrible', 'person']",10,-0.5,1.0,0.9,0
+script-ch4.rpy,Sayori,I made you join the literature club because I was selfish.,"['made', 'join', 'literature', 'club', 'selfish']",11,-0.5,1.0,0.9090909090909091,0
+script-ch4.rpy,Sayori,And I was punished by my heart hurting in a way that I couldnt understand.,"['punished', 'heart', 'hurting', 'way', 'couldnt', 'understand']",15,0.0,0.0,0.9333333333333333,3
+script-ch4.rpy,Sayori,And now you came here and I made you hurt too.,"['came', 'made', 'hurt']",11,0.0,0.0,0.8181818181818182,0
+script-ch4.rpy,Sayori,Im just weak and selfish.,"['im', 'weak', 'selfish']",5,-0.4375,0.8125,1.0,0
+script-ch4.rpy,Sayori,Thats all I am.,['thats'],4,0.0,0.0,1.0,1
+script-ch4.rpy,Sayori,And thats why Im going to accept these punishments.,"['thats', 'im', 'going', 'accept', 'punishments']",9,0.0,0.0,1.0,1
+script-ch4.rpy,Sayori,Because I deserve every last one...!,"['deserve', 'every', 'last', 'one', '...', '!']",6,0.0,0.06666666666666667,1.0,0
+script-ch4.rpy,Sayori,A-Ah--,"['a-ah', '--']",2,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,player...,"['player', '...']",1,0.0,0.0,1.0,4
+script-ch4.rpy,Sayori,player...,"['player', '...']",1,0.0,0.0,1.0,4
+script-ch4.rpy,Sayori,No...,['...'],1,0.0,0.0,1.0,3
+script-ch4.rpy,Sayori,Dont do this...to me...,"['dont', '...', '...']",5,0.0,0.0,1.0,3
+script-ch4.rpy,Sayori,Please dont do this...,"['please', 'dont', '...']",4,0.0,0.0,1.0,3
+script-ch4.rpy,Sayori,player...,"['player', '...']",1,0.0,0.0,1.0,4
+script-ch4.rpy,Sayori,I...,['...'],1,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,...,['...'],0,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,I...dont know...,"['...', 'dont', 'know', '...']",3,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,I dont know...,"['dont', 'know', '...']",3,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,I dont know.,"['dont', 'know']",3,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,I dont know anything.,"['dont', 'know', 'anything']",4,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,Its all really scary...,"['really', 'scary', '...']",4,-0.5,1.0,1.0,0
+script-ch4.rpy,Sayori,I dont understand any of my feelings player...,"['dont', 'understand', 'feelings', 'player', '...']",8,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,The only time Im not feeling nothing is when Im feeling pain.,"['time', 'im', 'feeling', 'nothing', 'im', 'feeling', 'pain']",12,0.0,1.0,0.8333333333333334,0
+script-ch4.rpy,Sayori,But...,['...'],1,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,Your hugs are so warm...,"['hugs', 'warm', '...']",5,0.6,0.6,1.0,0
+script-ch4.rpy,Sayori,...And thats really scary too.,"['...', 'thats', 'really', 'scary']",5,-0.5,1.0,1.0,1
+script-ch4.rpy,Sayori,Yeah...,"['yeah', '...']",1,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,Yeah.,['yeah'],1,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,U-Um...,"['u-um', '...']",2,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,Ah--,"['ah', '--']",1,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,I...,['...'],1,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,I think that would be nice then...,"['think', 'would', 'nice', '...']",7,0.6,1.0,1.0,3
+script-ch4.rpy,Sayori,No dont--!,"['dont', '--', '!']",2,0.0,0.0,1.0,3
+script-ch4.rpy,Sayori,Please dont...,"['please', 'dont', '...']",2,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,If you did that...then I really wouldnt forgive you.,"['...', 'really', 'wouldnt', 'forgive']",10,0.2,0.2,0.8888888888888888,3
+script-ch4.rpy,Sayori,Im sorry.,"['im', 'sorry']",2,-0.5,1.0,1.0,0
+script-ch4.rpy,Sayori,I dont know if that would be very good for me today.,"['dont', 'know', 'would', 'good', 'today']",12,0.9099999999999999,0.7800000000000001,1.0,3
+script-ch4.rpy,Sayori,You understand right?,"['understand', 'right', '?']",3,0.2857142857142857,0.5357142857142857,1.0,0
+script-ch4.rpy,Sayori,Its okay.,['okay'],2,0.5,0.5,1.0,0
+script-ch4.rpy,Sayori,Dont worry too much about it.,"['dont', 'worry', 'much']",6,0.2,0.2,1.0,0
+script-ch4.rpy,Sayori,Ill see you tomorrow okay?,"['ill', 'see', 'tomorrow', 'okay', '?']",5,0.0,0.75,1.0,0
+script-ch4.rpy,Sayori,Ah...,"['ah', '...']",1,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,H-Hi player...,"['h-hi', 'player', '...']",3,0.0,0.0,1.0,4
+script-ch4.rpy,Sayori,Ehehe~,['ehehe~'],1,0.0,0.0,1.0,2
+script-ch4.rpy,Sayori,Its okay player.,"['okay', 'player']",3,0.5,0.5,1.0,4
+script-ch4.rpy,Sayori,I just stopped by to say hi~,"['stopped', 'say', 'hi~']",7,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,Aw really?,"['aw', 'really', '?']",2,0.2,0.2,1.0,0
+script-ch4.rpy,Sayori,Thats too bad...,"['thats', 'bad', '...']",3,-0.6999999999999998,0.6666666666666666,1.0,1
+script-ch4.rpy,Sayori,Ah...,"['ah', '...']",1,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,H-Hi player...,"['h-hi', 'player', '...']",3,0.0,0.0,1.0,4
+script-ch4.rpy,Sayori,Ehehe~,['ehehe~'],1,0.0,0.0,1.0,2
+script-ch4.rpy,Sayori,Its okay player.,"['okay', 'player']",3,0.5,0.5,1.0,4
+script-ch4.rpy,Sayori,I just stopped by to say hi~,"['stopped', 'say', 'hi~']",7,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,Aw really?,"['aw', 'really', '?']",2,0.2,0.2,1.0,0
+script-ch4.rpy,Sayori,Thats too bad...,"['thats', 'bad', '...']",3,-0.6999999999999998,0.6666666666666666,1.0,1
+script-ch4.rpy,Sayori,Of course!,"['course', '!']",2,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,Ahaha well...,"['ahaha', 'well', '...']",2,0.0,0.0,1.0,1
+script-ch4.rpy,Sayori,I tried staying in my room...,"['tried', 'staying', 'room', '...']",6,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,But my imagination was being really mean to me...,"['imagination', 'really', 'mean', '...']",9,-0.3125,0.6875,1.0,0
+script-ch4.rpy,Sayori,So I had to come here and see it for myself.,"['come', 'see']",11,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,You know...,"['know', '...']",2,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,How much fun you were having with ch4_name.,"['much', 'fun', 'ch4_name']",8,0.3,0.2,1.0,0
+script-ch4.rpy,Sayori,And how close you got to her.,"['close', 'got']",7,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,It makes me...really happy...,"['makes', '...', 'really', 'happy', '...']",5,0.8,1.0,1.0,0
+script-ch4.rpy,Sayori,That youve made such good friends.,"['youve', 'made', 'good', 'friends']",6,0.35,0.55,1.0,3
+script-ch4.rpy,Sayori,Thats all that matters to me.,"['thats', 'matters']",6,0.0,0.0,1.0,1
+script-ch4.rpy,Sayori,Thats all that matters to me--!,"['thats', 'matters', '--', '!']",6,0.0,0.0,1.0,1
+script-ch4.rpy,Sayori,Why am I feeling this way player?,"['feeling', 'way', 'player', '?']",7,0.0,0.0,1.0,3
+script-ch4.rpy,Sayori,Im supposed to be happy for you.,"['im', 'supposed', 'happy']",7,0.8,1.0,1.0,0
+script-ch4.rpy,Sayori,Why does it feel like my heart is splitting in half?,"['feel', 'like', 'heart', 'splitting', 'half', '?']",11,-0.16666666666666666,0.16666666666666666,1.0,0
+script-ch4.rpy,Sayori,It hurts so much...,"['hurts', 'much', '...']",4,0.2,0.2,1.0,0
+script-ch4.rpy,Sayori,Everything hurts so much...,"['everything', 'hurts', 'much', '...']",4,0.2,0.2,1.0,0
+script-ch4.rpy,Sayori,This would be so much better if I could just disappear!,"['would', 'much', 'better', 'could', 'disappear', '!']",11,0.625,0.5,1.0,3
+script-ch4.rpy,Sayori,Its true player!,"['true', 'player', '!']",3,0.4375,0.65,1.0,4
+script-ch4.rpy,Sayori,If I wasnt here then you wouldnt have to waste your sympathy on me!,"['wasnt', 'wouldnt', 'waste', 'sympathy', '!']",14,-0.25,0.0,1.0,0
+script-ch4.rpy,Sayori,You wouldnt have to put up with me being selfish!,"['wouldnt', 'put', 'selfish', '!']",10,-0.625,1.0,1.0,0
+script-ch4.rpy,Sayori,Monika was right...,"['monika', 'right', '...']",3,0.2857142857142857,0.5357142857142857,1.0,0
+script-ch4.rpy,Sayori,I should just...,['...'],3,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,...,['...'],0,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,B-But...,"['b-but', '...']",2,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,Im scared player...,"['im', 'scared', 'player', '...']",3,0.0,0.0,1.0,4
+script-ch4.rpy,Sayori,Im really scared...,"['im', 'really', 'scared', '...']",3,0.2,0.2,1.0,0
+script-ch4.rpy,Sayori,Im scared that...,"['im', 'scared', '...']",3,0.0,0.0,1.0,3
+script-ch4.rpy,Sayori,That I might like you more than you like me...,"['might', 'like', 'like', '...']",10,0.5,0.5,0.8,3
+script-ch4.rpy,Sayori,Its true isnt it?,"['true', 'isnt', '?']",4,0.35,0.65,1.0,0
+script-ch4.rpy,Sayori,I was weak and started to like you too much...,"['weak', 'started', 'like', 'much', '...']",10,-0.0875,0.4125,1.0,0
+script-ch4.rpy,Sayori,I did this to myself.,[],5,0.0,0.0,1.0,3
+script-ch4.rpy,Sayori,player...,"['player', '...']",1,0.0,0.0,1.0,4
+script-ch4.rpy,Sayori,I like you so much that I want to die!,"['like', 'much', 'want', 'die', '!']",10,0.25,0.2,0.9,3
+script-ch4.rpy,Sayori,Thats how I feel!,"['thats', 'feel', '!']",4,0.0,0.0,1.0,1
+script-ch4.rpy,Sayori,And...and...,"['...', '...']",2,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,Eh--?,"['eh', '--', '?']",1,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,player...,"['player', '...']",1,0.0,0.0,1.0,4
+script-ch4.rpy,Sayori,player...,"['player', '...']",1,0.0,0.0,1.0,4
+script-ch4.rpy,Sayori,Is this...really okay?,"['...', 'really', 'okay', '?']",4,0.5,0.5,1.0,3
+script-ch4.rpy,Sayori,I love you player...,"['love', 'player', '...']",4,0.5,0.6,1.0,4
+script-ch4.rpy,Sayori,I want to be with you forever.,"['want', 'forever']",7,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,...,['...'],0,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,What is this...?,"['...', '?']",3,0.0,0.0,1.0,3
+script-ch4.rpy,Sayori,Im supposed to be happy right now...,"['im', 'supposed', 'happy', 'right', '...']",7,0.5428571428571429,0.7678571428571428,1.0,0
+script-ch4.rpy,Sayori,I always thought this would be the happiest moment for me.,"['always', 'thought', 'would', 'happiest', 'moment']",11,0.0,0.0,1.0,3
+script-ch4.rpy,Sayori,But why...?,"['...', '?']",2,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,Even now...,"['even', '...']",2,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,Why wont the rainclouds go away?,"['wont', 'rainclouds', 'go', 'away', '?']",6,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,Theyre not going away at all player...,"['theyre', 'going', 'away', 'player', '...']",7,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,O-Okay...,"['o-okay', '...']",2,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,I...trust you...,"['...', 'trust', '...']",3,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,Ehehe...,"['ehehe', '...']",1,0.0,0.0,1.0,2
+script-ch4.rpy,Sayori,What are you saying?,"['saying', '?']",4,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,I dont want to think about those things you know?,"['dont', 'want', 'think', 'things', 'know', '?']",10,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,I want everything to be the same as it always has been.,"['want', 'everything', 'always']",12,0.0,0.125,0.9166666666666666,0
+script-ch4.rpy,Sayori,Even if we really are...a couple.,"['even', 'really', '...', 'couple']",7,0.2,0.2,1.0,0
+script-ch4.rpy,Sayori,I dont know if I could handle anything more right now...,"['dont', 'know', 'could', 'handle', 'anything', 'right', '...']",11,0.39285714285714285,0.5178571428571428,0.9090909090909091,0
+script-ch4.rpy,Sayori,Its really new and scary to me.,"['really', 'new', 'scary']",7,-0.18181818181818182,0.7272727272727273,1.0,0
+script-ch4.rpy,Sayori,Hey player...,"['hey', 'player', '...']",2,0.0,0.0,1.0,4
+script-ch4.rpy,Sayori,Even if I get really really sad...,"['even', 'get', 'really', 'really', 'sad', '...']",7,-0.5,1.0,0.8571428571428571,0
+script-ch4.rpy,Sayori,This is the best thing for me...right?,"['best', 'thing', '...', 'right', '?']",8,1.0,0.3,1.0,3
+script-ch4.rpy,Sayori,I-I dont know...,"['i-i', 'dont', 'know', '...']",4,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,I dont understand what Im feeling.,"['dont', 'understand', 'im', 'feeling']",6,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,It felt like a bunch of thorns when you told me you love me...,"['felt', 'like', 'bunch', 'thorns', 'told', 'love', '...']",14,0.5,0.6,0.8571428571428571,0
+script-ch4.rpy,Sayori,But thats why I want to trust you.,"['thats', 'want', 'trust']",8,0.0,0.0,1.0,1
+script-ch4.rpy,Sayori,You know whats best for me...,"['know', 'whats', 'best', '...']",6,1.0,0.3,1.0,0
+script-ch4.rpy,Sayori,I...,['...'],1,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,I...see...,"['...', 'see', '...']",2,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,Ahaha...,"['ahaha', '...']",1,0.0,0.0,1.0,1
+script-ch4.rpy,Sayori,Is this what it feels like...to get stabbed in the chest?,"['feels', 'like', '...', 'get', 'stabbed', 'chest', '?']",12,0.0,0.0,1.0,3
+script-ch4.rpy,Sayori,I should write a poem about this...,"['write', 'poem', '...']",7,0.0,0.0,1.0,3
+script-ch4.rpy,Sayori,Its okay.,['okay'],2,0.5,0.5,1.0,0
+script-ch4.rpy,Sayori,This is just my punishment...remember?,"['punishment', '...', 'remember', '?']",6,0.0,0.0,1.0,3
+script-ch4.rpy,Sayori,For being so selfish...,"['selfish', '...']",4,-0.5,1.0,1.0,0
+script-ch4.rpy,Sayori,So please...,"['please', '...']",2,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,Please dont worry about these stupid feelings.,"['please', 'dont', 'worry', 'stupid', 'feelings']",7,-0.7999999999999999,1.0,1.0,0
+script-ch4.rpy,Sayori,I know youre right.,"['know', 'youre', 'right']",4,0.2857142857142857,0.5357142857142857,1.0,0
+script-ch4.rpy,Sayori,I knew this whole time that theres no happiness down that path.,"['knew', 'whole', 'time', 'theres', 'happiness', 'path']",12,-0.10185185185185186,0.29629629629629634,0.9166666666666666,3
+script-ch4.rpy,Sayori,Thats why I came here...,"['thats', 'came', '...']",5,0.0,0.0,1.0,1
+script-ch4.rpy,Sayori,Just so I could get the answer I needed to hear.,"['could', 'get', 'answer', 'needed', 'hear']",11,0.0,0.0,0.9090909090909091,0
+script-ch4.rpy,Sayori,And the other thing...,"['thing', '...']",4,-0.125,0.375,1.0,0
+script-ch4.rpy,Sayori,Youre also right that I just want it to go back to the way it was.,"['youre', 'also', 'right', 'want', 'go', 'back', 'way']",16,0.14285714285714285,0.26785714285714285,0.875,0
+script-ch4.rpy,Sayori,I realize that now.,['realize'],4,0.0,0.0,1.0,3
+script-ch4.rpy,Sayori,You really do know me better than anyone player.,"['really', 'know', 'better', 'anyone', 'player']",9,0.35,0.35,1.0,0
+script-ch4.rpy,Sayori,Ill trust you with anything...,"['ill', 'trust', 'anything', '...']",5,-0.5,1.0,1.0,0
+script-ch4.rpy,Sayori,Anything at all...,"['anything', '...']",3,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,So...,['...'],1,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,iAAAAAaaaaAAAAAAAAHH!!!!/i,"['iaaaaaaaaaaaaaaaaahh', '!', '!', '!', '!', '/i']",2,0.0,0.0,1.0,0
+script-ch4.rpy,Sayori,...,['...'],0,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,Hey player...,"['hey', 'player', '...']",2,0.0,0.0,1.0,4
+script-ch40.rpy,Sayori,player are you proud of me?,"['player', 'proud', '?']",6,0.8,1.0,1.0,0
+script-ch40.rpy,Sayori,You know...,"['know', '...']",2,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,For waking up on time!,"['waking', 'time', '!']",5,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,Uh-huh!,"['uh-huh', '!']",2,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,But you never even said anything about it!,"['never', 'even', 'said', 'anything', '!']",8,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,Even though we walk to school together every day...,"['even', 'though', 'walk', 'school', 'together', 'every', 'day', '...']",9,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,Cmon please?,"['cmon', 'please', '?']",2,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,Its good motivation~,"['good', 'motivation~']",3,0.7,0.6000000000000001,1.0,0
+script-ch40.rpy,Sayori,Ehehe~,['ehehe~'],1,0.0,0.0,1.0,2
+script-ch40.rpy,Sayori,By the way player...,"['way', 'player', '...']",4,0.0,0.0,1.0,4
+script-ch40.rpy,Sayori,Have you decided on a club to join yet?,"['decided', 'club', 'join', 'yet', '?']",9,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,Really?!,"['really', '?', '!']",1,0.25,0.2,1.0,0
+script-ch40.rpy,Sayori,Which one? Tell me!,"['one', '?', 'tell', '!']",4,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,Boo...,"['boo', '...']",1,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,You meanie.,['meanie'],2,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,Ah!,"['ah', '!']",1,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,player...?!,"['player', '...', '?', '!']",1,0.0,0.0,1.0,4
+script-ch40.rpy,Sayori,W-What are you doing here?,"['w-what', '?']",6,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,W-Working...?,"['w-working', '...', '?']",2,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,player dont tell me...,"['player', 'dont', 'tell', '...']",4,0.0,0.0,1.0,4
+script-ch40.rpy,Sayori,Youre...,"['youre', '...']",1,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,...No way.,"['...', 'way']",2,0.0,0.0,1.0,3
+script-ch40.rpy,Sayori,No way!,"['way', '!']",2,0.0,0.0,1.0,3
+script-ch40.rpy,Sayori,Aaaahhhhhh!,"['aaaahhhhhh', '!']",1,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,I dont know what to say!,"['dont', 'know', 'say', '!']",6,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,We have to celebrate!,"['celebrate', '!']",4,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,Yeah!,"['yeah', '!']",1,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,After all Natsuki decided to--,"['natsuki', 'decided', '--']",5,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,Ehehe sorry...,"['ehehe', 'sorry', '...']",2,-0.5,1.0,1.0,2
+script-ch40.rpy,Sayori,Uwooooah!,"['uwooooah', '!']",1,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,So cuuuute~!,"['cuuuute~', '!']",2,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,Its delicious!,"['delicious', '!']",2,1.0,1.0,1.0,0
+script-ch40.rpy,Sayori,M-Maybe--,"['m-maybe', '--']",2,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,Maybe we can all try something new!,"['maybe', 'try', 'something', 'new', '!']",7,0.17045454545454544,0.45454545454545453,1.0,0
+script-ch40.rpy,Sayori,I think it could be fun...,"['think', 'could', 'fun', '...']",6,0.3,0.2,1.0,0
+script-ch40.rpy,Sayori,And well all get to know each other a little bit better too!,"['well', 'get', 'know', 'little', 'bit', 'better', '!']",13,0.10416666666666667,0.4583333333333333,1.0,0
+script-ch40.rpy,Sayori,I mean...,"['mean', '...']",2,-0.3125,0.6875,1.0,0
+script-ch40.rpy,Sayori,thats the kind of thing literature clubs do...right?,"['thats', 'kind', 'thing', 'literature', 'clubs', '...', 'right', '?']",9,0.6,0.9,1.0,1
+script-ch40.rpy,Sayori,Ehehe~,['ehehe~'],1,0.0,0.0,1.0,2
+script-ch40.rpy,Sayori,This is so cute~!,"['cute~', '!']",4,0.625,1.0,1.0,3
+script-ch40.rpy,Sayori,Ehehe~,['ehehe~'],1,0.0,0.0,1.0,2
+script-ch40.rpy,Sayori,I guess the meetings over huh?,"['guess', 'meetings', 'huh', '?']",6,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,Isnt it?,"['isnt', '?']",2,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,I think everyone likes you too player.,"['think', 'everyone', 'likes', 'player']",7,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,Aww player~,"['aww', 'player~']",2,0.3,0.9,1.0,4
+script-ch40.rpy,Sayori,Dont say something like that its embarrassing!,"['dont', 'say', 'something', 'like', 'embarrassing', '!']",7,0.0,0.0,1.0,3
+script-ch40.rpy,Sayori,Were gonna make it the best club ever!,"['gon', 'na', 'make', 'best', 'club', 'ever', '!']",8,1.0,0.3,1.0,0
+script-ch40.rpy,Sayori,Now that you joined every day is gonna be so much fun.,"['joined', 'every', 'day', 'gon', 'na', 'much', 'fun']",12,0.3,0.2,0.9166666666666666,3
+script-ch40.rpy,Sayori,Hey player...,"['hey', 'player', '...']",2,0.0,0.0,1.0,4
+script-ch40.rpy,Sayori,I really want to thank you.,"['really', 'want', 'thank']",6,0.2,0.2,1.0,0
+script-ch40.rpy,Sayori,I mean Im really happy that you joined the club and everything...,"['mean', 'im', 'really', 'happy', 'joined', 'club', 'everything', '...']",12,0.24375000000000002,0.84375,1.0,3
+script-ch40.rpy,Sayori,But the truth is I already knew you were going to.,"['truth', 'already', 'knew', 'going']",11,0.0,0.0,0.9090909090909091,0
+script-ch40.rpy,Sayori,Ehehe~,['ehehe~'],1,0.0,0.0,1.0,2
+script-ch40.rpy,Sayori,Theres actually something else.,"['theres', 'actually', 'something', 'else']",4,0.0,0.1,1.0,0
+script-ch40.rpy,Sayori,I wanted to thank you for getting rid of Monika.,"['wanted', 'thank', 'getting', 'rid', 'monika']",10,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,Thats right...,"['thats', 'right', '...']",2,0.2857142857142857,0.5357142857142857,1.0,1
+script-ch40.rpy,Sayori,I know everything that she did.,"['know', 'everything']",6,0.0,0.0,1.0,3
+script-ch40.rpy,Sayori,Maybe its because Im the President now.,"['maybe', 'im', 'president']",7,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,But I really know everything player.,"['really', 'know', 'everything', 'player']",6,0.2,0.2,1.0,4
+script-ch40.rpy,Sayori,Ehehe~,['ehehe~'],1,0.0,0.0,1.0,2
+script-ch40.rpy,Sayori,I know how hard you tried to make everyone happy.,"['know', 'hard', 'tried', 'make', 'everyone', 'happy']",10,0.25416666666666665,0.7708333333333333,1.0,0
+script-ch40.rpy,Sayori,I know about all of the awful things that Monika did to make everyone really sad...,"['know', 'awful', 'things', 'monika', 'make', 'everyone', 'really', 'sad', '...']",16,-0.75,1.0,1.0,0
+script-ch40.rpy,Sayori,But none of that matters anymore.,"['none', 'matters', 'anymore']",6,0.0,0.0,1.0,3
+script-ch40.rpy,Sayori,Its just us now.nw,"['us', 'now.nw']",5,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,Its just us now.fast,"['us', 'now.fast']",5,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,And you made me the happiest girl in the whole world.,"['made', 'happiest', 'girl', 'whole', 'world']",11,0.2,0.4,0.9090909090909091,0
+script-ch40.rpy,Sayori,I cant wait to spend every day like this...,"['cant', 'wait', 'spend', 'every', 'day', 'like', '...']",9,0.0,0.0,1.0,3
+script-ch40.rpy,Sayori,With you.,[],2,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,Forever and ever...,"['forever', 'ever', '...']",3,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,F,['f'],1,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,o,[],1,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,r,['r'],1,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,e,['e'],1,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,v,['v'],1,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,e,['e'],1,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,...Eh?,"['...', 'eh', '?']",1,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,W-Whats happening...?,"['w-whats', 'happening', '...', '?']",3,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,Who...,['...'],1,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,I-It hurts--,"['i-it', 'hurts', '--']",3,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,Ah--,"['ah', '--']",1,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,gtextnw,['gtextnw'],1,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,I wanted to thank you for spending so much time with us all.,"['wanted', 'thank', 'spending', 'much', 'time', 'us']",13,0.2,0.2,1.0,0
+script-ch40.rpy,Sayori,You worked so hard to make each and every one of us happy.,"['worked', 'hard', 'make', 'every', 'one', 'us', 'happy']",13,0.25416666666666665,0.7708333333333333,1.0,0
+script-ch40.rpy,Sayori,You comforted us through our hard times.,"['comforted', 'us', 'hard', 'times']",7,-0.2916666666666667,0.5416666666666666,1.0,0
+script-ch40.rpy,Sayori,And you helped us all get along with each other.,"['helped', 'us', 'get', 'along']",10,-0.125,0.375,1.0,0
+script-ch40.rpy,Sayori,Do you get it player?,"['get', 'player', '?']",5,0.0,0.0,1.0,4
+script-ch40.rpy,Sayori,Because Im President now I understand everything.,"['im', 'president', 'understand', 'everything']",7,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,You really didnt want to miss a single thing in this game did you?,"['really', 'didnt', 'want', 'miss', 'single', 'thing', 'game', '?']",14,-0.09047619047619049,0.2714285714285714,0.9285714285714286,3
+script-ch40.rpy,Sayori,You saved and loaded so many times just to make sure you could spend time with everyone.,"['saved', 'loaded', 'many', 'times', 'make', 'sure', 'could', 'spend', 'time', 'everyone']",17,0.5,0.6944444444444444,0.8823529411764706,0
+script-ch40.rpy,Sayori,Only someone who truly cares about the Literature Club would go that far.,"['someone', 'truly', 'cares', 'literature', 'club', 'would', 'go', 'far']",13,0.05,1.0,1.0,3
+script-ch40.rpy,Sayori,But...,['...'],1,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,All along thats all I ever wanted.,"['along', 'thats', 'ever', 'wanted']",7,0.0,0.0,0.8571428571428571,1
+script-ch40.rpy,Sayori,For everyone to be happy and care about each other.,"['everyone', 'happy', 'care']",10,0.3375,0.6875,1.0,0
+script-ch40.rpy,Sayori,Ahaha...,"['ahaha', '...']",1,0.0,0.0,1.0,1
+script-ch40.rpy,Sayori,Its kind of sad you know?,"['kind', 'sad', 'know', '?']",6,0.04999999999999999,0.95,1.0,0
+script-ch40.rpy,Sayori,After all youve done for us there isnt much I can do for you in return.,"['youve', 'done', 'us', 'isnt', 'much', 'return']",16,0.2,0.2,0.875,0
+script-ch40.rpy,Sayori,Weve already reached the end of the game.,"['weve', 'already', 'reached', 'end', 'game']",8,-0.4,0.4,0.875,0
+script-ch40.rpy,Sayori,So...,['...'],1,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,This is where we say goodbye.,"['say', 'goodbye']",6,0.0,0.0,1.0,3
+script-ch40.rpy,Sayori,Thank you for playing iDoki Doki Literature Club/i.,"['thank', 'playing', 'idoki', 'doki', 'literature', 'club/i']",9,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,Im going to miss you player.,"['im', 'going', 'miss', 'player']",6,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,Come visit sometime okay?,"['come', 'visit', 'sometime', 'okay', '?']",4,0.5,0.5,1.0,0
+script-ch40.rpy,Sayori,Well always be here for you.,"['well', 'always']",6,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,We...,['...'],1,0.0,0.0,1.0,0
+script-ch40.rpy,Sayori,We all love you.,['love'],4,0.5,0.6,1.0,0
+script-exclusives-sayori.rpy,Sayori,Were probably gonna seem really lame compared to all the other clubs though...,"['probably', 'gon', 'na', 'seem', 'really', 'lame', 'compared', 'clubs', 'though', '...']",13,-0.3125,0.5625,1.0,0
+script-exclusives-sayori.rpy,Sayori,Mmmmmmmmmmm.....,"['mmmmmmmmmmm', '.....']",1,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,That doesnt solve the problem though!,"['doesnt', 'solve', 'problem', 'though', '!']",6,0.0,0.0,1.0,3
+script-exclusives-sayori.rpy,Sayori,Even if we come up with the most fun thing ever...,"['even', 'come', 'fun', 'thing', 'ever', '...']",11,0.4,0.35,1.0,0
+script-exclusives-sayori.rpy,Sayori,Nobody will come in the first place if its a literature event.,"['nobody', 'come', 'first', 'place', 'literature', 'event']",12,0.25,0.3333333333333333,1.0,0
+script-exclusives-sayori.rpy,Sayori,So its more important to figure out how to get people to show up in the first place you know?,"['important', 'figure', 'get', 'people', 'show', 'first', 'place', 'know', '?']",20,0.3833333333333333,0.611111111111111,0.9,0
+script-exclusives-sayori.rpy,Sayori,And after they come we can do the thing to speak to their creative minds.,"['come', 'thing', 'speak', 'creative', 'minds']",15,0.5,1.0,0.9333333333333333,0
+script-exclusives-sayori.rpy,Sayori,W-What kind?!,"['w-what', 'kind', '?', '!']",3,0.75,0.9,1.0,0
+script-exclusives-sayori.rpy,Sayori,Cupcakes!,"['cupcakes', '!']",1,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Ah! Youre right!,"['ah', '!', 'youre', 'right', '!']",3,0.3571428571428571,0.5357142857142857,1.0,0
+script-exclusives-sayori.rpy,Sayori,Natsuki makes the best cupcakes!,"['natsuki', 'makes', 'best', 'cupcakes', '!']",5,1.0,0.3,1.0,0
+script-exclusives-sayori.rpy,Sayori,That works out perfectly~,"['works', 'perfectly~']",4,1.0,1.0,1.0,3
+script-exclusives-sayori.rpy,Sayori,Cupcakes speak to my creative tummy~,"['cupcakes', 'speak', 'creative', 'tummy~']",6,0.5,1.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Im hungry...,"['im', 'hungry', '...']",2,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Ehehe sorry~,"['ehehe', 'sorry~']",2,-0.5,1.0,1.0,2
+script-exclusives-sayori.rpy,Sayori,Wait!,"['wait', '!']",1,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Actually Im not sorry at all!,"['actually', 'im', 'sorry', '!']",6,0.3125,1.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Its your fault for sleeping like that!,"['fault', 'sleeping', 'like', '!']",7,0.0,0.0,1.0,3
+script-exclusives-sayori.rpy,Sayori,This isnt the napping club!,"['isnt', 'napping', 'club', '!']",5,0.0,0.0,1.0,3
+script-exclusives-sayori.rpy,Sayori,Youre staying up late again arent you?,"['youre', 'staying', 'late', 'arent', '?']",7,-0.3,0.6,1.0,0
+script-exclusives-sayori.rpy,Sayori,Now that youre in a club youre gonna have less time for anime you know!,"['youre', 'club', 'youre', 'gon', 'na', 'less', 'time', 'anime', 'know', '!']",15,-0.20833333333333331,0.06666666666666667,0.9333333333333333,3
+script-exclusives-sayori.rpy,Sayori,Youll need to get used to it!,"['youll', 'need', 'get', 'used', '!']",7,0.0,0.0,0.8571428571428571,0
+script-exclusives-sayori.rpy,Sayori,Its true though...,"['true', 'though', '...']",3,0.35,0.65,1.0,0
+script-exclusives-sayori.rpy,Sayori,Ehehe~,['ehehe~'],1,0.0,0.0,1.0,2
+script-exclusives-sayori.rpy,Sayori,Its what I do best!,"['best', '!']",5,1.0,0.3,1.0,0
+script-exclusives-sayori.rpy,Sayori,Eh?,"['eh', '?']",1,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,N-Not every day!,"['n-not', 'every', 'day', '!']",4,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Thats...,"['thats', '...']",1,0.0,0.0,1.0,1
+script-exclusives-sayori.rpy,Sayori,...Its a secret!,"['...', 'secret', '!']",3,-0.5,0.7,1.0,0
+script-exclusives-sayori.rpy,Sayori,Cmonnnn!,"['cmonnnn', '!']",1,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,At least give me the benefit of the doubt...,"['least', 'give', 'benefit', 'doubt', '...']",9,-0.3,0.4,0.8888888888888888,0
+script-exclusives-sayori.rpy,Sayori,Eh...?,"['eh', '...', '?']",1,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,How is it written all over me?,"['written', '?']",7,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Ah--,"['ah', '--']",1,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,My hair is just really hard to get right...,"['hair', 'really', 'hard', 'get', 'right', '...']",9,-0.0029761904761904934,0.5386904761904762,1.0,0
+script-exclusives-sayori.rpy,Sayori,B-But nobody would ever notice that...,"['b-but', 'nobody', 'would', 'ever', 'notice', '...']",7,0.0,0.0,1.0,3
+script-exclusives-sayori.rpy,Sayori,Hey you meanie...,"['hey', 'meanie', '...']",3,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Eh??,"['eh', '?', '?']",1,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Thats isuper/i mean!,"['thats', 'isuper/i', 'mean', '!']",4,-0.390625,0.6875,1.0,1
+script-exclusives-sayori.rpy,Sayori,Ehehe~,['ehehe~'],1,0.0,0.0,1.0,2
+script-exclusives-sayori.rpy,Sayori,This is so funny.,['funny'],4,0.25,1.0,1.0,3
+script-exclusives-sayori.rpy,Sayori,Well...,"['well', '...']",1,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,I was just thinking how weird it is to have a friend who does these kinds of things.,"['thinking', 'weird', 'friend', 'kinds', 'things']",18,-0.5,1.0,0.9444444444444444,0
+script-exclusives-sayori.rpy,Sayori,Its okay though.,"['okay', 'though']",3,0.5,0.5,1.0,0
+script-exclusives-sayori.rpy,Sayori,Im happy were like this.,"['im', 'happy', 'like']",5,0.8,1.0,1.0,3
+script-exclusives-sayori.rpy,Sayori,Arent you?,"['arent', '?']",2,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Hey be careful...,"['hey', 'careful', '...']",3,-0.1,1.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,The button might come off!,"['button', 'might', 'come', '!']",5,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Ehehe~,['ehehe~'],1,0.0,0.0,1.0,2
+script-exclusives-sayori.rpy,Sayori,It did when I bought it.,['bought'],6,0.0,0.0,0.8333333333333334,0
+script-exclusives-sayori.rpy,Sayori,It means my boobs got bigger again!,"['means', 'boobs', 'got', 'bigger', '!']",7,0.0,0.5,1.0,0
+script-exclusives-sayori.rpy,Sayori,Ehehe~,['ehehe~'],1,0.0,0.0,1.0,2
+script-exclusives-sayori.rpy,Sayori,But its so stuffy...,"['stuffy', '...']",4,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Uuu...,"['uuu', '...']",1,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Its not worth it at all!,"['worth', '!']",6,-0.1875,0.1,1.0,0
+script-exclusives-sayori.rpy,Sayori,Phew!,"['phew', '!']",1,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Thats so much better~,"['thats', 'much', 'better~']",4,0.5,0.5,1.0,1
+script-exclusives-sayori.rpy,Sayori,So if I keep it unbuttoned then I wont get a boyfriend right?,"['keep', 'unbuttoned', 'wont', 'get', 'boyfriend', 'right', '?']",13,0.2857142857142857,0.5357142857142857,0.9230769230769231,0
+script-exclusives-sayori.rpy,Sayori,Because...,['...'],1,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,...If I had a boyfriend then he wouldnt even let you do things like this!,"['...', 'boyfriend', 'wouldnt', 'even', 'let', 'things', 'like', '!']",15,0.0,0.0,1.0,3
+script-exclusives-sayori.rpy,Sayori,And you take care of me better than anyone else would anyway...,"['take', 'care', 'better', 'anyone', 'else', 'would', 'anyway', '...']",12,0.5,0.5,1.0,0
+script-exclusives-sayori.rpy,Sayori,So thats why Im keeping it unbuttoned!,"['thats', 'im', 'keeping', 'unbuttoned', '!']",7,0.0,0.0,1.0,1
+script-exclusives-sayori.rpy,Sayori,Eh?,"['eh', '?']",1,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,I didnt say anything embarrassing...,"['didnt', 'say', 'anything', 'embarrassing', '...']",5,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Only if you focus on going to bed earlier!,"['focus', 'going', 'bed', 'earlier', '!']",9,0.0,0.75,1.0,0
+script-exclusives-sayori.rpy,Sayori,Ehehe~,['ehehe~'],1,0.0,0.0,1.0,2
+script-exclusives-sayori.rpy,Sayori,I guess we really are better at taking care of each other than we are at taking care of ourselves.,"['guess', 'really', 'better', 'taking', 'care', 'taking', 'care']",20,0.19166666666666665,0.35833333333333334,0.7,0
+script-exclusives-sayori.rpy,Sayori,So maybe you should come wake me up in the morning!,"['maybe', 'come', 'wake', 'morning', '!']",11,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Aw but I was joking that time!,"['aw', 'joking', 'time', '!']",7,0.0,0.0,1.0,3
+script-exclusives-sayori.rpy,Sayori,Yay~!,"['yay~', '!']",1,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,player I cant wait to read yours!,"['player', 'cant', 'wait', 'read', '!']",7,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,player player!,"['player', 'player', '!']",2,0.0,0.0,0.5,4
+script-exclusives-sayori.rpy,Sayori,Im gonna go get some supplies from another classroom.,"['im', 'gon', 'na', 'go', 'get', 'supplies', 'another', 'classroom']",9,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Want to come with me?,"['want', 'come', '?']",5,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Well you know how the festival is coming up?,"['well', 'know', 'festival', 'coming', '?']",9,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Me and Monika were gonna make some posters and stuff.,"['monika', 'gon', 'na', 'make', 'posters', 'stuff']",10,0.0,0.0,0.9,0
+script-exclusives-sayori.rpy,Sayori,So I need to go find some crayons and markers and glue sticks...,"['need', 'go', 'find', 'crayons', 'markers', 'glue', 'sticks', '...']",13,0.0,0.0,0.9230769230769231,0
+script-exclusives-sayori.rpy,Sayori,Yaay~,['yaay~'],1,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Okay Monika well be back soon!,"['okay', 'monika', 'well', 'back', 'soon', '!']",6,0.25,0.25,1.0,0
+script-exclusives-sayori.rpy,Sayori,Aw but I wanted to go!,"['aw', 'wanted', 'go', '!']",6,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Its so much fun exploring empty classrooms and stuff!,"['much', 'fun', 'exploring', 'empty', 'classrooms', 'stuff', '!']",9,0.0875,0.35,1.0,0
+script-exclusives-sayori.rpy,Sayori,Okaay~!,"['okaay~', '!']",1,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Ready player?,"['ready', 'player', '?']",2,0.2,0.5,1.0,4
+script-exclusives-sayori.rpy,Sayori,Ehehe!,"['ehehe', '!']",1,0.0,0.0,1.0,2
+script-exclusives-sayori.rpy,Sayori,Me and Monika have it all planned out!,"['monika', 'planned', '!']",8,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Dont you worry~,"['dont', 'worry~']",3,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Yup!,"['yup', '!']",1,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Were gonna do a poetry performance!,"['gon', 'na', 'poetry', 'performance', '!']",6,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Well...,"['well', '...']",1,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Everyone is gonna take turns on stage...,"['everyone', 'gon', 'na', 'take', 'turns', 'stage', '...']",7,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,And recite their favorite poems!,"['recite', 'favorite', 'poems', '!']",5,0.625,1.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,player!,"['player', '!']",1,0.0,0.0,1.0,4
+script-exclusives-sayori.rpy,Sayori,Youre not thinking about it the right way at all!,"['youre', 'thinking', 'right', 'way', '!']",10,0.3571428571428571,0.5357142857142857,1.0,0
+script-exclusives-sayori.rpy,Sayori,Its not just about reading poems...,"['reading', 'poems', '...']",6,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Its about performing them!,"['performing', '!']",4,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Like you say the lines of the poem like...,"['like', 'say', 'lines', 'poem', 'like', '...']",9,0.0,0.0,0.7777777777777778,0
+script-exclusives-sayori.rpy,Sayori,iBetween my feet.../i,"['ibetween', 'feet', '...', '/i']",4,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,iThe last remaining flower beckons to me./i,"['ithe', 'last', 'remaining', 'flower', 'beckons', 'me./i']",8,0.0,0.06666666666666667,1.0,0
+script-exclusives-sayori.rpy,Sayori,iI twist the stem freeing it from its clinging roots.../i,"['ii', 'twist', 'stem', 'freeing', 'clinging', 'roots', '...', '/i']",11,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,iCaressing the final joyous moment between my fingers./i,"['icaressing', 'final', 'joyous', 'moment', 'fingers./i']",9,0.0,1.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,iBut to what ends have I summoned this joy?/i,"['ibut', 'ends', 'summoned', 'joy', '?', '/i']",10,0.0,0.0,1.0,3
+script-exclusives-sayori.rpy,Sayori,iFor now when I look in every direction.../i,"['ifor', 'look', 'every', 'direction', '...', '/i']",9,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,iThe once-prosperous field before me.../i,"['ithe', 'once-prosperous', 'field', '...', '/i']",7,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,iIs but a barren wasteland!/i,"['iis', 'barren', 'wasteland', '!', '/i']",6,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,...,['...'],0,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Like that!!,"['like', '!', '!']",2,0.0,0.0,1.0,3
+script-exclusives-sayori.rpy,Sayori,Ehhh?,"['ehhh', '?']",1,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,You meanie!,"['meanie', '!']",2,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Im working super hard on this you know!,"['im', 'working', 'super', 'hard', 'know', '!']",8,-0.015625000000000028,0.6041666666666666,1.0,3
+script-exclusives-sayori.rpy,Sayori,Ahaha! Dont say that its embarrassing!,"['ahaha', '!', 'dont', 'say', 'embarrassing', '!']",6,0.0,0.0,1.0,1
+script-exclusives-sayori.rpy,Sayori,But I guess that means Im doing a good job~,"['guess', 'means', 'im', 'good', 'job~']",10,0.7,0.6000000000000001,1.0,3
+script-exclusives-sayori.rpy,Sayori,Aaah Im so excited!,"['aaah', 'im', 'excited', '!']",4,0.46875,0.75,1.0,0
+script-exclusives-sayori.rpy,Sayori,The festival is going to be so much fun~,"['festival', 'going', 'much', 'fun~']",9,0.3,0.2,0.8888888888888888,0
+script-exclusives-sayori.rpy,Sayori,Hey player this classroom over here is empty!,"['hey', 'player', 'classroom', 'empty', '!']",8,-0.125,0.5,1.0,3
+script-exclusives-sayori.rpy,Sayori,Lets begin the mission!,"['lets', 'begin', 'mission', '!']",4,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Lets see what we have in here...,"['lets', 'see', '...']",7,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,...Crayons!!,"['...', 'crayons', '!', '!']",1,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Theyre the best brand too!,"['theyre', 'best', 'brand', '!']",5,1.0,0.3,1.0,0
+script-exclusives-sayori.rpy,Sayori,Theyre kind of dirty though...,"['theyre', 'kind', 'dirty', 'though', '...']",5,0.0,0.8500000000000001,1.0,0
+script-exclusives-sayori.rpy,Sayori,Wait Im looking for my favorite color...,"['wait', 'im', 'looking', 'favorite', 'color', '...']",7,0.5,1.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Ah I dropped one by accident--,"['ah', 'dropped', 'one', 'accident', '--']",6,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Kya--!,"['kya', '--', '!']",1,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Owowowowow...,"['owowowowow', '...']",1,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,My forehead...,"['forehead', '...']",2,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,But it hurts...,"['hurts', '...']",3,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Ow--!,"['ow', '--', '!']",1,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,player...,"['player', '...']",1,0.0,0.0,1.0,4
+script-exclusives-sayori.rpy,Sayori,You dont have to--!,"['dont', '--', '!']",4,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Im fine with--looking like a unicorn--,"['im', 'fine', '--', 'looking', 'like', 'unicorn', '--']",7,0.4166666666666667,0.5,1.0,0
+script-exclusives-sayori.rpy,Sayori,O-Okay...,"['o-okay', '...']",2,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,At least they were already in the wrong spots before I spilled them...,"['least', 'already', 'wrong', 'spots', 'spilled', '...']",13,-0.4,0.65,1.0,0
+script-exclusives-sayori.rpy,Sayori,Its nice and cold...,"['nice', 'cold', '...']",4,0.0,1.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Ah--,"['ah', '--']",1,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Sorry I forgot~,"['sorry', 'forgot~']",3,-0.5,1.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Ahahaha!,"['ahahaha', '!']",1,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,It stings...,"['stings', '...']",2,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Hey player...,"['hey', 'player', '...']",2,0.0,0.0,1.0,4
+script-exclusives-sayori.rpy,Sayori,This kind of reminds you of growing up doesnt it...?,"['kind', 'reminds', 'growing', 'doesnt', '...', '?']",10,0.6,0.9,0.9,3
+script-exclusives-sayori.rpy,Sayori,You know how we used to play outside all the time...,"['know', 'used', 'play', 'outside', 'time', '...']",11,0.0,0.05,1.0,0
+script-exclusives-sayori.rpy,Sayori,I would always try to keep up with you.,"['would', 'always', 'try', 'keep']",9,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,You were kind of oblivious in some ways...,"['kind', 'oblivious', 'ways', '...']",8,0.6,0.9,1.0,0
+script-exclusives-sayori.rpy,Sayori,Like I usually fell behind or had trouble climbing on the things you did...,"['like', 'usually', 'fell', 'behind', 'trouble', 'climbing', 'things', '...']",14,-0.2833333333333334,0.3833333333333333,1.0,0
+script-exclusives-sayori.rpy,Sayori,But sometimes when I tried to do things I couldnt I would get myself hurt.,"['sometimes', 'tried', 'things', 'couldnt', 'would', 'get', 'hurt']",15,0.0,0.0,0.8666666666666667,0
+script-exclusives-sayori.rpy,Sayori,Id fall and scrape myself or get a bump...,"['id', 'fall', 'scrape', 'get', 'bump', '...']",9,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,And I would start crying really hard.,"['would', 'start', 'crying', 'really', 'hard']",7,-0.24583333333333335,0.5708333333333333,1.0,0
+script-exclusives-sayori.rpy,Sayori,Ahaha!,"['ahaha', '!']",1,0.0,0.0,1.0,1
+script-exclusives-sayori.rpy,Sayori,And you would rush over as quick as you could.,"['would', 'rush', 'quick', 'could']",10,0.3333333333333333,0.5,0.8,0
+script-exclusives-sayori.rpy,Sayori,You would try really hard to get me to stop crying.,"['would', 'try', 'really', 'hard', 'get', 'stop', 'crying']",11,-0.24583333333333335,0.5708333333333333,0.9090909090909091,0
+script-exclusives-sayori.rpy,Sayori,It was almost like you blamed yourself and were afraid of getting in trouble if someone found out...,"['almost', 'like', 'blamed', 'afraid', 'getting', 'trouble', 'someone', 'found', '...']",18,-0.4,0.55,0.9444444444444444,0
+script-exclusives-sayori.rpy,Sayori,Even though it really wasnt your fault at all you know?,"['even', 'though', 'really', 'wasnt', 'fault', 'know', '?']",11,0.2,0.2,1.0,0
+script-exclusives-sayori.rpy,Sayori,Yeah...you dont remember?,"['yeah', '...', 'dont', 'remember', '?']",4,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,player...,"['player', '...']",1,0.0,0.0,1.0,4
+script-exclusives-sayori.rpy,Sayori,I dont think you realize it but youre always thinking about other people.,"['dont', 'think', 'realize', 'youre', 'always', 'thinking', 'people']",13,-0.125,0.375,0.9230769230769231,0
+script-exclusives-sayori.rpy,Sayori,Even after all these years...,"['even', 'years', '...']",5,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Youre rushing to help me even though Im just being clumsy.,"['youre', 'rushing', 'help', 'even', 'though', 'im', 'clumsy']",11,-0.3,0.4,1.0,0
+script-exclusives-sayori.rpy,Sayori,Youre really a sweetheart...,"['youre', 'really', 'sweetheart', '...']",4,0.2,0.2,1.0,0
+script-exclusives-sayori.rpy,Sayori,Really...?,"['really', '...', '?']",1,0.2,0.2,1.0,0
+script-exclusives-sayori.rpy,Sayori,Maybe youre right...,"['maybe', 'youre', 'right', '...']",3,0.2857142857142857,0.5357142857142857,1.0,0
+script-exclusives-sayori.rpy,Sayori,player...,"['player', '...']",1,0.0,0.0,1.0,4
+script-exclusives-sayori.rpy,Sayori,Im so glad that nothings changed between us.,"['im', 'glad', 'nothings', 'changed', 'us']",8,0.5,1.0,1.0,3
+script-exclusives-sayori.rpy,Sayori,Do you think itll be like this forever?,"['think', 'itll', 'like', 'forever', '?']",8,0.0,0.0,1.0,3
+script-exclusives-sayori.rpy,Sayori,Im so happy...,"['im', 'happy', '...']",3,0.8,1.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,I guess we should go back...,"['guess', 'go', 'back', '...']",6,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,I dont want to worry Monika you know?,"['dont', 'want', 'worry', 'monika', 'know', '?']",8,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Not if I hide it under my bangs~,"['hide', 'bangs~']",8,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,A-Aaahh--!,"['a-aaahh', '--', '!']",2,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Uuuu...,"['uuuu', '...']",1,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,I was playing with the crayons and smacked my forehead into the shelf!,"['playing', 'crayons', 'smacked', 'forehead', 'shelf', '!']",13,0.0,0.0,0.9230769230769231,0
+script-exclusives-sayori.rpy,Sayori,Uh-huh! I have it right--,"['uh-huh', '!', 'right', '--']",6,0.2857142857142857,0.5357142857142857,1.0,0
+script-exclusives-sayori.rpy,Sayori,...Eh?,"['...', 'eh', '?']",1,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,I...forgot all of the stuff!!,"['...', 'forgot', 'stuff', '!', '!']",6,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,I made it an adventure!,"['made', 'adventure', '!']",5,0.0,0.0,1.0,0
+script-exclusives-sayori.rpy,Sayori,Me too!,['!'],2,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,No!,['!'],1,0.0,0.0,1.0,3
+script-poemresponses.rpy,Sayori,J-Just a little bit!,"['j-just', 'little', 'bit', '!']",5,-0.234375,0.5,1.0,0
+script-poemresponses.rpy,Sayori,I forgot to do it last night...,"['forgot', 'last', 'night', '...']",7,0.0,0.06666666666666667,1.0,0
+script-poemresponses.rpy,Sayori,Dont be mean!,"['dont', 'mean', '!']",3,-0.390625,0.6875,1.0,0
+script-poemresponses.rpy,Sayori,I still tried my best...,"['still', 'tried', 'best', '...']",5,1.0,0.3,1.0,0
+script-poemresponses.rpy,Sayori,Really?,"['really', '?']",1,0.2,0.2,1.0,0
+script-poemresponses.rpy,Sayori,I made eggs and toast!,"['made', 'eggs', 'toast', '!']",5,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Its bad to skip breakfast!,"['bad', 'skip', 'breakfast', '!']",5,-0.8749999999999998,0.6666666666666666,1.0,0
+script-poemresponses.rpy,Sayori,I get all cranky...,"['get', 'cranky', '...']",4,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Ehehe~,['ehehe~'],1,0.0,0.0,1.0,2
+script-poemresponses.rpy,Sayori,This was so much fun.,"['much', 'fun']",5,0.3,0.2,1.0,3
+script-poemresponses.rpy,Sayori,Monikas the best!,"['monikas', 'best', '!']",3,1.0,0.3,1.0,0
+script-poemresponses.rpy,Sayori,But next time I wont forget.,"['next', 'time', 'wont', 'forget']",6,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,And Im gonna write the best poem ever!,"['im', 'gon', 'na', 'write', 'best', 'poem', 'ever', '!']",8,1.0,0.3,1.0,0
+script-poemresponses.rpy,Sayori,Of course I did!,"['course', '!']",4,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Didnt I tell you yesterday I was gonna write the best poem ever?,"['didnt', 'tell', 'yesterday', 'gon', 'na', 'write', 'best', 'poem', 'ever', '?']",13,1.0,0.3,0.9230769230769231,0
+script-poemresponses.rpy,Sayori,Monika taught me a whole lot!,"['monika', 'taught', 'whole', 'lot', '!']",6,0.25,0.4,1.0,0
+script-poemresponses.rpy,Sayori,And Ive been really in touch with my feelings recently...,"['ive', 'really', 'touch', 'feelings', 'recently', '...']",10,0.1,0.225,1.0,0
+script-poemresponses.rpy,Sayori,Creepy...?,"['creepy', '...', '?']",1,-0.5,1.0,1.0,0
+script-poemresponses.rpy,Sayori,Aw thanks~,"['aw', 'thanks~']",2,0.2,0.2,1.0,0
+script-poemresponses.rpy,Sayori,I feel like...,"['feel', 'like', '...']",3,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,I feel like I was meant to express myself this way.,"['feel', 'like', 'meant', 'express', 'way']",11,0.0,0.0,0.9090909090909091,3
+script-poemresponses.rpy,Sayori,It even helps me understand my own feelings a little bit better...,"['even', 'helps', 'understand', 'feelings', 'little', 'bit', 'better', '...']",12,0.30416666666666664,0.6666666666666666,1.0,0
+script-poemresponses.rpy,Sayori,Writing is like magic!,"['writing', 'like', 'magic', '!']",4,0.625,1.0,1.0,3
+script-poemresponses.rpy,Sayori,Yeah!,"['yeah', '!']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Writings the best!,"['writings', 'best', '!']",3,1.0,0.3,1.0,0
+script-poemresponses.rpy,Sayori,Im gonna keep writing until I die!,"['im', 'gon', 'na', 'keep', 'writing', 'die', '!']",7,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,...,['...'],0,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,...Wow!,"['...', 'wow', '!']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,player...,"['player', '...']",1,0.0,0.0,1.0,4
+script-poemresponses.rpy,Sayori,Your poem is really bad!,"['poem', 'really', 'bad', '!']",5,-0.8749999999999998,0.6666666666666666,1.0,0
+script-poemresponses.rpy,Sayori,Ahahaha!,"['ahahaha', '!']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Its fine its fine~,"['fine', 'fine~']",4,0.4166666666666667,0.5,0.75,0
+script-poemresponses.rpy,Sayori,Its your first time.,"['first', 'time']",4,0.25,0.3333333333333333,1.0,0
+script-poemresponses.rpy,Sayori,Besides...,"['besides', '...']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Im really happy just that you wrote one.,"['im', 'really', 'happy', 'wrote', 'one']",8,0.8,1.0,1.0,3
+script-poemresponses.rpy,Sayori,It just reminds me of how youre really a part of the club now~,"['reminds', 'youre', 'really', 'part', 'club', 'now~']",14,0.2,0.2,0.9285714285714286,0
+script-poemresponses.rpy,Sayori,See?,"['see', '?']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Its like I said before player...,"['like', 'said', 'player', '...']",6,0.0,0.0,1.0,4
+script-poemresponses.rpy,Sayori,Deep down youre not selfish at all you know?,"['deep', 'youre', 'selfish', 'know', '?']",9,0.03148148148148147,0.562962962962963,1.0,0
+script-poemresponses.rpy,Sayori,Trying new things like this for other people...,"['trying', 'new', 'things', 'like', 'people', '...']",8,0.005681818181818177,0.4147727272727273,1.0,3
+script-poemresponses.rpy,Sayori,Thats something that only really good people do!,"['thats', 'something', 'really', 'good', 'people', '!']",8,0.4375,0.8,1.0,1
+script-poemresponses.rpy,Sayori,Yeah.,['yeah'],1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,And Im gonna make sure you have lots of fun here okay?,"['im', 'gon', 'na', 'make', 'sure', 'lots', 'fun', 'okay', '?']",12,0.43333333333333335,0.5296296296296296,1.0,0
+script-poemresponses.rpy,Sayori,That will be my way of thanking you~,"['way', 'thanking', 'you~']",8,0.0,0.0,1.0,3
+script-poemresponses.rpy,Sayori,Yay~!,"['yay~', '!']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Now youll read my poem too right?,"['youll', 'read', 'poem', 'right', '?']",7,0.2857142857142857,0.5357142857142857,1.0,0
+script-poemresponses.rpy,Sayori,Dont worry Im really bad at this.,"['dont', 'worry', 'im', 'really', 'bad']",7,-0.6999999999999998,0.6666666666666666,1.0,3
+script-poemresponses.rpy,Sayori,Ehehe...,"['ehehe', '...']",1,0.0,0.0,1.0,2
+script-poemresponses.rpy,Sayori,...,['...'],0,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,This is a good poem player!,"['good', 'poem', 'player', '!']",6,0.875,0.6000000000000001,1.0,4
+script-poemresponses.rpy,Sayori,Are you sure its your first time?,"['sure', 'first', 'time', '?']",7,0.375,0.611111111111111,1.0,0
+script-poemresponses.rpy,Sayori,Ehehe I guess youre right~,"['ehehe', 'guess', 'youre', 'right~']",5,0.2857142857142857,0.5357142857142857,1.0,0
+script-poemresponses.rpy,Sayori,But thats why it impressed me!,"['thats', 'impressed', '!']",6,1.0,1.0,1.0,1
+script-poemresponses.rpy,Sayori,Well to be honest...,"['well', 'honest', '...']",4,0.6,0.9,1.0,0
+script-poemresponses.rpy,Sayori,I was afraid that you wouldnt do it seriously...,"['afraid', 'wouldnt', 'seriously', '...']",9,-0.4666666666666667,0.7833333333333333,1.0,3
+script-poemresponses.rpy,Sayori,Or that you wouldnt write one at all.,"['wouldnt', 'write', 'one']",8,0.0,0.0,1.0,3
+script-poemresponses.rpy,Sayori,...,['...'],0,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,...Oh my goodness!,"['...', 'oh', 'goodness', '!']",3,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,This is sooooo good player!,"['sooooo', 'good', 'player', '!']",5,0.875,0.6000000000000001,1.0,4
+script-poemresponses.rpy,Sayori,I love it~!,"['love', 'it~', '!']",3,0.625,0.6,1.0,0
+script-poemresponses.rpy,Sayori,I had no idea you were such a good writer!,"['idea', 'good', 'writer', '!']",10,0.4375,0.55,1.0,3
+script-poemresponses.rpy,Sayori,Well...,"['well', '...']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Maybe thats why!,"['maybe', 'thats', '!']",3,0.0,0.0,1.0,1
+script-poemresponses.rpy,Sayori,Because I have no idea what I like either!,"['idea', 'like', 'either', '!']",9,0.0,0.0,0.8888888888888888,3
+script-poemresponses.rpy,Sayori,Ahahaha!,"['ahahaha', '!']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Eh?,"['eh', '?']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Well Im sure thats part of it.,"['well', 'im', 'sure', 'thats', 'part']",7,0.5,0.8888888888888888,1.0,1
+script-poemresponses.rpy,Sayori,I think I understand you better than a lot of other people you know?,"['think', 'understand', 'better', 'lot', 'people', 'know', '?']",14,0.1875,0.4375,0.8571428571428571,0
+script-poemresponses.rpy,Sayori,So when I read your poem...,"['read', 'poem', '...']",6,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Its not just a poem...,"['poem', '...']",5,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Its a player poem!,"['player', 'poem', '!']",4,0.0,0.0,1.0,4
+script-poemresponses.rpy,Sayori,And that makes it feel extra special!,"['makes', 'feel', 'extra', 'special', '!']",7,0.22321428571428573,0.3357142857142857,1.0,3
+script-poemresponses.rpy,Sayori,Like I can feel your feelings in it~,"['like', 'feel', 'feelings', 'it~']",8,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Ehehe...,"['ehehe', '...']",1,0.0,0.0,1.0,2
+script-poemresponses.rpy,Sayori,...,['...'],0,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Ehehe I love reading your poems~,"['ehehe', 'love', 'reading', 'poems~']",6,0.5,0.6,1.0,0
+script-poemresponses.rpy,Sayori,Its like I never know what Im going to get!,"['like', 'never', 'know', 'im', 'going', 'get', '!']",10,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,No! Not at all!,"['!', '!']",4,0.0,0.0,1.0,3
+script-poemresponses.rpy,Sayori,...Maybe!,"['...', 'maybe', '!']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Just a little?,"['little', '?']",3,-0.1875,0.5,1.0,0
+script-poemresponses.rpy,Sayori,Yuri must have spoiled me a little bit with her poems...,"['yuri', 'must', 'spoiled', 'little', 'bit', 'poems', '...']",11,-0.1875,0.5,1.0,0
+script-poemresponses.rpy,Sayori,Ehehe...,"['ehehe', '...']",1,0.0,0.0,1.0,2
+script-poemresponses.rpy,Sayori,Yeah!,"['yeah', '!']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Me neither!,"['neither', '!']",2,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Aww you want to write something for me?,"['aww', 'want', 'write', 'something', '?']",8,0.3,0.9,1.0,0
+script-poemresponses.rpy,Sayori,Thats so sweet~,"['thats', 'sweet~']",3,0.35,0.65,1.0,1
+script-poemresponses.rpy,Sayori,Ehh?,"['ehh', '?']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Well...,"['well', '...']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,I dont really know what you mean but Ill try to keep it in mind!,"['dont', 'really', 'know', 'mean', 'ill', 'try', 'keep', 'mind', '!']",15,-0.24583333333333335,0.6291666666666667,1.0,0
+script-poemresponses.rpy,Sayori,Anyway lets see...,"['anyway', 'lets', 'see', '...']",3,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Hmm...,"['hmm', '...']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,I guess I like...happy poems~,"['guess', 'like', '...', 'happy', 'poems~']",6,0.0,0.0,0.8,0
+script-poemresponses.rpy,Sayori,Wait sometimes I like sad poems too...,"['wait', 'sometimes', 'like', 'sad', 'poems', '...']",7,-0.5,1.0,1.0,0
+script-poemresponses.rpy,Sayori,Sometimes a little bit of both...,"['sometimes', 'little', 'bit', '...']",6,-0.1875,0.5,1.0,0
+script-poemresponses.rpy,Sayori,Theres a word for that right...?,"['theres', 'word', 'right', '...', '?']",6,0.2857142857142857,0.5357142857142857,1.0,3
+script-poemresponses.rpy,Sayori,Whats the word Im looking for...,"['whats', 'word', 'im', 'looking', '...']",6,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,...Bittersweet!,"['...', 'bittersweet', '!']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Yeah!,"['yeah', '!']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,I like things that are happy and things that are sad.,"['like', 'things', 'happy', 'things', 'sad']",11,0.15000000000000002,1.0,0.7272727272727273,3
+script-poemresponses.rpy,Sayori,Well...,"['well', '...']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,I like happy the most!,"['like', 'happy', '!']",5,0.7125,0.75,1.0,0
+script-poemresponses.rpy,Sayori,But sometimes when you have a little raincloud in your head...,"['sometimes', 'little', 'raincloud', 'head', '...']",11,-0.1875,0.5,1.0,0
+script-poemresponses.rpy,Sayori,A sad poem can help give the raincloud a little hug...,"['sad', 'poem', 'help', 'give', 'raincloud', 'little', 'hug', '...']",11,-0.34375,0.75,0.9090909090909091,0
+script-poemresponses.rpy,Sayori,...And make a nice happy rainbow!,"['...', 'make', 'nice', 'happy', 'rainbow', '!']",6,0.8,1.0,1.0,0
+script-poemresponses.rpy,Sayori,Eh? It is?,"['eh', '?', '?']",3,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Maybe Im getting better at expressing my feelings after all!,"['maybe', 'im', 'getting', 'better', 'expressing', 'feelings', '!']",10,0.625,0.5,1.0,0
+script-poemresponses.rpy,Sayori,Thanks player!,"['thanks', 'player', '!']",2,0.25,0.2,1.0,4
+script-poemresponses.rpy,Sayori,I should go write that down then~,"['go', 'write', 'then~']",7,-0.15555555555555559,0.2888888888888889,1.0,3
+script-poemresponses.rpy,Sayori,You can read my poem now okay?,"['read', 'poem', 'okay', '?']",7,0.5,0.5,1.0,0
+script-poemresponses.rpy,Sayori,...,['...'],0,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Ooh!,"['ooh', '!']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,I like this one player!,"['like', 'one', 'player', '!']",5,0.0,0.0,1.0,4
+script-poemresponses.rpy,Sayori,It has some nice feelings in it~,"['nice', 'feelings', 'it~']",7,0.6,1.0,1.0,0
+script-poemresponses.rpy,Sayori,Uh-huh!,"['uh-huh', '!']",2,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Well Im not very good at figuring out if poems are good or bad...,"['well', 'im', 'good', 'figuring', 'poems', 'good', 'bad', '...']",14,-0.08974358974358969,0.5760683760683761,0.9285714285714286,0
+script-poemresponses.rpy,Sayori,But thats why I just go by my heart~,"['thats', 'go', 'heart~']",9,0.0,0.0,1.0,1
+script-poemresponses.rpy,Sayori,If it makes me feel things then it must be a good poem!,"['makes', 'feel', 'things', 'must', 'good', 'poem', '!']",13,0.875,0.6000000000000001,0.9230769230769231,0
+script-poemresponses.rpy,Sayori,...,['...'],0,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Ooh!,"['ooh', '!']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,I like this one player!,"['like', 'one', 'player', '!']",5,0.0,0.0,1.0,4
+script-poemresponses.rpy,Sayori,It has some nice feelings in it~,"['nice', 'feelings', 'it~']",7,0.6,1.0,1.0,0
+script-poemresponses.rpy,Sayori,Mmm lemme think...,"['mmm', 'lem', 'think', '...']",3,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,I dunno!,"['dunno', '!']",2,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,I guess I like them both!,"['guess', 'like', '!']",6,0.0,0.0,0.8333333333333334,0
+script-poemresponses.rpy,Sayori,Ehehe~,['ehehe~'],1,0.0,0.0,1.0,2
+script-poemresponses.rpy,Sayori,...,['...'],0,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Ooh!,"['ooh', '!']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,I like this one player!,"['like', 'one', 'player', '!']",5,0.0,0.0,1.0,4
+script-poemresponses.rpy,Sayori,It has some nice feelings in it~,"['nice', 'feelings', 'it~']",7,0.6,1.0,1.0,0
+script-poemresponses.rpy,Sayori,Ehehe I guess you caught me...,"['ehehe', 'guess', 'caught', '...']",6,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Sometimes you know me a little too well for my own good!,"['sometimes', 'know', 'little', 'well', 'good', '!']",12,0.4291666666666667,0.7000000000000001,1.0,0
+script-poemresponses.rpy,Sayori,No no!,['!'],2,0.0,0.0,0.5,3
+script-poemresponses.rpy,Sayori,I still liked this one! I promise!,"['still', 'liked', 'one', '!', 'promise', '!']",7,0.9375,0.8,0.8571428571428571,3
+script-poemresponses.rpy,Sayori,You know I wouldnt lie to you player...!,"['know', 'wouldnt', 'lie', 'player', '...', '!']",8,0.0,0.0,0.875,0
+script-poemresponses.rpy,Sayori,Never ever!,"['never', 'ever', '!']",2,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Umm.....,"['umm', '.....']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,...,['...'],0,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,...Oh my goodness!,"['...', 'oh', 'goodness', '!']",3,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,This is sooooo good player!,"['sooooo', 'good', 'player', '!']",5,0.875,0.6000000000000001,1.0,4
+script-poemresponses.rpy,Sayori,I love it~!,"['love', 'it~', '!']",3,0.625,0.6,1.0,0
+script-poemresponses.rpy,Sayori,Especially after yesterdays poem!,"['especially', 'yesterdays', 'poem', '!']",4,0.0,1.0,1.0,0
+script-poemresponses.rpy,Sayori,No but really!!,"['really', '!', '!']",3,0.3125,0.2,1.0,3
+script-poemresponses.rpy,Sayori,I wanna put this on my wall~,"['wan', 'na', 'put', 'wall~']",7,0.0,0.0,1.0,3
+script-poemresponses.rpy,Sayori,Can I?,['?'],2,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Well...,"['well', '...']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Maybe thats why!,"['maybe', 'thats', '!']",3,0.0,0.0,1.0,1
+script-poemresponses.rpy,Sayori,Because I have no idea what I like either!,"['idea', 'like', 'either', '!']",9,0.0,0.0,0.8888888888888888,3
+script-poemresponses.rpy,Sayori,Ahahaha!,"['ahahaha', '!']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Eh?,"['eh', '?']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Well Im sure thats part of it.,"['well', 'im', 'sure', 'thats', 'part']",7,0.5,0.8888888888888888,1.0,1
+script-poemresponses.rpy,Sayori,I think I understand you better than a lot of other people you know?,"['think', 'understand', 'better', 'lot', 'people', 'know', '?']",14,0.1875,0.4375,0.8571428571428571,0
+script-poemresponses.rpy,Sayori,So when I read your poem...,"['read', 'poem', '...']",6,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Its not just a poem...,"['poem', '...']",5,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Its a player poem!,"['player', 'poem', '!']",4,0.0,0.0,1.0,4
+script-poemresponses.rpy,Sayori,And that makes it feel extra special!,"['makes', 'feel', 'extra', 'special', '!']",7,0.22321428571428573,0.3357142857142857,1.0,3
+script-poemresponses.rpy,Sayori,Like I can feel your feelings in it~,"['like', 'feel', 'feelings', 'it~']",8,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Ehehe...,"['ehehe', '...']",1,0.0,0.0,1.0,2
+script-poemresponses.rpy,Sayori,...,['...'],0,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,player...,"['player', '...']",1,0.0,0.0,1.0,4
+script-poemresponses.rpy,Sayori,I really love your poems.,"['really', 'love', 'poems']",5,0.5,0.6,1.0,0
+script-poemresponses.rpy,Sayori,I cant believe youve been hiding these from me!,"['cant', 'believe', 'youve', 'hiding', '!']",9,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,But...,['...'],1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Your poems are sooo good...,"['poems', 'sooo', 'good', '...']",5,0.7,0.6000000000000001,1.0,0
+script-poemresponses.rpy,Sayori,Yesterdays and this one too!,"['yesterdays', 'one', '!']",5,0.0,0.0,1.0,3
+script-poemresponses.rpy,Sayori,You cant tell me you havent done this before!,"['cant', 'tell', 'havent', 'done', '!']",9,0.0,0.0,0.8888888888888888,3
+script-poemresponses.rpy,Sayori,Eh?!,"['eh', '?', '!']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,No way!!,"['way', '!', '!']",2,0.0,0.0,1.0,3
+script-poemresponses.rpy,Sayori,Not even Natsuki...?,"['even', 'natsuki', '...', '?']",3,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,What do you mean?,"['mean', '?']",4,-0.3125,0.6875,1.0,0
+script-poemresponses.rpy,Sayori,E-Eh?!,"['e-eh', '?', '!']",2,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Wawawa--!,"['wawawa', '--', '!']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Like cooking!!,"['like', 'cooking', '!', '!']",2,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Ehehe...,"['ehehe', '...']",1,0.0,0.0,1.0,2
+script-poemresponses.rpy,Sayori,Ehh...?,"['ehh', '...', '?']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,I dont know if I understand...,"['dont', 'know', 'understand', '...']",6,0.0,0.0,0.8333333333333334,0
+script-poemresponses.rpy,Sayori,Ahaha! Heyyy!,"['ahaha', '!', 'heyyy', '!']",2,0.0,0.0,1.0,1
+script-poemresponses.rpy,Sayori,Im not a kid you know!,"['im', 'kid', 'know', '!']",6,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Mmmm maybe~,"['mmmm', 'maybe~']",2,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Hey player...,"['hey', 'player', '...']",2,0.0,0.0,1.0,4
+script-poemresponses.rpy,Sayori,Will you give me your poem?,"['give', 'poem', '?']",6,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,I kinda want to keep it.,"['kinda', 'want', 'keep']",6,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Because...,['...'],1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Well...,"['well', '...']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Its the first time youve written something for me...,"['first', 'time', 'youve', 'written', 'something', '...']",9,0.25,0.3333333333333333,1.0,0
+script-poemresponses.rpy,Sayori,Ehehe...,"['ehehe', '...']",1,0.0,0.0,1.0,2
+script-poemresponses.rpy,Sayori,Ehehehehe...,"['ehehehehe', '...']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Really?!,"['really', '?', '!']",1,0.25,0.2,1.0,0
+script-poemresponses.rpy,Sayori,A-Ah!!,"['a-ah', '!', '!']",2,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,I broke my pencil...,"['broke', 'pencil', '...']",4,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,S-S-Sorry--!!,"['s-s-sorry', '--', '!', '!']",3,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,I-Im a little clumsy today...,"['i-im', 'little', 'clumsy', 'today', '...']",6,-0.24375,0.45,1.0,0
+script-poemresponses.rpy,Sayori,Ahahaha...,"['ahahaha', '...']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Y-Yeah...,"['y-yeah', '...']",2,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Oh!,"['oh', '!']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Sorry I forgot about that~,"['sorry', 'forgot', 'that~']",5,-0.5,1.0,1.0,3
+script-poemresponses.rpy,Sayori,But its not as good as yours!!,"['good', '!', '!']",7,1.0,0.6000000000000001,0.8571428571428571,0
+script-poemresponses.rpy,Sayori,...,['...'],0,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,...Hm.,"['...', 'hm']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Its nice I guess~,"['nice', 'guess~']",4,0.6,1.0,1.0,0
+script-poemresponses.rpy,Sayori,Well...,"['well', '...']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,You dont need to worry about what I think.,"['dont', 'need', 'worry', 'think']",9,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,After all you wrote this for someone else didnt you?,"['wrote', 'someone', 'else', 'didnt', '?']",10,0.0,0.0,0.9,3
+script-poemresponses.rpy,Sayori,Probably currentname...,"['probably', 'currentname', '...']",2,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Maybe...,"['maybe', '...']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Thats not really what I meant though.,"['thats', 'really', 'meant', 'though']",7,-0.1,0.2,1.0,1
+script-poemresponses.rpy,Sayori,But its okay.,['okay'],3,0.5,0.5,1.0,0
+script-poemresponses.rpy,Sayori,Youre making new friends just like I was hoping.,"['youre', 'making', 'new', 'friends', 'like', 'hoping']",9,0.13636363636363635,0.45454545454545453,1.0,0
+script-poemresponses.rpy,Sayori,That makes me...really happy.,"['makes', '...', 'really', 'happy']",5,0.8,1.0,1.0,3
+script-poemresponses.rpy,Sayori,And youre happy too right?,"['youre', 'happy', 'right', '?']",5,0.5428571428571429,0.7678571428571428,1.0,0
+script-poemresponses.rpy,Sayori,In this club?,"['club', '?']",3,0.0,0.0,1.0,3
+script-poemresponses.rpy,Sayori,Good~,['good~'],1,0.7,0.6000000000000001,1.0,0
+script-poemresponses.rpy,Sayori,Thats all that matters to me.,"['thats', 'matters']",6,0.0,0.0,1.0,1
+script-poemresponses.rpy,Sayori,Thank you player.,"['thank', 'player']",3,0.0,0.0,1.0,4
+script-poemresponses.rpy,Sayori,Huh?,"['huh', '?']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,No nothing.,['nothing'],2,0.0,0.0,1.0,3
+script-poemresponses.rpy,Sayori,Im just a little tired today.,"['im', 'little', 'tired', 'today']",6,-0.29375,0.6,1.0,0
+script-poemresponses.rpy,Sayori,Ehehe.,['ehehe'],1,0.0,0.0,1.0,2
+script-poemresponses.rpy,Sayori,I will.,[],2,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Dont worry about me okay?,"['dont', 'worry', 'okay', '?']",5,0.5,0.5,1.0,0
+script-poemresponses.rpy,Sayori,You can go play with everyone else now.,"['go', 'play', 'everyone', 'else']",8,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Yaay~,['yaay~'],1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Im gonna go home a little bit early today.,"['im', 'gon', 'na', 'go', 'home', 'little', 'bit', 'early', 'today']",9,-0.04375,0.4,1.0,0
+script-poemresponses.rpy,Sayori,Tell Monika I wasnt feeling well okay?,"['tell', 'monika', 'wasnt', 'feeling', 'well', 'okay', '?']",7,0.5,0.5,1.0,0
+script-poemresponses.rpy,Sayori,Ill see you tomorrow~,"['ill', 'see', 'tomorrow~']",4,-0.5,1.0,1.0,0
+script-poemresponses.rpy,Sayori,...,['...'],0,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,This is your best one so far.,"['best', 'one', 'far']",7,0.55,0.65,1.0,3
+script-poemresponses.rpy,Sayori,Its really really nice player~,"['really', 'really', 'nice', 'player~']",5,0.6,1.0,0.8,4
+script-poemresponses.rpy,Sayori,Mhm~,['mhm~'],1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,E-Eh??,"['e-eh', '?', '?']",2,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Of course!,"['course', '!']",2,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Everything is fine~,"['everything', 'fine~']",3,0.4166666666666667,0.5,1.0,0
+script-poemresponses.rpy,Sayori,Maybe Im just a little tired today.,"['maybe', 'im', 'little', 'tired', 'today']",7,-0.29375,0.6,1.0,0
+script-poemresponses.rpy,Sayori,Ehehe.,['ehehe'],1,0.0,0.0,1.0,2
+script-poemresponses.rpy,Sayori,No thats silly!,"['thats', 'silly', '!']",3,-0.625,0.875,1.0,1
+script-poemresponses.rpy,Sayori,Dont worry about me okay?,"['dont', 'worry', 'okay', '?']",5,0.5,0.5,1.0,0
+script-poemresponses.rpy,Sayori,I only want to see smiles on your face~,"['want', 'see', 'smiles', 'face~']",9,0.0,1.0,1.0,0
+script-poemresponses.rpy,Sayori,Hey player...,"['hey', 'player', '...']",2,0.0,0.0,1.0,4
+script-poemresponses.rpy,Sayori,Im still a little surprised.,"['im', 'still', 'little', 'surprised']",5,-0.04375,0.7,1.0,0
+script-poemresponses.rpy,Sayori,I really thought that you would try writing your poems like the way Yuri does...,"['really', 'thought', 'would', 'try', 'writing', 'poems', 'like', 'way', 'yuri', '...']",15,0.2,0.2,1.0,3
+script-poemresponses.rpy,Sayori,Or even Natsuki...,"['even', 'natsuki', '...']",3,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,But in the end...,"['end', '...']",4,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,...Why?,"['...', '?']",1,0.0,0.0,1.0,1
+script-poemresponses.rpy,Sayori,You dont want to get closer with everyone else?,"['dont', 'want', 'get', 'closer', 'everyone', 'else', '?']",9,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,N-No...,"['n-no', '...']",2,0.0,0.0,1.0,3
+script-poemresponses.rpy,Sayori,player...,"['player', '...']",1,0.0,0.0,1.0,4
+script-poemresponses.rpy,Sayori,I dont...deserve this...,"['dont', '...', 'deserve', '...']",4,0.0,0.0,1.0,3
+script-poemresponses.rpy,Sayori,Youre too nice to me...,"['youre', 'nice', '...']",5,0.6,1.0,1.0,0
+script-poemresponses.rpy,Sayori,Why are you doing this...?,"['...', '?']",5,0.0,0.0,1.0,3
+script-poemresponses.rpy,Sayori,If you had fun with everyone else instead...,"['fun', 'everyone', 'else', 'instead', '...']",8,0.3,0.2,1.0,0
+script-poemresponses.rpy,Sayori,This would be...so much easier!,"['would', '...', 'much', 'easier', '!']",6,0.25,0.2,1.0,3
+script-poemresponses.rpy,Sayori,Its nothing player.,"['nothing', 'player']",3,0.0,0.0,1.0,4
+script-poemresponses.rpy,Sayori,Its just a little raincloud.,"['little', 'raincloud']",5,-0.1875,0.5,1.0,0
+script-poemresponses.rpy,Sayori,Im sorry you had to see that. Ahahaha!,"['im', 'sorry', 'see', 'ahahaha', '!']",8,-0.625,1.0,1.0,0
+script-poemresponses.rpy,Sayori,I promise it wont happen again.,"['promise', 'wont', 'happen']",6,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Just smiles from everyone okay?,"['smiles', 'everyone', 'okay', '?']",5,0.5,0.5,1.0,0
+script-poemresponses.rpy,Sayori,Thats all that matters.,"['thats', 'matters']",4,0.0,0.0,1.0,1
+script-poemresponses.rpy,Sayori,Go play with everyone else.,"['go', 'play', 'everyone', 'else']",5,0.0,0.0,1.0,0
+script-poemresponses.rpy,Sayori,Im gonna go home a little bit early today~,"['im', 'gon', 'na', 'go', 'home', 'little', 'bit', 'early', 'today~']",9,-0.04375,0.4,1.0,0
+script-poemresponses.rpy,Sayori,Tell Monika I wasnt feeling well okay?,"['tell', 'monika', 'wasnt', 'feeling', 'well', 'okay', '?']",7,0.5,0.5,1.0,0
+script-poemresponses.rpy,Sayori,Ill see you tomorrow~,"['ill', 'see', 'tomorrow~']",4,-0.5,1.0,1.0,0
+script-poemresponses2.rpy,Sayori,    show splash_warning Just Monika.,"['show', 'splash_warning', 'monika']",4,0.0,0.0,1.0,0

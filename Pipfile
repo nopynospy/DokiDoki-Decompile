@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+nltk = "*"
+wordcloud = "*"
+sklearn = "*"
+matplotlib = "*"
+jupyter = "*"
+textblob = "*"
+numpy = "*"
+seaborn = "*"
+param = "*"
+panel = "*"
+lexical-diversity = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"

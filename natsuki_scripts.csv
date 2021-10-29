@@ -1,0 +1,1527 @@
+file,name,line,tokens,words_num,polarity,subjectivity,lex_div,Cluster
+script-ch0.rpy,Natsuki,Seriously? You brought a boy?,"['seriously', '?', 'brought', 'boy', '?']",5,-0.3333333333333333,0.6666666666666666,1.0,2
+script-ch0.rpy,Natsuki,Way to kill the atmosphere.,"['way', 'kill', 'atmosphere']",5,0.0,0.0,1.0,2
+script-ch0.rpy,Natsuki,What are you looking at?,"['looking', '?']",5,0.0,0.0,1.0,2
+script-ch0.rpy,Natsuki,If you want to say something say it.,"['want', 'say', 'something', 'say']",8,0.0,0.0,0.875,2
+script-ch0.rpy,Natsuki,Hmph.,['hmph'],1,0.0,0.0,1.0,0
+script-ch0.rpy,Natsuki,Hey! I made them Ill get them!,"['hey', '!', 'made', 'ill', 'get', '!']",7,-0.625,1.0,0.8571428571428571,0
+script-ch0.rpy,Natsuki,Okaaay are you ready?,"['okaaay', 'ready', '?']",4,0.2,0.5,1.0,2
+script-ch0.rpy,Natsuki,...Ta-daa!,"['...', 'ta-daa', '!']",2,0.0,0.0,1.0,0
+script-ch0.rpy,Natsuki,Ehehe. Well you know.,"['ehehe', 'well', 'know']",4,0.0,0.0,1.0,1
+script-ch0.rpy,Natsuki,Just hurry and take one!,"['hurry', 'take', 'one', '!']",5,0.0,0.0,1.0,2
+script-ch0.rpy,Natsuki,W-Why are you thanking me? Its not like I...!,"['w-why', 'thanking', '?', 'like', '...', '!']",10,0.0,0.0,1.0,2
+script-ch0.rpy,Natsuki,...Made them for you or anything.,"['...', 'made', 'anything']",6,0.0,0.0,1.0,2
+script-ch0.rpy,Natsuki,12c Well maybe!,"['12c', 'well', 'maybe', '!']",3,0.0,0.0,1.0,1
+script-ch0.rpy,Natsuki,But not for y-you know iyou!/i Dummy...,"['y-you', 'know', 'iyou', '!', '/i', 'dummy', '...']",9,0.0,0.0,1.0,2
+script-ch0.rpy,Natsuki,You know it!,"['know', '!']",3,0.0,0.0,1.0,2
+script-ch0.rpy,Natsuki,Ugh I hate horror...,"['ugh', 'hate', 'horror', '...']",4,-0.8,0.9,1.0,0
+script-ch0.rpy,Natsuki,Well I just...,"['well', '...']",3,0.0,0.0,1.0,1
+script-ch0.rpy,Natsuki,Never mind.,"['never', 'mind']",2,0.0,0.0,1.0,0
+script-ch0.rpy,Natsuki,W-What?,"['w-what', '?']",2,0.0,0.0,1.0,1
+script-ch0.rpy,Natsuki,What gives you that idea?,"['gives', 'idea', '?']",5,0.0,0.0,1.0,2
+script-ch0.rpy,Natsuki,Dont say it out loud!!,"['dont', 'say', 'loud', '!', '!']",5,0.15625,0.8,1.0,2
+script-ch0.rpy,Natsuki,And give that back!,"['give', 'back', '!']",4,0.0,0.0,1.0,0
+script-ch0.rpy,Natsuki,iIm not cute!!/i,"['iim', 'cute', '!', '!', '/i']",4,0.0,0.0,1.0,0
+script-ch0.rpy,Natsuki,Eh? Well I guess sometimes.,"['eh', '?', 'well', 'guess', 'sometimes']",5,0.0,0.0,1.0,1
+script-ch0.rpy,Natsuki,Why do you care?,"['care', '?']",4,0.0,0.0,1.0,2
+script-ch0.rpy,Natsuki,N-No!,"['n-no', '!']",2,0.0,0.0,1.0,0
+script-ch0.rpy,Natsuki,You wouldnt...like them...,"['wouldnt', '...', 'like', '...']",4,0.0,0.0,1.0,2
+script-ch0.rpy,Natsuki,    ny ...?,"['ny', '...', '?']",1,0.0,0.0,0.6666666666666666,0
+script-ch0.rpy,Natsuki,U-Um...,"['u-um', '...']",2,0.0,0.0,1.0,0
+script-ch0.rpy,Natsuki,Hmph.,['hmph'],1,0.0,0.0,1.0,0
+script-ch0.rpy,Natsuki,If you really just came for the cupcakes I would be super pissed.,"['really', 'came', 'cupcakes', 'would', 'super', 'pissed']",13,0.26666666666666666,0.43333333333333335,1.0,2
+script-ch1.rpy,Natsuki,Oh come on! Like he deserves any slack.,"['oh', 'come', '!', 'like', 'deserves', 'slack']",8,0.0,0.0,1.0,0
+script-ch1.rpy,Natsuki,Sayori told me you didnt even want to join any clubs this year.,"['sayori', 'told', 'didnt', 'even', 'want', 'join', 'clubs', 'year']",13,0.0,0.0,1.0,2
+script-ch1.rpy,Natsuki,And last year too!,"['last', 'year', '!']",4,0.0,0.06666666666666667,1.0,0
+script-ch1.rpy,Natsuki,I dont know if you plan to just come here and hang out or what...,"['dont', 'know', 'plan', 'come', 'hang', '...']",15,0.0,0.0,1.0,2
+script-ch1.rpy,Natsuki,But if you dont take us seriously then you wont see the end of it.,"['dont', 'take', 'us', 'seriously', 'wont', 'see', 'end']",15,-0.3333333333333333,0.6666666666666666,0.9333333333333333,2
+script-ch1.rpy,Natsuki,M-M-M...!!,"['m-m-m', '...', '!', '!']",3,0.0,0.0,1.0,0
+script-ch1.rpy,Natsuki,Manga is literature!!,"['manga', 'literature', '!', '!']",3,0.0,0.0,1.0,0
+script-ch1.rpy,Natsuki,i(Whats with this language...?)/i,"['(', 'whats', 'language', '...', '?', ')', '/i']",6,0.0,0.0,1.0,0
+script-ch1.rpy,Natsuki,Oh its nothing.,"['oh', 'nothing']",3,0.0,0.0,1.0,0
+script-ch1.rpy,Natsuki,I guess you could say its fancy.,"['guess', 'could', 'say', 'fancy']",7,0.0,0.0,1.0,2
+script-ch1.rpy,Natsuki,Cute?,"['cute', '?']",1,0.5,1.0,1.0,0
+script-ch1.rpy,Natsuki,Did you completely miss the symbolism or something?,"['completely', 'miss', 'symbolism', 'something', '?']",8,0.1,0.4,1.0,2
+script-ch1.rpy,Natsuki,Its clearly about the feeling of giving up.,"['clearly', 'feeling', 'giving']",8,0.10000000000000002,0.3833333333333333,1.0,0
+script-ch1.rpy,Natsuki,How can that be cute?,"['cute', '?']",5,0.5,1.0,1.0,2
+script-ch1.rpy,Natsuki,Eh?,"['eh', '?']",1,0.0,0.0,1.0,0
+script-ch1.rpy,Natsuki,You mean you have to try that hard to come up with something nice to say?,"['mean', 'try', 'hard', 'come', 'something', 'nice', 'say', '?']",16,-0.001388888888888921,0.7430555555555555,0.8125,2
+script-ch1.rpy,Natsuki,Thanks but it really didnt come out nice at all!,"['thanks', 'really', 'didnt', 'come', 'nice', '!']",10,0.3833333333333333,0.4666666666666666,1.0,0
+script-ch1.rpy,Natsuki,Hmph.,['hmph'],1,0.0,0.0,1.0,0
+script-ch1.rpy,Natsuki,If I was looking for suggestions I would have asked someone who actually liked it.,"['looking', 'suggestions', 'would', 'asked', 'someone', 'actually', 'liked']",15,0.6,0.8,0.9333333333333333,0
+script-ch1.rpy,Natsuki,Which people idid/i by the way.,"['people', 'idid/i', 'way']",7,0.0,0.0,1.0,0
+script-ch1.rpy,Natsuki,Sayori liked it.,"['sayori', 'liked']",3,0.6,0.8,1.0,0
+script-ch1.rpy,Natsuki,And player did too!,"['player', '!']",4,0.0,0.0,1.0,0
+script-ch1.rpy,Natsuki,So based on that Ill gladly give you some suggestions of my own.,"['based', 'ill', 'gladly', 'give', 'suggestions']",13,0.19999999999999998,1.0,1.0,0
+script-ch1.rpy,Natsuki,First of all--,"['first', '--']",3,0.25,0.3333333333333333,1.0,0
+script-ch1.rpy,Natsuki,Nn...!,"['nn', '...', '!']",1,0.0,0.0,1.0,0
+script-ch1.rpy,Natsuki,Oh?,"['oh', '?']",1,0.0,0.0,1.0,0
+script-ch1.rpy,Natsuki,I didnt realize you were so invested in trying to impress our new member Yuri.,"['didnt', 'realize', 'invested', 'trying', 'impress', 'new', 'member', 'yuri']",15,0.13636363636363635,0.45454545454545453,1.0,2
+script-ch1.rpy,Natsuki,Huh! And how do you know he didnt appreciate imy/i advice more?,"['huh', '!', 'know', 'didnt', 'appreciate', 'imy/i', 'advice', '?']",13,0.5,0.5,1.0,2
+script-ch1.rpy,Natsuki,Are you that full of yourself?,"['full', '?']",6,0.35,0.55,1.0,2
+script-ch1.rpy,Natsuki,Uuuuuu...!,"['uuuuuu', '...', '!']",1,0.0,0.0,1.0,0
+script-ch1.rpy,Natsuki,Well you know what?!,"['well', 'know', '?', '!']",4,0.0,0.0,1.0,1
+script-ch1.rpy,Natsuki,I wasnt the one whose boobs magically grew a size bigger as soon as player started showing up!!,"['wasnt', 'one', 'whose', 'boobs', 'magically', 'grew', 'size', 'bigger', 'soon', 'player', 'started', 'showing', '!', '!']",18,0.25,0.75,0.9444444444444444,0
+script-ch1.rpy,Natsuki,    ny This doesnt involve you!,"['ny', 'doesnt', 'involve', '!']",5,0.0,0.0,1.0,2
+script-ch1.rpy,Natsuki,Thats not true!,"['thats', 'true', '!']",3,-0.21875,0.65,1.0,0
+script-ch1.rpy,Natsuki,She started it!,"['started', '!']",3,0.0,0.0,1.0,0
+script-ch1.rpy,Natsuki,If she could get over herself and learn to appreciate that isimple/i writing is more effective...,"['could', 'get', 'learn', 'appreciate', 'isimple/i', 'writing', 'effective', '...']",17,0.55,0.65,1.0,2
+script-ch1.rpy,Natsuki,Then this wouldnt have happened in the first place!,"['wouldnt', 'happened', 'first', 'place', '!']",9,0.3125,0.3333333333333333,1.0,0
+script-ch1.rpy,Natsuki,Whats the point in making your poems all convoluted for no reason?,"['whats', 'point', 'making', 'poems', 'convoluted', 'reason', '?']",12,0.0,0.0,1.0,0
+script-ch1.rpy,Natsuki,The meaning should jump out at the reader not force them to have to figure it out.,"['meaning', 'jump', 'reader', 'force', 'figure']",17,0.0,0.0,0.8235294117647058,2
+script-ch1.rpy,Natsuki,Help me explain that to her player!,"['help', 'explain', 'player', '!']",7,0.0,0.0,1.0,2
+script-ch1.rpy,Natsuki,    ny Well??,"['ny', 'well', '?', '?']",2,0.0,0.0,1.0,1
+script-ch1.rpy,Natsuki,It was alright. Well mostly.,"['alright', 'well', 'mostly']",5,0.5,0.5,1.0,1
+script-ch1.rpy,Natsuki,...Yeah!!,"['...', 'yeah', '!', '!']",1,0.0,0.0,1.0,0
+script-ch1.rpy,Natsuki,It did didnt it?!,"['didnt', '?', '!']",4,0.0,0.0,0.75,2
+script-ch1.rpy,Natsuki,Ahah!,"['ahah', '!']",1,0.0,0.0,1.0,0
+script-ch1.rpy,Natsuki,Shows how much iyou/i know!,"['shows', 'much', 'iyou/i', 'know', '!']",6,0.25,0.2,1.0,0
+script-ch1.rpy,Natsuki,Huh?,"['huh', '?']",1,0.0,0.0,1.0,0
+script-ch1.rpy,Natsuki,Me?,['?'],1,0.0,0.0,1.0,2
+script-ch1.rpy,Natsuki,But she was so mean to me...!,"['mean', '...', '!']",7,-0.390625,0.6875,1.0,2
+script-ch1.rpy,Natsuki,Ah--,"['ah', '--']",1,0.0,0.0,1.0,0
+script-ch1.rpy,Natsuki,...Thanks for noticing.,"['...', 'thanks', 'noticing']",3,0.0,0.0,1.0,0
+script-ch1.rpy,Natsuki,Hey...!,"['hey', '...', '!']",1,0.0,0.0,1.0,0
+script-ch1.rpy,Natsuki,Its not like you need to apologize ifor/i me player.,"['like', 'need', 'apologize', 'ifor/i', 'player']",11,0.0,0.0,1.0,2
+script-ch1.rpy,Natsuki,Sheesh.,['sheesh'],1,0.0,0.0,1.0,0
+script-ch1.rpy,Natsuki,I...,['...'],1,0.0,0.0,1.0,0
+script-ch1.rpy,Natsuki,The thing about...,"['thing', '...']",3,0.0,0.0,1.0,0
+script-ch1.rpy,Natsuki,Uu...,"['uu', '...']",1,0.0,0.0,1.0,0
+script-ch1.rpy,Natsuki,iWould everyone stop staring at me??/i,"['iwould', 'everyone', 'stop', 'staring', '?', '?', '/i']",7,0.0,0.0,1.0,0
+script-ch1.rpy,Natsuki,Hmph.,['hmph'],1,0.0,0.0,1.0,0
+script-ch1.rpy,Natsuki,Anyway...!,"['anyway', '...', '!']",1,0.0,0.0,1.0,0
+script-ch1.rpy,Natsuki,The thing about your boobs. I didnt mean it okay?,"['thing', 'boobs', 'didnt', 'mean', 'okay', '?']",10,0.09375,0.59375,1.0,0
+script-ch1.rpy,Natsuki,Thats all.,['thats'],2,0.0,0.0,1.0,0
+script-ch1.rpy,Natsuki,See??,"['see', '?', '?']",1,0.0,0.0,1.0,0
+script-ch1.rpy,Natsuki,Thats not what happened at all!,"['thats', 'happened', '!']",6,0.0,0.0,1.0,0
+script-ch1.rpy,Natsuki,Yuri wouldnt even take my poem seriously!,"['yuri', 'wouldnt', 'even', 'take', 'poem', 'seriously', '!']",7,-0.41666666666666663,0.6666666666666666,1.0,0
+script-ch1.rpy,Natsuki,Are you kidding?,"['kidding', '?']",3,0.0,0.0,1.0,2
+script-ch1.rpy,Natsuki,Thats exactly what I did!,"['thats', 'exactly', '!']",5,0.3125,0.25,1.0,0
+script-ch1.rpy,Natsuki,It was iher/i that--,"['iher/i', '--']",5,0.0,0.0,1.0,2
+script-ch1.rpy,Natsuki,Nnn...!,"['nnn', '...', '!']",1,0.0,0.0,1.0,0
+script-ch1.rpy,Natsuki,You know what?,"['know', '?']",3,0.0,0.0,1.0,2
+script-ch1.rpy,Natsuki,Im going to do that.,"['im', 'going']",5,0.0,0.0,1.0,2
+script-ch1.rpy,Natsuki,Itll spare me from having to look at all your faces right now.,"['itll', 'spare', 'look', 'faces', 'right']",13,0.2857142857142857,0.5357142857142857,1.0,0
+script-ch1.rpy,Natsuki,Well... Thats her problem! This isnt about her.,"['well', '...', 'thats', 'problem', '!', 'isnt']",8,0.0,0.0,0.875,0
+script-ch1.rpy,Natsuki,Yeah unless Sayori wants to tell Yuri what a stuck-up jerk shes being.,"['yeah', 'unless', 'sayori', 'wants', 'tell', 'yuri', 'stuck-up', 'jerk', 'shes']",14,0.2,0.1,1.0,0
+script-ch1.rpy,Natsuki,iExcuse/i me?,"['iexcuse/i', '?']",3,0.0,0.0,1.0,0
+script-ch1.rpy,Natsuki,Are you listening to yourself?,"['listening', '?']",5,0.0,0.0,1.0,2
+script-ch1.rpy,Natsuki,This is exactly why...,"['exactly', '...']",4,0.25,0.25,1.0,0
+script-ch1.rpy,Natsuki,Exactly why nobody likes--,"['exactly', 'nobody', 'likes', '--']",4,0.25,0.25,1.0,0
+script-ch1.rpy,Natsuki,    ny --,"['ny', '--']",1,0.0,0.0,0.6666666666666666,0
+script-ch1.rpy,Natsuki,Be-Because...,"['be-because', '...']",2,0.0,0.0,1.0,0
+script-ch1.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-ch2.rpy,Natsuki,Ahahaha!,"['ahahaha', '!']",1,0.0,0.0,1.0,0
+script-ch2.rpy,Natsuki,I iwas/i just gonna give it to you.,"['iwas/i', 'gon', 'na', 'give']",9,0.0,0.0,1.0,2
+script-ch2.rpy,Natsuki,But then I heard you blab about the cupcakes.,"['heard', 'blab', 'cupcakes']",9,0.0,0.0,1.0,2
+script-ch2.rpy,Natsuki,It was totally worth seeing your reaction though. Ahaha!,"['totally', 'worth', 'seeing', 'reaction', 'though', 'ahaha', '!']",9,0.375,0.1,1.0,0
+script-ch2.rpy,Natsuki,Ehehe.,['ehehe'],1,0.0,0.0,1.0,0
+script-ch2.rpy,Natsuki,Youre going through a lot over just one cookie.,"['youre', 'going', 'lot', 'one', 'cookie']",9,0.0,0.0,1.0,2
+script-ch2.rpy,Natsuki,Jeez...,"['jeez', '...']",1,0.0,0.0,1.0,0
+script-ch2.rpy,Natsuki,Beggars cant be choosers!,"['beggars', 'cant', 'choosers', '!']",4,0.0,0.0,1.0,0
+script-ch2.rpy,Natsuki,Yeah why do you think I gave you that one?,"['yeah', 'think', 'gave', 'one', '?']",10,0.0,0.0,0.9,2
+script-ch2.rpy,Natsuki,12c Ah-- Jeez...,"['12c', 'ah', '--', 'jeez', '...']",3,0.0,0.0,1.0,0
+script-ch2.rpy,Natsuki,I get it I get it.,"['get', 'get']",6,0.0,0.0,0.5,2
+script-ch2.rpy,Natsuki,iH-Hey!!/i,"['ih-hey', '!', '!', '/i']",3,0.0,0.0,1.0,0
+script-ch2.rpy,Natsuki,Did you seriously just do that?!,"['seriously', '?', '!']",6,-0.41666666666666663,0.6666666666666666,0.8333333333333334,2
+script-ch2.rpy,Natsuki,Jeez! Youre such a kid sometimes!,"['jeez', '!', 'youre', 'kid', 'sometimes', '!']",6,0.0,0.5,1.0,0
+script-ch2.rpy,Natsuki,Monika! Can you tell Sayori--,"['monika', '!', 'tell', 'sayori', '--']",5,0.0,0.0,1.0,2
+script-ch2.rpy,Natsuki,--Eh?,"['--', 'eh', '?']",1,0.0,0.0,1.0,0
+script-ch2.rpy,Natsuki,Ugh...,"['ugh', '...']",1,0.0,0.0,1.0,0
+script-ch2.rpy,Natsuki,Wheres Monika anyway?,"['wheres', 'monika', 'anyway', '?']",3,0.0,0.0,1.0,0
+script-ch2.rpy,Natsuki,Of course shes okay.,"['course', 'shes', 'okay']",4,0.5,0.5,1.0,0
+script-ch2.rpy,Natsuki,She probably just had something to do today.,"['probably', 'something', 'today']",8,0.0,0.0,1.0,2
+script-ch2.rpy,Natsuki,Shes pretty popular after all...,"['shes', 'pretty', 'popular', '...']",5,0.425,0.95,1.0,0
+script-ch2.rpy,Natsuki,Excuse me?!,"['excuse', '?', '!']",2,-0.0625,0.05,1.0,0
+script-ch2.rpy,Natsuki,That makes no sense though.,"['makes', 'sense', 'though']",5,0.0,0.0,1.0,0
+script-ch2.rpy,Natsuki,You would have heard the bell ring at least.,"['would', 'heard', 'bell', 'ring', 'least']",9,-0.3,0.4,1.0,2
+script-ch2.rpy,Natsuki,Is this about the festival?,"['festival', '?']",5,0.0,0.0,1.0,0
+script-ch2.rpy,Natsuki,Ugh. Do we really have to do something for the festival?,"['ugh', 'really', 'something', 'festival', '?']",11,0.2,0.2,0.9090909090909091,2
+script-ch2.rpy,Natsuki,Its not like we can put together anything good in just a few days.,"['like', 'put', 'together', 'anything', 'good', 'days']",14,0.24999999999999997,0.35000000000000003,1.0,2
+script-ch2.rpy,Natsuki,Well just end up embarrassing ourselves instead of getting any new members.,"['well', 'end', 'embarrassing', 'instead', 'getting', 'new', 'members']",12,0.13636363636363635,0.45454545454545453,1.0,0
+script-ch2.rpy,Natsuki,Okay thats great and all...,"['okay', 'thats', 'great', '...']",5,0.65,0.625,1.0,0
+script-ch2.rpy,Natsuki,But that doesnt tell us what were actually going to be doing for the event.,"['doesnt', 'tell', 'us', 'actually', 'going', 'event']",15,0.0,0.1,0.9333333333333333,2
+script-ch2.rpy,Natsuki,Performing?,"['performing', '?']",1,0.0,0.0,1.0,0
+script-ch2.rpy,Natsuki,Are you kidding me Monika?,"['kidding', 'monika', '?']",5,0.0,0.0,1.0,2
+script-ch2.rpy,Natsuki,You didnt...you didnt already start putting those posters up did you?,"['didnt', '...', 'didnt', 'already', 'start', 'putting', 'posters', '?']",12,0.0,0.0,0.9090909090909091,2
+script-ch2.rpy,Natsuki,Well no.,['well'],2,0.0,0.0,1.0,1
+script-ch2.rpy,Natsuki,Its not a bad idea.,"['bad', 'idea']",5,0.3499999999999999,0.6666666666666666,1.0,0
+script-ch2.rpy,Natsuki,But I didnt sign up for this you know!,"['didnt', 'sign', 'know', '!']",9,0.0,0.0,1.0,2
+script-ch2.rpy,Natsuki,There is ino/i way Im going to be performing in front of a group of people like that!,"['ino/i', 'way', 'im', 'going', 'performing', 'front', 'group', 'people', 'like', '!']",19,0.0,0.0,0.8888888888888888,2
+script-ch2.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-ch2.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-ch2.rpy,Natsuki,Well...maybe but...,"['well', '...', 'maybe', '...']",3,0.0,0.0,1.0,1
+script-ch2.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-ch2.rpy,Natsuki,Uu...,"['uu', '...']",1,0.0,0.0,1.0,0
+script-ch2.rpy,Natsuki,...Okay fine!,"['...', 'okay', 'fine', '!']",2,0.5208333333333334,0.5,1.0,0
+script-ch2.rpy,Natsuki,I guess Ill just have to get it over with.,"['guess', 'ill', 'get']",10,-0.5,1.0,1.0,2
+script-ch2.rpy,Natsuki,N-N-No way!!,"['n-n-no', 'way', '!', '!']",4,0.0,0.0,1.0,0
+script-ch2.rpy,Natsuki,Hmph.,['hmph'],1,0.0,0.0,1.0,0
+script-ch2.rpy,Natsuki,Dont make me go before player.,"['dont', 'make', 'go', 'player']",6,0.0,0.0,1.0,2
+script-ch2.rpy,Natsuki,Its not like I can compare to you guys anyway...,"['like', 'compare', 'guys', 'anyway', '...']",10,0.0,0.0,1.0,2
+script-ch2.rpy,Natsuki,Might as well let player lower everyones standards a little before I have to do it.,"['might', 'well', 'let', 'player', 'lower', 'everyones', 'standards', 'little']",16,-0.1875,0.5,1.0,2
+script-ch2.rpy,Natsuki,Yeah yeah.,"['yeah', 'yeah']",2,0.0,0.0,0.5,0
+script-ch2.rpy,Natsuki,Im going.,"['im', 'going']",2,0.0,0.0,1.0,0
+script-ch2.rpy,Natsuki,The poem is called...,"['poem', 'called', '...']",4,0.0,0.0,1.0,0
+script-ch2.rpy,Natsuki,Its called...,"['called', '...']",2,0.0,0.0,1.0,0
+script-ch2.rpy,Natsuki,W-Why are you all looking at me?!,"['w-why', 'looking', '?', '!']",8,0.0,0.0,1.0,2
+script-ch2.rpy,Natsuki,Hmph...,"['hmph', '...']",1,0.0,0.0,1.0,0
+script-ch2.rpy,Natsuki,Anyway...the poem is called iJump/i.,"['anyway', '...', 'poem', 'called', 'ijump/i']",7,0.0,0.0,1.0,0
+script-ch2.rpy,Natsuki,Easy for you to say...,"['easy', 'say', '...']",5,0.43333333333333335,0.8333333333333334,1.0,2
+script-ch2.rpy,Natsuki,Youd better not make me do that again.,"['youd', 'better', 'make']",8,0.5,0.5,1.0,2
+script-ch2.rpy,Natsuki,I mean doing it in front of other people will be way easier!,"['mean', 'front', 'people', 'way', 'easier', '!']",13,-0.234375,0.53125,1.0,0
+script-ch2.rpy,Natsuki,I can put on whatever face I want for other people.,"['put', 'whatever', 'face', 'want', 'people']",11,-0.125,0.375,0.9090909090909091,0
+script-ch2.rpy,Natsuki,But when its just my friends...,"['friends', '...']",6,0.0,0.0,1.0,2
+script-ch2.rpy,Natsuki,Its just...embarrassing.,"['...', 'embarrassing']",3,0.0,0.0,1.0,2
+script-ch2.rpy,Natsuki,Well thats just how it is so...,"['well', 'thats', '...']",7,0.0,0.0,1.0,1
+script-ch2.rpy,Natsuki,Look at you two always going home together like that.,"['look', 'two', 'always', 'going', 'home', 'together', 'like']",10,0.0,0.0,1.0,2
+script-ch20.rpy,Natsuki,Seriously? You brought a boy?,"['seriously', '?', 'brought', 'boy', '?']",5,-0.3333333333333333,0.6666666666666666,1.0,2
+script-ch20.rpy,Natsuki,Way to kill the atmosphere.,"['way', 'kill', 'atmosphere']",5,0.0,0.0,1.0,2
+script-ch20.rpy,Natsuki,So let me guess...,"['let', 'guess', '...']",4,0.0,0.0,1.0,0
+script-ch20.rpy,Natsuki,Youre Monikas boyfriend right?,"['youre', 'monikas', 'boyfriend', 'right', '?']",4,0.2857142857142857,0.5357142857142857,1.0,0
+script-ch20.rpy,Natsuki,Wait! Monika!,"['wait', '!', 'monika', '!']",2,0.0,0.0,1.0,0
+script-ch20.rpy,Natsuki,Didnt I tell you to let me know in advance before you brought anyone new?,"['didnt', 'tell', 'let', 'know', 'advance', 'brought', 'anyone', 'new', '?']",15,0.13636363636363635,0.45454545454545453,0.9333333333333333,2
+script-ch20.rpy,Natsuki,I was going to...well you know...,"['going', '...', 'well', 'know', '...']",7,0.0,0.0,1.0,1
+script-ch20.rpy,Natsuki,Well...,"['well', '...']",1,0.0,0.0,1.0,1
+script-ch20.rpy,Natsuki,...I guess.,"['...', 'guess']",2,0.0,0.0,1.0,0
+script-ch20.rpy,Natsuki,Ugh I hate horror...,"['ugh', 'hate', 'horror', '...']",4,-0.8,0.9,1.0,0
+script-ch20.rpy,Natsuki,Well I just...,"['well', '...']",3,0.0,0.0,1.0,1
+script-ch20.rpy,Natsuki,Never mind.,"['never', 'mind']",2,0.0,0.0,1.0,0
+script-ch20.rpy,Natsuki,W-What?,"['w-what', '?']",2,0.0,0.0,1.0,1
+script-ch20.rpy,Natsuki,What gives you that idea?,"['gives', 'idea', '?']",5,0.0,0.0,1.0,2
+script-ch20.rpy,Natsuki,Dont say it out loud!!,"['dont', 'say', 'loud', '!', '!']",5,0.15625,0.8,1.0,2
+script-ch20.rpy,Natsuki,And give that back!,"['give', 'back', '!']",4,0.0,0.0,1.0,0
+script-ch20.rpy,Natsuki,Eh? Well I guess sometimes.,"['eh', '?', 'well', 'guess', 'sometimes']",5,0.0,0.0,1.0,1
+script-ch20.rpy,Natsuki,Why do you care?,"['care', '?']",4,0.0,0.0,1.0,2
+script-ch20.rpy,Natsuki,N-No!,"['n-no', '!']",2,0.0,0.0,1.0,0
+script-ch20.rpy,Natsuki,You wouldnt...like them...,"['wouldnt', '...', 'like', '...']",4,0.0,0.0,1.0,2
+script-ch20.rpy,Natsuki,    ny ...?,"['ny', '...', '?']",1,0.0,0.0,0.6666666666666666,0
+script-ch20.rpy,Natsuki,U-Um...,"['u-um', '...']",2,0.0,0.0,1.0,0
+script-ch20.rpy,Natsuki,Hmph.,['hmph'],1,0.0,0.0,1.0,0
+script-ch20.rpy,Natsuki,I mean if you really just left after all this I would be super pissed.,"['mean', 'really', 'left', 'would', 'super', 'pissed']",15,0.05520833333333333,0.3885416666666667,0.9333333333333333,2
+script-ch21.rpy,Natsuki,Oh come on! Like he deserves any slack.,"['oh', 'come', '!', 'like', 'deserves', 'slack']",8,0.0,0.0,1.0,0
+script-ch21.rpy,Natsuki,You already had to be dragged here by Monika.,"['already', 'dragged', 'monika']",9,0.0,0.0,1.0,2
+script-ch21.rpy,Natsuki,I dont know if you plan to just come here and hang out or what...,"['dont', 'know', 'plan', 'come', 'hang', '...']",15,0.0,0.0,1.0,2
+script-ch21.rpy,Natsuki,But if you dont take us seriously then you wont see the end of it.,"['dont', 'take', 'us', 'seriously', 'wont', 'see', 'end']",15,-0.3333333333333333,0.6666666666666666,0.9333333333333333,2
+script-ch21.rpy,Natsuki,M-M-M...!!,"['m-m-m', '...', '!', '!']",3,0.0,0.0,1.0,0
+script-ch21.rpy,Natsuki,Manga is literature!!,"['manga', 'literature', '!', '!']",3,0.0,0.0,1.0,0
+script-ch21.rpy,Natsuki,i(Whats with this language...?)/i,"['(', 'whats', 'language', '...', '?', ')', '/i']",6,0.0,0.0,1.0,0
+script-ch21.rpy,Natsuki,Oh its nothing.,"['oh', 'nothing']",3,0.0,0.0,1.0,0
+script-ch21.rpy,Natsuki,I guess you could say its fancy.,"['guess', 'could', 'say', 'fancy']",7,0.0,0.0,1.0,2
+script-ch21.rpy,Natsuki,Cute?,"['cute', '?']",1,0.5,1.0,1.0,0
+script-ch21.rpy,Natsuki,Did you completely miss the symbolism or something?,"['completely', 'miss', 'symbolism', 'something', '?']",8,0.1,0.4,1.0,2
+script-ch21.rpy,Natsuki,Its clearly about the feeling of giving up.,"['clearly', 'feeling', 'giving']",8,0.10000000000000002,0.3833333333333333,1.0,0
+script-ch21.rpy,Natsuki,How can that be cute?,"['cute', '?']",5,0.5,1.0,1.0,2
+script-ch21.rpy,Natsuki,Eh?,"['eh', '?']",1,0.0,0.0,1.0,0
+script-ch21.rpy,Natsuki,You mean you have to try that hard to come up with something nice to say?,"['mean', 'try', 'hard', 'come', 'something', 'nice', 'say', '?']",16,-0.001388888888888921,0.7430555555555555,0.8125,2
+script-ch21.rpy,Natsuki,Thanks but it really didnt come out nice at all!,"['thanks', 'really', 'didnt', 'come', 'nice', '!']",10,0.3833333333333333,0.4666666666666666,1.0,0
+script-ch21.rpy,Natsuki,Hmph.,['hmph'],1,0.0,0.0,1.0,0
+script-ch21.rpy,Natsuki,If I was looking for suggestions I would have asked someone who actually liked it.,"['looking', 'suggestions', 'would', 'asked', 'someone', 'actually', 'liked']",15,0.6,0.8,0.9333333333333333,0
+script-ch21.rpy,Natsuki,Which people idid/i by the way.,"['people', 'idid/i', 'way']",7,0.0,0.0,1.0,0
+script-ch21.rpy,Natsuki,Monika liked it.,"['monika', 'liked']",3,0.6,0.8,1.0,0
+script-ch21.rpy,Natsuki,And player did too!,"['player', '!']",4,0.0,0.0,1.0,0
+script-ch21.rpy,Natsuki,So based on that Ill gladly give you some suggestions of my own.,"['based', 'ill', 'gladly', 'give', 'suggestions']",13,0.19999999999999998,1.0,1.0,0
+script-ch21.rpy,Natsuki,First of all--,"['first', '--']",3,0.25,0.3333333333333333,1.0,0
+script-ch21.rpy,Natsuki,Nn...!,"['nn', '...', '!']",1,0.0,0.0,1.0,0
+script-ch21.rpy,Natsuki,Oh?,"['oh', '?']",1,0.0,0.0,1.0,0
+script-ch21.rpy,Natsuki,I didnt realize you were so invested in trying to impress our new member Yuri.,"['didnt', 'realize', 'invested', 'trying', 'impress', 'new', 'member', 'yuri']",15,0.13636363636363635,0.45454545454545453,1.0,2
+script-ch21.rpy,Natsuki,Huh! And how do you know he didnt appreciate imy/i advice more?,"['huh', '!', 'know', 'didnt', 'appreciate', 'imy/i', 'advice', '?']",13,0.5,0.5,1.0,2
+script-ch21.rpy,Natsuki,Are you that full of yourself?,"['full', '?']",6,0.35,0.55,1.0,2
+script-ch21.rpy,Natsuki,Uuuuuu...!,"['uuuuuu', '...', '!']",1,0.0,0.0,1.0,0
+script-ch21.rpy,Natsuki,Well you know what?!,"['well', 'know', '?', '!']",4,0.0,0.0,1.0,1
+script-ch21.rpy,Natsuki,I wasnt the one whose boobs magically grew a size bigger as soon as player started showing up!!,"['wasnt', 'one', 'whose', 'boobs', 'magically', 'grew', 'size', 'bigger', 'soon', 'player', 'started', 'showing', '!', '!']",18,0.25,0.75,0.9444444444444444,0
+script-ch21.rpy,Natsuki,    ny This doesnt involve you!,"['ny', 'doesnt', 'involve', '!']",5,0.0,0.0,1.0,2
+script-ch21.rpy,Natsuki,iMe?/i Look whos talking you wannabe edgy bitch!,"['ime', '?', '/i', 'look', 'whos', 'talking', 'wannabe', 'edgy', 'bitch', '!']",9,-0.375,0.75,1.0,0
+script-ch21.rpy,Natsuki,See??,"['see', '?', '?']",1,0.0,0.0,1.0,0
+script-ch21.rpy,Natsuki,Just saying that proves my point!,"['saying', 'proves', 'point', '!']",6,0.375,0.0,1.0,2
+script-ch21.rpy,Natsuki,Most people learn to get over themselves after they graduate middle school you know.,"['people', 'learn', 'get', 'graduate', 'middle', 'school', 'know']",14,0.25,0.25,1.0,2
+script-ch21.rpy,Natsuki,Whoa be careful or you might cut yourself on that edge Yuri.,"['whoa', 'careful', 'might', 'cut', 'edge', 'yuri']",12,-0.1,1.0,1.0,2
+script-ch21.rpy,Natsuki,Oh my bad... You already do dont you?,"['oh', 'bad', '...', 'already', 'dont', '?']",8,-0.6999999999999998,0.6666666666666666,0.875,2
+script-ch21.rpy,Natsuki,Yeah go on!,"['yeah', 'go', '!']",3,0.0,0.0,1.0,0
+script-ch21.rpy,Natsuki,Let player hear everything you really think!,"['let', 'player', 'hear', 'everything', 'really', 'think', '!']",7,0.25,0.2,1.0,2
+script-ch21.rpy,Natsuki,Im sure hell be head over heels for you after this!,"['im', 'sure', 'hell', 'head', 'heels', '!']",11,0.625,0.8888888888888888,1.0,0
+script-ch21.rpy,Natsuki,Thats not true!,"['thats', 'true', '!']",3,-0.21875,0.65,1.0,0
+script-ch21.rpy,Natsuki,She started it!,"['started', '!']",3,0.0,0.0,1.0,0
+script-ch21.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-ch22.rpy,Natsuki,Hey have you guys seen Monika?,"['hey', 'guys', 'seen', 'monika', '?']",6,0.0,0.0,1.0,2
+script-ch22.rpy,Natsuki,Man...,"['man', '...']",1,0.0,0.0,1.0,0
+script-ch22.rpy,Natsuki,Yuri Im guessing you havent either?,"['yuri', 'im', 'guessing', 'havent', 'either', '?']",6,0.0,0.0,1.0,0
+script-ch22.rpy,Natsuki,Jeez this isnt like her at all.,"['jeez', 'isnt', 'like']",7,0.0,0.0,1.0,0
+script-ch22.rpy,Natsuki,I know its stupid but I cant help but worry a little bit...,"['know', 'stupid', 'cant', 'help', 'worry', 'little', 'bit', '...']",13,-0.49374999999999997,0.75,0.8461538461538461,0
+script-ch22.rpy,Natsuki,What?,['?'],1,0.0,0.0,1.0,1
+script-ch22.rpy,Natsuki,Whyre you looking at me like that?,"['whyre', 'looking', 'like', '?']",7,0.0,0.0,1.0,2
+script-ch22.rpy,Natsuki,Yuri what the heck are you talking about?,"['yuri', 'heck', 'talking', '?']",8,0.0,0.0,1.0,2
+script-ch22.rpy,Natsuki,Did you do something yesterday?,"['something', 'yesterday', '?']",5,0.0,0.0,0.8,2
+script-ch22.rpy,Natsuki,Jeez...,"['jeez', '...']",1,0.0,0.0,1.0,0
+script-ch22.rpy,Natsuki,Whatevers on your mind Im sure it was nothing.,"['whatevers', 'mind', 'im', 'sure', 'nothing']",9,0.5,0.8888888888888888,1.0,0
+script-ch22.rpy,Natsuki,I dont even remember anything bad happening.,"['dont', 'even', 'remember', 'anything', 'bad', 'happening']",7,-0.6999999999999998,0.6666666666666666,1.0,0
+script-ch22.rpy,Natsuki,Youre the kind of person who worries too much about the little things arent you?,"['youre', 'kind', 'person', 'worries', 'much', 'little', 'things', 'arent', '?']",15,0.2041666666666667,0.5333333333333333,0.9333333333333333,0
+script-ch22.rpy,Natsuki,mibulls sailcloth blindsight lifeline anan rectipetality faultlessly offered scleromalacia neighed catholicate,"['mibulls', 'sailcloth', 'blindsight', 'lifeline', 'anan', 'rectipetality', 'faultlessly', 'offered', 'scleromalacia', 'neighed', 'catholicate']",11,1.0,1.0,1.0,0
+script-ch22.rpy,Natsuki,Ill accept your apology anyway if it helps you feel better about it.,"['ill', 'accept', 'apology', 'anyway', 'helps', 'feel', 'better']",13,0.0,0.75,0.9230769230769231,2
+script-ch22.rpy,Natsuki,Besides its kinda nice to hear since I was always afraid you secretly hated me or something like that.,"['besides', 'kinda', 'nice', 'hear', 'since', 'always', 'afraid', 'secretly', 'hated', 'something', 'like']",19,-0.3,0.8666666666666666,1.0,2
+script-ch22.rpy,Natsuki,Ehehe.,['ehehe'],1,0.0,0.0,1.0,0
+script-ch22.rpy,Natsuki,Ahaha.,['ahaha'],1,0.0,0.0,1.0,0
+script-ch22.rpy,Natsuki,Well youre kind of weird but I dont hate you either.,"['well', 'youre', 'kind', 'weird', 'dont', 'hate', 'either']",11,-0.23333333333333336,0.9333333333333332,1.0,2
+script-ch22.rpy,Natsuki,Youre still on trial though.,"['youre', 'still', 'trial', 'though']",5,0.0,0.0,1.0,0
+script-ch22.rpy,Natsuki,I-I was not!!,"['i-i', '!', '!']",4,0.0,0.0,1.0,0
+script-ch22.rpy,Natsuki,...What took you so long anyway?,"['...', 'took', 'long', 'anyway', '?']",6,-0.05,0.4,1.0,2
+script-ch22.rpy,Natsuki,That makes no sense though.,"['makes', 'sense', 'though']",5,0.0,0.0,1.0,0
+script-ch22.rpy,Natsuki,You would have heard the bell ring at least.,"['would', 'heard', 'bell', 'ring', 'least']",9,-0.3,0.4,1.0,2
+script-ch22.rpy,Natsuki,You should play something for us sometime!,"['play', 'something', 'us', 'sometime', '!']",7,0.0,0.0,1.0,2
+script-ch22.rpy,Natsuki,Is this about the festival?,"['festival', '?']",5,0.0,0.0,1.0,0
+script-ch22.rpy,Natsuki,Ugh. Do we really have to do something for the festival?,"['ugh', 'really', 'something', 'festival', '?']",11,0.2,0.2,0.9090909090909091,2
+script-ch22.rpy,Natsuki,Its not like we can put together anything good in just a few days.,"['like', 'put', 'together', 'anything', 'good', 'days']",14,0.24999999999999997,0.35000000000000003,1.0,2
+script-ch22.rpy,Natsuki,Well just end up embarrassing ourselves instead of getting any new members.,"['well', 'end', 'embarrassing', 'instead', 'getting', 'new', 'members']",12,0.13636363636363635,0.45454545454545453,1.0,0
+script-ch22.rpy,Natsuki,Whats so great about getting new members anyway?,"['whats', 'great', 'getting', 'new', 'members', 'anyway', '?']",8,0.4681818181818182,0.6022727272727273,1.0,0
+script-ch22.rpy,Natsuki,We already have enough to be considered an official club.,"['already', 'enough', 'considered', 'official', 'club']",10,0.0,0.5,1.0,2
+script-ch22.rpy,Natsuki,More members will just mean everything gets noisier and more difficult to manage.,"['members', 'mean', 'everything', 'gets', 'noisier', 'difficult', 'manage']",13,0.046875,0.671875,0.9230769230769231,2
+script-ch22.rpy,Natsuki,42c Oh come on!,"['42c', 'oh', 'come', '!']",4,0.0,0.0,1.0,0
+script-ch22.rpy,Natsuki,You cant take advantage of player to agree with you just because he doesnt know how to say no to anything.,"['cant', 'take', 'advantage', 'player', 'agree', 'doesnt', 'know', 'say', 'anything']",21,0.0,0.0,0.8571428571428571,2
+script-ch22.rpy,Natsuki,Look Monika.,"['look', 'monika']",2,0.0,0.0,1.0,0
+script-ch22.rpy,Natsuki,Do you really think any of us here joined the club with other people in mind?,"['really', 'think', 'us', 'joined', 'club', 'people', 'mind', '?']",16,0.037500000000000006,0.2875,1.0,2
+script-ch22.rpy,Natsuki,Yuri never even talked until player joined.,"['yuri', 'never', 'even', 'talked', 'player', 'joined']",7,0.0,0.0,1.0,0
+script-ch22.rpy,Natsuki,As for me I just like it better here than I do at home.,"['like', 'better', 'home']",14,0.5,0.5,0.9285714285714286,2
+script-ch22.rpy,Natsuki,And player isnt even passionate about literature in the first place.,"['player', 'isnt', 'even', 'passionate', 'literature', 'first', 'place']",11,0.1,0.5916666666666667,1.0,0
+script-ch22.rpy,Natsuki,And thats everyone.,"['thats', 'everyone']",3,0.0,0.0,1.0,0
+script-ch22.rpy,Natsuki,Sorry but youre really the only one whos so interested in finding new members.,"['sorry', 'youre', 'really', 'one', 'whos', 'interested', 'finding', 'new', 'members']",14,0.017272727272727273,0.630909090909091,1.0,0
+script-ch22.rpy,Natsuki,The rest of us are fine like this.,"['rest', 'us', 'fine', 'like']",8,0.4166666666666667,0.5,1.0,0
+script-ch22.rpy,Natsuki,I know youre President and all but you should really consider our opinions for once.,"['know', 'youre', 'president', 'really', 'consider', 'opinions']",15,0.2,0.2,1.0,2
+script-ch22.rpy,Natsuki,What me?,['?'],2,0.0,0.0,1.0,2
+script-ch22.rpy,Natsuki,I just spoke my mind...,"['spoke', 'mind', '...']",5,0.0,0.0,1.0,2
+script-ch22.rpy,Natsuki,Is it a crime to be honest?,"['crime', 'honest', '?']",7,0.6,0.9,0.8571428571428571,2
+script-ch22.rpy,Natsuki,You dont understand at all!,"['dont', 'understand', '!']",5,0.0,0.0,1.0,2
+script-ch22.rpy,Natsuki,I just...,['...'],2,0.0,0.0,1.0,2
+script-ch22.rpy,Natsuki,I just want a place that feels nice to hang out with a few friends.,"['want', 'place', 'feels', 'nice', 'hang', 'friends']",15,0.19999999999999998,0.55,0.9333333333333333,2
+script-ch22.rpy,Natsuki,Is there a problem with the club being that for me?,"['problem', 'club', '?']",11,0.0,0.0,1.0,0
+script-ch22.rpy,Natsuki,There arent...there arent many other places like that for me...,"['arent', '...', 'arent', 'many', 'places', 'like', '...']",11,0.1875,0.4375,1.0,0
+script-ch22.rpy,Natsuki,And now Monika wants to take it away from me!,"['monika', 'wants', 'take', 'away', '!']",10,0.25,0.1,1.0,2
+script-ch22.rpy,Natsuki,No player.,['player'],2,0.0,0.0,1.0,0
+script-ch22.rpy,Natsuki,Its not the same.,[],4,0.0,0.125,1.0,0
+script-ch22.rpy,Natsuki,It wont be the same with the direction she wants to take it.,"['wont', 'direction', 'wants', 'take']",13,0.1,0.1125,0.8461538461538461,2
+script-ch22.rpy,Natsuki,If I wanted that then I could have just joined any other stupid club.,"['wanted', 'could', 'joined', 'stupid', 'club']",14,-0.46249999999999997,0.6875,0.9285714285714286,2
+script-ch22.rpy,Natsuki,12d But this one...,"['12d', 'one', '...']",4,0.0,0.0,1.0,0
+script-ch22.rpy,Natsuki,I mean...,"['mean', '...']",2,-0.3125,0.6875,1.0,0
+script-ch22.rpy,Natsuki,12e At least for a little bit of time...,"['12e', 'least', 'little', 'bit', 'time', '...']",9,-0.24375,0.45,1.0,0
+script-ch22.rpy,Natsuki,Things were nice.,"['things', 'nice']",3,0.6,1.0,1.0,0
+script-ch22.rpy,Natsuki,12d Im going home.,"['12d', 'im', 'going', 'home']",4,0.0,0.0,1.0,0
+script-ch22.rpy,Natsuki,I feel like...I dont belong here right now.,"['feel', 'like', '...', 'dont', 'belong', 'right']",9,0.2857142857142857,0.5357142857142857,1.0,0
+script-ch23.rpy,Natsuki,Monika!,"['monika', '!']",1,0.0,0.0,1.0,0
+script-ch23.rpy,Natsuki,I told you not to--,"['told', '--']",5,0.0,0.0,1.0,2
+script-ch23.rpy,Natsuki,Ugh...,"['ugh', '...']",1,0.0,0.0,1.0,0
+script-ch23.rpy,Natsuki,Is she really late again?,"['really', 'late', '?']",5,-0.3,0.6,1.0,0
+script-ch23.rpy,Natsuki,Excuse me?,"['excuse', '?']",2,-0.05,0.05,1.0,0
+script-ch23.rpy,Natsuki,What are you talking about?!,"['talking', '?', '!']",5,0.0,0.0,1.0,2
+script-ch23.rpy,Natsuki,You say that like I do it on a regular basis or something.,"['say', 'like', 'regular', 'basis', 'something']",13,0.0,0.07692307692307693,1.0,2
+script-ch23.rpy,Natsuki,I just wasnt paying attention okay? Im sorry.,"['wasnt', 'paying', 'attention', 'okay', '?', 'im', 'sorry']",8,0.0,0.75,1.0,0
+script-ch23.rpy,Natsuki,Seriously... Whats gotten into you lately?,"['seriously', '...', 'whats', 'gotten', 'lately', '?']",6,-0.31666666666666665,0.6333333333333333,1.0,0
+script-ch23.rpy,Natsuki,Look...,"['look', '...']",1,0.0,0.0,1.0,0
+script-ch23.rpy,Natsuki,I did some thinking about yesterday.,"['thinking', 'yesterday']",6,0.0,0.0,1.0,0
+script-ch23.rpy,Natsuki,I was a little more hostile than I meant to be...,"['little', 'hostile', 'meant', '...']",11,0.15625,0.5,0.8181818181818182,2
+script-ch23.rpy,Natsuki,I guess I really felt threatened or something.,"['guess', 'really', 'felt', 'threatened', 'something']",8,0.2,0.2,0.875,0
+script-ch23.rpy,Natsuki,But I know this is something were doing together.,"['know', 'something', 'together']",9,0.0,0.0,0.8888888888888888,0
+script-ch23.rpy,Natsuki,Another new member wouldnt hurt as long as theyre cool...,"['another', 'new', 'member', 'wouldnt', 'hurt', 'long', 'theyre', 'cool', '...']",10,0.14545454545454545,0.5015151515151515,0.9,0
+script-ch23.rpy,Natsuki,And I guess another girl would be nice this time...,"['guess', 'another', 'girl', 'would', 'nice', 'time', '...']",10,0.6,1.0,1.0,0
+script-ch23.rpy,Natsuki,So...,['...'],1,0.0,0.0,1.0,0
+script-ch23.rpy,Natsuki,--!,"['--', '!']",0,0.0,0.0,1.0,0
+script-ch23.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-ch23.rpy,Natsuki,12f ...,"['12f', '...']",1,0.0,0.0,1.0,0
+script-ch23.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-ch23.rpy,Natsuki,See it iis/i something.,"['see', 'iis/i', 'something']",5,0.0,0.0,1.0,0
+script-ch23.rpy,Natsuki,Well I just felt like I needed to bring it up.,"['well', 'felt', 'like', 'needed', 'bring']",11,0.0,0.0,0.9090909090909091,2
+script-ch23.rpy,Natsuki,Its not like I really care or anything...,"['like', 'really', 'care', 'anything', '...']",8,0.2,0.2,1.0,0
+script-ch23.rpy,Natsuki,Well player just walked in too.,"['well', 'player', 'walked']",6,0.0,0.0,1.0,1
+script-ch23.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-ch23.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-ch23.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-ch23.rpy,Natsuki,Ahahaha!,"['ahahaha', '!']",1,0.0,0.0,1.0,0
+script-ch23.rpy,Natsuki,Sorry that last part was really funny.,"['sorry', 'last', 'part', 'really', 'funny']",7,-0.08333333333333333,0.6888888888888888,1.0,0
+script-ch23.rpy,Natsuki,Look...,"['look', '...']",1,0.0,0.0,1.0,0
+script-ch23.rpy,Natsuki,I did some thinking about yesterday.,"['thinking', 'yesterday']",6,0.0,0.0,1.0,0
+script-ch23.rpy,Natsuki,I was a little more hostile than I meant to be...,"['little', 'hostile', 'meant', '...']",11,0.15625,0.5,0.8181818181818182,2
+script-ch23.rpy,Natsuki,I guess I really felt threatened or something.,"['guess', 'really', 'felt', 'threatened', 'something']",8,0.2,0.2,0.875,0
+script-ch23.rpy,Natsuki,But I know this is something were doing together.,"['know', 'something', 'together']",9,0.0,0.0,0.8888888888888888,0
+script-ch23.rpy,Natsuki,Another new member wouldnt hurt as long as theyre cool...,"['another', 'new', 'member', 'wouldnt', 'hurt', 'long', 'theyre', 'cool', '...']",10,0.14545454545454545,0.5015151515151515,0.9,0
+script-ch23.rpy,Natsuki,And I guess another girl would be nice this time...,"['guess', 'another', 'girl', 'would', 'nice', 'time', '...']",10,0.6,1.0,1.0,0
+script-ch23.rpy,Natsuki,...But more importantly I would hate to see the event suck just because I chose to back out!,"['...', 'importantly', 'would', 'hate', 'see', 'event', 'suck', 'chose', 'back', '!']",18,0.024999999999999994,0.6,0.8888888888888888,2
+script-ch23.rpy,Natsuki,Im a pro you know!,"['im', 'pro', 'know', '!']",5,0.0,0.0,1.0,2
+script-ch23.rpy,Natsuki,So Im gonna help too and well make sure its done right.,"['im', 'gon', 'na', 'help', 'well', 'make', 'sure', 'done', 'right']",12,0.39285714285714285,0.7123015873015872,1.0,0
+script-ch23.rpy,Natsuki,...Monika?,"['...', 'monika', '?']",1,0.0,0.0,1.0,0
+script-ch23.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-ch23.rpy,Natsuki,Jeez...,"['jeez', '...']",1,0.0,0.0,1.0,0
+script-ch23.rpy,Natsuki,Why is the mood so weird today?,"['mood', 'weird', 'today', '?']",7,-0.5,1.0,1.0,0
+script-ch23.rpy,Natsuki,Look even Yuri isnt immune to it.,"['look', 'even', 'yuri', 'isnt', 'immune']",7,0.0,0.0,1.0,2
+script-ch23.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-ch23.rpy,Natsuki,I want to make cupcakes!,"['want', 'make', 'cupcakes', '!']",5,0.0,0.0,1.0,2
+script-ch23.rpy,Natsuki,Wait you?,"['wait', '?']",2,0.0,0.0,1.0,2
+script-ch23.rpy,Natsuki,You have the easiest job Monika!,"['easiest', 'job', 'monika', '!']",6,0.0,0.0,1.0,2
+script-ch23.rpy,Natsuki,Like hell it is!,"['like', 'hell', '!']",4,0.0,0.0,1.0,0
+script-ch23.rpy,Natsuki,What are you trying to pull?,"['trying', 'pull', '?']",6,0.0,0.0,1.0,2
+script-ch23.rpy,Natsuki,Mine too!,"['mine', '!']",2,0.0,0.0,1.0,0
+script-ch23.rpy,Natsuki,Like iyou/i would fucking know!,"['like', 'iyou/i', 'would', 'fucking', 'know', '!']",6,-0.75,0.8,1.0,0
+script-ch23.rpy,Natsuki,All you care about now is dragging player around with you and your stupid books.,"['care', 'dragging', 'player', 'around', 'stupid', 'books']",15,-0.7999999999999999,1.0,0.9333333333333333,2
+script-ch23.rpy,Natsuki,You iand/i Monika!,"['iand/i', 'monika', '!']",4,0.0,0.0,1.0,2
+script-ch23.rpy,Natsuki,Okay then why not let player decide who to help instead of abusing your power?,"['okay', 'let', 'player', 'decide', 'help', 'instead', 'abusing', 'power', '?']",15,0.5,0.5,1.0,0
+script-ch23.rpy,Natsuki,Jeez...,"['jeez', '...']",1,0.0,0.0,1.0,0
+script-ch23.rpy,Natsuki,player I know how fed up you are with these two by now.,"['player', 'know', 'fed', 'two']",13,0.0,0.0,1.0,2
+script-ch23.rpy,Natsuki,We can just--,['--'],3,0.0,0.0,1.0,2
+script-ch23.rpy,Natsuki,iYou/i shut your mouth!,"['iyou/i', 'shut', 'mouth', '!']",5,0.0,0.0,1.0,0
+script-ch23.rpy,Natsuki,Are you fucking kidding me?,"['fucking', 'kidding', '?']",5,-0.6,0.8,1.0,2
+script-ch23.rpy,Natsuki,This isnt fair at all!,"['isnt', 'fair', '!']",5,0.875,0.9,1.0,0
+script-ch23.rpy,Natsuki,Yuri youre scaring me a little...,"['yuri', 'youre', 'scaring', 'little', '...']",6,-0.1875,0.5,1.0,0
+script-ch23.rpy,Natsuki,Alright its festival time!,"['alright', 'festival', 'time', '!']",4,0.0,0.0,1.0,0
+script-ch23.rpy,Natsuki,Wow you got here before me?,"['wow', 'got', '?']",6,0.1,1.0,1.0,2
+script-ch23.rpy,Natsuki,I thought I was pretty ea--nw,"['thought', 'pretty', 'ea', '--', 'nw']",7,0.25,1.0,0.8333333333333334,0
+script-ch23.rpy,Natsuki,EYAH!,"['eyah', '!']",1,0.0,0.0,1.0,0
+script-ch23.rpy,Natsuki,AAAAAAAAAAAAAAAHHHH!!!,"['aaaaaaaaaaaaaaahhhh', '!', '!', '!']",1,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Aaah I cant wait for the festival!,"['aaah', 'cant', 'wait', 'festival', '!']",7,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Its gonna be great!,"['gon', 'na', 'great', '!']",4,1.0,0.75,1.0,0
+script-ch3.rpy,Natsuki,Well yeah.,"['well', 'yeah']",2,0.0,0.0,1.0,1
+script-ch3.rpy,Natsuki,Im not talking about iour/i part of the festival.,"['im', 'talking', 'iour/i', 'part', 'festival']",10,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,But its a whole day of school where we get to play and eat all kinds of delicious food!,"['whole', 'day', 'school', 'get', 'play', 'eat', 'kinds', 'delicious', 'food', '!']",19,0.6,0.7,0.9473684210526315,0
+script-ch3.rpy,Natsuki,Monika! Do they usually have fried squid?,"['monika', '!', 'usually', 'fried', 'squid', '?']",7,-0.25,0.25,1.0,0
+script-ch3.rpy,Natsuki,Oh come on.,"['oh', 'come']",3,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Are you saying you dont like squid?,"['saying', 'dont', 'like', 'squid', '?']",7,0.0,0.0,0.8571428571428571,2
+script-ch3.rpy,Natsuki,You of all people?,"['people', '?']",4,0.0,0.0,1.0,2
+script-ch3.rpy,Natsuki,Because!,['!'],1,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Its right in your name!,"['right', 'name', '!']",5,0.3571428571428571,0.5357142857142857,1.0,0
+script-ch3.rpy,Natsuki,Mon-ika!,"['mon-ika', '!']",2,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,...?,"['...', '?']",0,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Ehehe.,['ehehe'],1,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Fine fine.,"['fine', 'fine']",2,0.4166666666666667,0.5,0.5,0
+script-ch3.rpy,Natsuki,Your reactions arent as fun as Yuris or Sayoris anyway.,"['reactions', 'arent', 'fun', 'yuris', 'sayoris', 'anyway']",10,0.3,0.2,0.9,0
+script-ch3.rpy,Natsuki,Hey you.,['hey'],2,0.0,0.0,1.0,2
+script-ch3.rpy,Natsuki,Are you just gonna sit there and keep staring at nothing?,"['gon', 'na', 'sit', 'keep', 'staring', 'nothing', '?']",11,0.0,0.0,1.0,2
+script-ch3.rpy,Natsuki,There isnt that much time so...,"['isnt', 'much', 'time', '...']",6,0.2,0.2,1.0,0
+script-ch3.rpy,Natsuki,I-Its not like Im worried!,"['i-its', 'like', 'im', 'worried', '!']",6,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,I was just...,['...'],3,0.0,0.0,1.0,2
+script-ch3.rpy,Natsuki,Jeez...,"['jeez', '...']",1,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Now youre making me feel like a jerk.,"['youre', 'making', 'feel', 'like', 'jerk']",8,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,If somethings bothering you then you can just tell me to leave you alone and I will.,"['somethings', 'bothering', 'tell', 'leave', 'alone']",17,0.0,0.0,0.8823529411764706,2
+script-ch3.rpy,Natsuki,I mean...,"['mean', '...']",2,-0.3125,0.6875,1.0,0
+script-ch3.rpy,Natsuki,Assuming you didnt feel like talking about it or anything...,"['assuming', 'didnt', 'feel', 'like', 'talking', 'anything', '...']",10,0.0,0.0,1.0,2
+script-ch3.rpy,Natsuki,S-Sayori...?,"['s-sayori', '...', '?']",2,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Thinking about her...?,"['thinking', '...', '?']",3,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Oh...,"['oh', '...']",1,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Well first of all...,"['well', 'first', '...']",4,0.25,0.3333333333333333,1.0,1
+script-ch3.rpy,Natsuki,You should really work on your phrasing!,"['really', 'work', 'phrasing', '!']",7,0.25,0.2,1.0,2
+script-ch3.rpy,Natsuki,But anyway...,"['anyway', '...']",2,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Youre her best friend right?,"['youre', 'best', 'friend', 'right', '?']",5,0.6428571428571428,0.4178571428571428,1.0,0
+script-ch3.rpy,Natsuki,Yeah.,['yeah'],1,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Then in that case I think you should trust her a little more.,"['case', 'think', 'trust', 'little']",13,0.15625,0.5,1.0,2
+script-ch3.rpy,Natsuki,If she needed you then you would be the first person she would go to right?,"['needed', 'would', 'first', 'person', 'would', 'go', 'right', '?']",16,0.26785714285714285,0.43452380952380953,0.8125,2
+script-ch3.rpy,Natsuki,I mean some people just have those days.,"['mean', 'people', 'days']",8,-0.3125,0.6875,1.0,2
+script-ch3.rpy,Natsuki,You cant always avoid it.,"['cant', 'always', 'avoid']",5,0.0,0.0,1.0,2
+script-ch3.rpy,Natsuki,If anything she probably doesnt want you to worry about her because its not important.,"['anything', 'probably', 'doesnt', 'want', 'worry', 'important']",15,-0.2,1.0,1.0,2
+script-ch3.rpy,Natsuki,Exactly.,['exactly'],1,0.25,0.25,1.0,0
+script-ch3.rpy,Natsuki,If she needs you to worry about her then itll be a lot more obvious.,"['needs', 'worry', 'itll', 'lot', 'obvious']",15,0.25,0.5,1.0,2
+script-ch3.rpy,Natsuki,She...,['...'],1,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,She really means a lot to you doesnt she...?,"['really', 'means', 'lot', 'doesnt', '...', '?']",9,0.2,0.2,0.8888888888888888,2
+script-ch3.rpy,Natsuki,I was not!!,"['!', '!']",3,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Jeez...if youre fine then lets hurry and get started already!,"['jeez', '...', 'youre', 'fine', 'lets', 'hurry', 'get', 'started', 'already', '!']",11,0.5208333333333334,0.5,1.0,0
+script-ch3.rpy,Natsuki,Hold on a second!,"['hold', 'second', '!']",4,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Is it just me or did you say something strange just now?,"['say', 'something', 'strange', '?']",12,-0.05,0.15,0.9166666666666666,2
+script-ch3.rpy,Natsuki,Jeez...,"['jeez', '...']",1,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Why is the mood so weird today?,"['mood', 'weird', 'today', '?']",7,-0.5,1.0,1.0,0
+script-ch3.rpy,Natsuki,Look even Yuri isnt immune to it.,"['look', 'even', 'yuri', 'isnt', 'immune']",7,0.0,0.0,1.0,2
+script-ch3.rpy,Natsuki,Where the heck did she run off to anyway?,"['heck', 'run', 'anyway', '?']",9,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,I thought she just went to pee.,"['thought', 'went', 'pee']",7,0.0,0.0,1.0,2
+script-ch3.rpy,Natsuki,Oh come on.,"['oh', 'come']",3,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Seriously?,"['seriously', '?']",1,-0.3333333333333333,0.6666666666666666,1.0,0
+script-ch3.rpy,Natsuki,Of all the times to not go home with her you pick the time shes not feeling well?,"['times', 'go', 'home', 'pick', 'time', 'shes', 'feeling', 'well', '?']",18,0.0,0.0,0.8333333333333334,2
+script-ch3.rpy,Natsuki,So much for you two being all lovey-dovey.,"['much', 'two', 'lovey-dovey']",9,0.2,0.2,1.0,0
+script-ch3.rpy,Natsuki,I already know what iIm/i doing!,"['already', 'know', 'iim/i', '!']",7,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Challenge accepted!,"['challenge', 'accepted', '!']",2,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,...?,"['...', '?']",0,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Well even if you dont know how to bake theres always some dirty work I could give to you.,"['well', 'even', 'dont', 'know', 'bake', 'theres', 'always', 'dirty', 'work', 'could', 'give']",19,-0.6,0.8,0.8947368421052632,2
+script-ch3.rpy,Natsuki,Its not like Monikas going to give me a choice and you shouldnt be sitting on your butt anyway...,"['like', 'monikas', 'going', 'give', 'choice', 'shouldnt', 'sitting', 'butt', 'anyway', '...']",19,0.0,0.0,1.0,2
+script-ch3.rpy,Natsuki,Hold on! I never said that!,"['hold', '!', 'never', 'said', '!']",6,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,How hard could it be to make a few decorations anyway?,"['hard', 'could', 'make', 'decorations', 'anyway', '?']",11,-0.24583333333333335,0.3208333333333333,1.0,2
+script-ch3.rpy,Natsuki,Sounds more like youre just making excuses for player to--,"['sounds', 'like', 'youre', 'making', 'excuses', 'player', '--']",10,0.5,0.5,1.0,2
+script-ch3.rpy,Natsuki,And baking isnt?,"['baking', 'isnt', '?']",3,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Just what do you think--,"['think', '--']",5,0.0,0.0,1.0,2
+script-ch3.rpy,Natsuki,You iliterally/i just said--,"['iliterally/i', 'said', '--']",5,0.0,0.0,1.0,2
+script-ch3.rpy,Natsuki,Jeez...,"['jeez', '...']",1,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Can we just settle this already?,"['settle', 'already', '?']",6,0.0,0.0,1.0,2
+script-ch3.rpy,Natsuki,Hmph.,['hmph'],1,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Monika said that Sayori was helping her!,"['monika', 'said', 'sayori', 'helping', '!']",7,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Jeez...,"['jeez', '...']",1,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Do you really hate us that much?,"['really', 'hate', 'us', 'much', '?']",7,-0.30000000000000004,0.55,1.0,2
+script-ch3.rpy,Natsuki,Hold on one second!,"['hold', 'one', 'second', '!']",4,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Monika youre the one who needs the least help out of all of us!,"['monika', 'youre', 'one', 'needs', 'least', 'help', 'us', '!']",14,-0.375,0.4,0.8571428571428571,0
+script-ch3.rpy,Natsuki,That doesnt matter.,"['doesnt', 'matter']",3,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,You were the one who scared him into picking you in the first place.,"['one', 'scared', 'picking', 'first', 'place']",14,0.25,0.3333333333333333,0.8571428571428571,2
+script-ch3.rpy,Natsuki,Youre the club president Monika.,"['youre', 'club', 'president', 'monika']",5,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Youre supposed to make responsible decisions for the club!,"['youre', 'supposed', 'make', 'responsible', 'decisions', 'club', '!']",9,0.25,0.55,1.0,2
+script-ch3.rpy,Natsuki,iExcuse/i me?,"['iexcuse/i', '?']",3,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Yeah!,"['yeah', '!']",1,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,We have a lot of work to do you know!,"['lot', 'work', 'know', '!']",10,0.0,0.0,1.0,2
+script-ch3.rpy,Natsuki,We wont do as good of a job if you make us work alone.,"['wont', 'good', 'job', 'make', 'us', 'work', 'alone']",14,0.7,0.6000000000000001,1.0,2
+script-ch3.rpy,Natsuki,So are you going to do the right thing iPresident/i?,"['going', 'right', 'thing', 'ipresident/i', '?']",11,0.2857142857142857,0.5357142857142857,1.0,2
+script-ch3.rpy,Natsuki,Dont worry!,"['dont', 'worry', '!']",2,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Baking is a ton of fun!,"['baking', 'ton', 'fun', '!']",6,0.375,0.2,1.0,0
+script-ch3.rpy,Natsuki,Youll definitely agree!,"['youll', 'definitely', 'agree', '!']",3,0.0,0.5,1.0,0
+script-ch3.rpy,Natsuki,Th-Thats because--!,"['th-thats', '--', '!']",3,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,...Never mind okay?,"['...', 'never', 'mind', 'okay', '?']",3,0.5,0.5,1.0,0
+script-ch3.rpy,Natsuki,So thats everything right?,"['thats', 'everything', 'right', '?']",4,0.2857142857142857,0.5357142857142857,1.0,0
+script-ch3.rpy,Natsuki,Anything else we need to talk about?,"['anything', 'else', 'need', 'talk', '?']",7,0.0,0.0,1.0,2
+script-ch3.rpy,Natsuki,Yes!,"['yes', '!']",1,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Everything except the performance is gonna be awesome!,"['everything', 'except', 'performance', 'gon', 'na', 'awesome', '!']",8,1.0,1.0,0.875,0
+script-ch3.rpy,Natsuki,Shes still sulking.,"['shes', 'still', 'sulking']",3,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Its not...,['...'],2,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,I mean its not that big of a deal or anything...,"['mean', 'big', 'deal', 'anything', '...']",11,-0.15625,0.39375,1.0,0
+script-ch3.rpy,Natsuki,...?,"['...', '?']",0,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,That doesnt mean...,"['doesnt', 'mean', '...']",3,-0.3125,0.6875,1.0,0
+script-ch3.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Uu...,"['uu', '...']",1,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Look...,"['look', '...']",1,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Yuri.,['yuri'],1,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,You really are the most talented one here.,"['really', 'talented', 'one']",8,0.4666666666666666,0.5333333333333333,1.0,2
+script-ch3.rpy,Natsuki,And...,['...'],1,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,And youre going to help make the event a lot more fun and welcoming.,"['youre', 'going', 'help', 'make', 'event', 'lot', 'fun', 'welcoming']",14,0.4,0.35,0.9285714285714286,2
+script-ch3.rpy,Natsuki,I mean the cupcakes will probably help a lot too...,"['mean', 'cupcakes', 'probably', 'help', 'lot', '...']",10,-0.3125,0.6875,1.0,0
+script-ch3.rpy,Natsuki,But youre gonna make the atmosphere special.,"['youre', 'gon', 'na', 'make', 'atmosphere', 'special']",7,0.35714285714285715,0.5714285714285714,1.0,0
+script-ch3.rpy,Natsuki,Thatll be really important for the way that people feel during the performances.,"['thatll', 'really', 'important', 'way', 'people', 'feel', 'performances']",13,0.4,1.0,0.9230769230769231,0
+script-ch3.rpy,Natsuki,So...,['...'],1,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,You need to stop being dumb and give yourself a little more credit!,"['need', 'stop', 'dumb', 'give', 'little', 'credit', '!']",13,0.020833333333333332,0.5,1.0,2
+script-ch3.rpy,Natsuki,Um...,"['um', '...']",1,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,N-Not really but...,"['n-not', 'really', '...']",4,0.2,0.2,1.0,0
+script-ch3.rpy,Natsuki,Yeah.,['yeah'],1,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Okay but Im staying here a bit longer.,"['okay', 'im', 'staying', 'bit', 'longer']",8,0.5,0.5,1.0,0
+script-ch3.rpy,Natsuki,I barely got to do any reading today so...,"['barely', 'got', 'reading', 'today', '...']",9,0.05,0.1,1.0,2
+script-ch3.rpy,Natsuki,Um where are you going?,"['um', 'going', '?']",5,0.0,0.0,1.0,2
+script-ch3.rpy,Natsuki,We still need to figure out our plans for this weekend.,"['still', 'need', 'figure', 'plans', 'weekend']",11,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,You literally wouldve gotten home and realized that you didnt even have a way to contact me.,"['literally', 'wouldve', 'gotten', 'home', 'realized', 'didnt', 'even', 'way', 'contact']",17,0.0,0.0,0.9411764705882353,2
+script-ch3.rpy,Natsuki,Jeez good thing I stopped you.,"['jeez', 'good', 'thing', 'stopped']",6,0.7,0.6000000000000001,1.0,0
+script-ch3.rpy,Natsuki,Im giving you my number okay?,"['im', 'giving', 'number', 'okay', '?']",6,0.5,0.5,1.0,2
+script-ch3.rpy,Natsuki,Youd better not make it weird or anything!,"['youd', 'better', 'make', 'weird', 'anything', '!']",8,-0.0625,0.75,1.0,0
+script-ch3.rpy,Natsuki,Hmph...,"['hmph', '...']",1,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Okay...,"['okay', '...']",1,0.5,0.5,1.0,0
+script-ch3.rpy,Natsuki,Im coming over on Sunday.,"['im', 'coming', 'sunday']",5,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Ill bring all the ingredients.,"['ill', 'bring', 'ingredients']",5,-0.5,1.0,1.0,0
+script-ch3.rpy,Natsuki,Well yeah.,"['well', 'yeah']",2,0.0,0.0,1.0,1
+script-ch3.rpy,Natsuki,Whats wrong with that?,"['whats', 'wrong', '?']",4,-0.5,0.9,1.0,0
+script-ch3.rpy,Natsuki,Yeah right.,"['yeah', 'right']",2,0.2857142857142857,0.5357142857142857,1.0,0
+script-ch3.rpy,Natsuki,Like I could have a guy over my house...,"['like', 'could', 'guy', 'house', '...']",9,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,My dad would kill me.,"['dad', 'would', 'kill']",5,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Yeah how do you think I feel?,"['yeah', 'think', 'feel', '?']",7,0.0,0.0,1.0,2
+script-ch3.rpy,Natsuki,I cant do anything when my dad is home...,"['cant', 'anything', 'dad', 'home', '...']",9,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Anyway...I just needed to complain for a second.,"['anyway', '...', 'needed', 'complain', 'second']",9,0.0,0.0,1.0,2
+script-ch3.rpy,Natsuki,We have each others numbers now.,"['others', 'numbers']",6,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Thats all I needed from you.,"['thats', 'needed']",6,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,I guess Ill text you when Im coming over.,"['guess', 'ill', 'text', 'im', 'coming']",9,-0.5,1.0,1.0,0
+script-ch3.rpy,Natsuki,Yeah.,['yeah'],1,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Im really gonna show you why I love baking so much.,"['im', 'really', 'gon', 'na', 'show', 'love', 'baking', 'much']",11,0.3,0.3333333333333333,1.0,2
+script-ch3.rpy,Natsuki,So youd better look forward to it.,"['youd', 'better', 'look', 'forward']",7,0.5,0.5,1.0,2
+script-ch3.rpy,Natsuki,Well--!,"['well', '--', '!']",1,0.0,0.0,1.0,1
+script-ch3.rpy,Natsuki,I was...just saying that.,"['...', 'saying']",5,0.0,0.0,1.0,2
+script-ch3.rpy,Natsuki,Its not like I could act like...in front of everyone...,"['like', 'could', 'act', 'like', '...', 'front', 'everyone', '...']",11,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,That I was looking forward to this.,"['looking', 'forward']",7,0.0,0.0,1.0,2
+script-ch3.rpy,Natsuki,Well kind of!,"['well', 'kind', '!']",3,0.75,0.9,1.0,1
+script-ch3.rpy,Natsuki,Just because...I never got to bake with someone else before.,"['...', 'never', 'got', 'bake', 'someone', 'else']",11,0.0,0.0,1.0,2
+script-ch3.rpy,Natsuki,Thats all it is so...,"['thats', '...']",5,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Ah--,"['ah', '--']",1,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,...Never mind.,"['...', 'never', 'mind']",2,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Are you serious?,"['serious', '?']",3,-0.3333333333333333,0.6666666666666666,1.0,2
+script-ch3.rpy,Natsuki,Why would you--,"['would', '--']",3,0.0,0.0,1.0,2
+script-ch3.rpy,Natsuki,N-No...,"['n-no', '...']",2,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,I was just saying--,"['saying', '--']",4,0.0,0.0,1.0,2
+script-ch3.rpy,Natsuki,Ugh...,"['ugh', '...']",1,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,I mean yeah.,"['mean', 'yeah']",3,-0.3125,0.6875,1.0,0
+script-ch3.rpy,Natsuki,I already said I would be fine.,"['already', 'said', 'would', 'fine']",7,0.4166666666666667,0.5,0.8571428571428571,0
+script-ch3.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,What??,"['?', '?']",1,0.0,0.0,1.0,1
+script-ch3.rpy,Natsuki,Why is everyone yelling at me?,"['everyone', 'yelling', '?']",6,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,I didnt even do anything...!,"['didnt', 'even', 'anything', '...', '!']",5,0.0,0.0,1.0,2
+script-ch3.rpy,Natsuki,I get it I get it.,"['get', 'get']",6,0.0,0.0,0.5,2
+script-ch3.rpy,Natsuki,Im kinda surprised though...,"['im', 'kinda', 'surprised', 'though', '...']",4,0.1,0.9,1.0,0
+script-ch3.rpy,Natsuki,Um...,"['um', '...']",1,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,Well Im the one acting immature...,"['well', 'im', 'one', 'acting', 'immature', '...']",6,0.0,0.0,1.0,1
+script-ch3.rpy,Natsuki,I already know that.,"['already', 'know']",4,0.0,0.0,1.0,2
+script-ch3.rpy,Natsuki,But youre trying to cheer me up all of a sudden...,"['youre', 'trying', 'cheer', 'sudden', '...']",11,0.0,0.5,1.0,2
+script-ch3.rpy,Natsuki,No...,['...'],1,0.0,0.0,1.0,0
+script-ch3.rpy,Natsuki,I kinda appreciated it.,"['kinda', 'appreciated']",4,0.2,0.1,1.0,0
+script-ch3.rpy,Natsuki,Im sorry...for making a big deal out of nothing.,"['im', 'sorry', '...', 'making', 'big', 'deal', 'nothing']",10,0.0,0.1,1.0,0
+script-ch3.rpy,Natsuki,But Im going to say this.,"['im', 'going', 'say']",6,0.0,0.0,1.0,2
+script-ch3.rpy,Natsuki,You better bet that my cupcakes are going to be the best part of the whole event!,"['better', 'bet', 'cupcakes', 'going', 'best', 'part', 'whole', 'event', '!']",17,0.5833333333333334,0.4000000000000001,0.8823529411764706,2
+script-ch3.rpy,Natsuki,Alright lets get out of here then.,"['alright', 'lets', 'get']",7,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,Sup?,"['sup', '?']",1,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,Jeez dont make it feel so awkward already!,"['jeez', 'dont', 'make', 'feel', 'awkward', 'already', '!']",8,-0.75,1.0,1.0,0
+script-ch4.rpy,Natsuki,Its gonna be a long afternoon so dont be weird just because youre not used to seeing me outside of school.,"['gon', 'na', 'long', 'afternoon', 'dont', 'weird', 'youre', 'used', 'seeing', 'outside', 'school']",21,-0.18333333333333335,0.48333333333333334,0.9523809523809523,2
+script-ch4.rpy,Natsuki,Anyway Im coming in.,"['anyway', 'im', 'coming']",4,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,Well I didnt want to come all this way to find out that your kitchen isnt equipped for the job.,"['well', 'didnt', 'want', 'come', 'way', 'find', 'kitchen', 'isnt', 'equipped', 'job']",20,0.0,0.0,0.95,2
+script-ch4.rpy,Natsuki,You bought everything I asked you to right?,"['bought', 'everything', 'asked', 'right', '?']",8,0.2857142857142857,0.5357142857142857,0.875,2
+script-ch4.rpy,Natsuki,Good!,"['good', '!']",1,0.875,0.6000000000000001,1.0,0
+script-ch4.rpy,Natsuki,Glad I could count on you to do your part.,"['glad', 'could', 'count', 'part']",10,0.5,1.0,1.0,2
+script-ch4.rpy,Natsuki,What youre not even gonna offer to take this heavy bag from me?,"['youre', 'even', 'gon', 'na', 'offer', 'take', 'heavy', 'bag', '?']",13,-0.2,0.5,1.0,2
+script-ch4.rpy,Natsuki,Wheres your hospitality player?,"['wheres', 'hospitality', 'player', '?']",4,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,Ahaha!,"['ahaha', '!']",1,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,I carried that all the way here.,"['carried', 'way']",7,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,Are you impressed?,"['impressed', '?']",3,1.0,1.0,1.0,2
+script-ch4.rpy,Natsuki,Ehehe~,['ehehe~'],1,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,Its because Im so small isnt it?,"['im', 'small', 'isnt', '?']",7,-0.25,0.4,1.0,0
+script-ch4.rpy,Natsuki,You jerk.,['jerk'],2,0.0,0.0,1.0,2
+script-ch4.rpy,Natsuki,Eh?,"['eh', '?']",1,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,Um...,"['um', '...']",1,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,Its not like I hate it...,"['like', 'hate', '...']",6,-0.8,0.9,1.0,2
+script-ch4.rpy,Natsuki,I mean sometimes I like proving people wrong when they only think Im worth my size.,"['mean', 'sometimes', 'like', 'proving', 'people', 'wrong', 'think', 'im', 'worth', 'size']",16,-0.128125,0.671875,0.9375,0
+script-ch4.rpy,Natsuki,Its fun when I get to be small and also better than other people.,"['fun', 'get', 'small', 'also', 'better', 'people']",14,0.10625000000000001,0.36875,1.0,0
+script-ch4.rpy,Natsuki,But...,['...'],1,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,...Jeez never mind!,"['...', 'jeez', 'never', 'mind', '!']",3,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,What are you making me say?,"['making', 'say', '?']",6,0.0,0.0,1.0,2
+script-ch4.rpy,Natsuki,Dont think you can make me talk about weird things just because were not at school!,"['dont', 'think', 'make', 'talk', 'weird', 'things', 'school', '!']",16,-0.625,1.0,1.0,2
+script-ch4.rpy,Natsuki,Are we getting started or what? Theres a lot of stuff I gotta teach you.,"['getting', 'started', '?', 'theres', 'lot', 'stuff', 'got', 'ta', 'teach']",15,0.0,0.0,1.0,2
+script-ch4.rpy,Natsuki,What??,"['?', '?']",1,0.0,0.0,1.0,1
+script-ch4.rpy,Natsuki,H-Hey!,"['h-hey', '!']",2,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,Now you iare/i treating me like a kid!,"['iare/i', 'treating', 'like', 'kid', '!']",9,0.0,0.0,1.0,2
+script-ch4.rpy,Natsuki,I was just trying to be a little nicer to you you know.,"['trying', 'little', 'nicer', 'know']",13,-0.1875,0.5,0.7692307692307693,2
+script-ch4.rpy,Natsuki,And just because I dont have a mature and sexy figure like Yuri doesnt mean you should treat me like--,"['dont', 'mature', 'sexy', 'figure', 'like', 'yuri', 'doesnt', 'mean', 'treat', 'like', '--']",20,0.09583333333333333,0.5958333333333333,0.9,2
+script-ch4.rpy,Natsuki,A-Ah--,"['a-ah', '--']",2,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,Forget it!,"['forget', '!']",2,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,I didnt say anything!,"['didnt', 'say', 'anything', '!']",4,0.0,0.0,1.0,2
+script-ch4.rpy,Natsuki,Eh?,"['eh', '?']",1,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,Ah...,"['ah', '...']",1,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,How would...you know that anyway?,"['would', '...', 'know', 'anyway', '?']",6,0.0,0.0,1.0,2
+script-ch4.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,...Gross.,"['...', 'gross']",1,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,Who else?,"['else', '?']",2,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,Ahaha!,"['ahaha', '!']",1,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,You get all sour when a girl calls you gross.,"['get', 'sour', 'girl', 'calls', 'gross']",10,-0.07500000000000001,0.049999999999999996,0.9,2
+script-ch4.rpy,Natsuki,I finally found your weakness player.,"['finally', 'found', 'weakness', 'player']",6,0.0,1.0,1.0,0
+script-ch4.rpy,Natsuki,player where did you put the food coloring?,"['player', 'put', 'food', 'coloring', '?']",8,0.0,0.0,1.0,2
+script-ch4.rpy,Natsuki,The batters going in the oven soon so I need to fill the trays.,"['batters', 'going', 'oven', 'soon', 'need', 'fill', 'trays']",14,0.0,0.0,0.8571428571428571,0
+script-ch4.rpy,Natsuki,To color the batter of course!,"['color', 'batter', 'course', '!']",6,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,Im making each tray a different color.,"['im', 'making', 'tray', 'different', 'color']",7,0.0,0.6,1.0,0
+script-ch4.rpy,Natsuki,That way even if the flavors arent different everyone can still pick their favorite.,"['way', 'even', 'flavors', 'arent', 'different', 'everyone', 'still', 'pick', 'favorite']",14,0.25,0.8,1.0,0
+script-ch4.rpy,Natsuki,Do you want to?,"['want', '?']",4,0.0,0.0,1.0,2
+script-ch4.rpy,Natsuki,Come on...,"['come', '...']",2,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,Youre not putting any heart into this at all!,"['youre', 'putting', 'heart', '!']",9,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,Cant you at least try to have fun?,"['cant', 'least', 'try', 'fun', '?']",8,0.0,0.30000000000000004,1.0,2
+script-ch4.rpy,Natsuki,See?,"['see', '?']",1,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,Its not like baking is just about following instructions.,"['like', 'baking', 'following', 'instructions']",9,0.0,0.1,1.0,0
+script-ch4.rpy,Natsuki,The presentation is where you get to be creative and have the most fun.,"['presentation', 'get', 'creative', 'fun']",14,0.43333333333333335,0.5666666666666667,0.8571428571428571,2
+script-ch4.rpy,Natsuki,Its a million times more worth it in the end if just looking at it makes everyones eyes lighten up.,"['million', 'times', 'worth', 'end', 'looking', 'makes', 'everyones', 'eyes', 'lighten']",20,0.4,0.3,0.95,2
+script-ch4.rpy,Natsuki,Sounds like youre starting to understand.,"['sounds', 'like', 'youre', 'starting', 'understand']",6,0.0,0.1,1.0,2
+script-ch4.rpy,Natsuki,Just make sure you completely finish mixing the icing before you mess with the food coloring.,"['make', 'sure', 'completely', 'finish', 'mixing', 'icing', 'mess', 'food', 'coloring']",16,0.14166666666666666,0.48796296296296293,0.875,2
+script-ch4.rpy,Natsuki,Eh?,"['eh', '?']",1,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,The icings still all lumpy!,"['icings', 'still', 'lumpy', '!']",5,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,Are you even trying?,"['even', 'trying', '?']",4,0.0,0.0,1.0,2
+script-ch4.rpy,Natsuki,Jeez Ill be here all night if you do it like that.,"['jeez', 'ill', 'night', 'like']",12,-0.5,1.0,1.0,2
+script-ch4.rpy,Natsuki,Here look.,['look'],2,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,You really need to...beat...the crap out of it!,"['really', 'need', '...', 'beat', '...', 'crap', '!']",10,-0.4,0.5,1.0,2
+script-ch4.rpy,Natsuki,See?,"['see', '?']",1,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,Hey!,"['hey', '!']",1,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,I dont want iyour/i gross fingers in my icing.,"['dont', 'want', 'iyour/i', 'gross', 'fingers', 'icing']",10,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,Dont make me beat the crap out of you next!,"['dont', 'make', 'beat', 'crap', 'next', '!']",10,-0.4,0.4,1.0,2
+script-ch4.rpy,Natsuki,Gross!,"['gross', '!']",1,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,You got it on my face!,"['got', 'face', '!']",6,0.0,0.0,1.0,2
+script-ch4.rpy,Natsuki,Nnn--,"['nnn', '--']",1,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,Jeez...,"['jeez', '...']",1,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,You know what?,"['know', '?']",3,0.0,0.0,1.0,2
+script-ch4.rpy,Natsuki,Take this!,"['take', '!']",2,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,Ahahaha! Stop!,"['ahahaha', '!', 'stop', '!']",2,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,Fine fine!,"['fine', 'fine', '!']",2,0.46875,0.5,0.5,0
+script-ch4.rpy,Natsuki,Im sorry for calling you gross.,"['im', 'sorry', 'calling', 'gross']",6,-0.25,0.5,1.0,0
+script-ch4.rpy,Natsuki,You know I dont mean it.,"['know', 'dont', 'mean']",6,-0.3125,0.6875,1.0,2
+script-ch4.rpy,Natsuki,Its just fun seeing you react to it.,"['fun', 'seeing', 'react']",8,0.3,0.2,1.0,2
+script-ch4.rpy,Natsuki,...You do that to me all the time you know!,"['...', 'time', 'know', '!']",10,0.0,0.0,0.9,2
+script-ch4.rpy,Natsuki,Saying dumb things just to get a reaction out of me.,"['saying', 'dumb', 'things', 'get', 'reaction']",11,-0.375,0.5,1.0,2
+script-ch4.rpy,Natsuki,You really shouldnt tease girls like that.,"['really', 'shouldnt', 'tease', 'girls', 'like']",7,0.2,0.2,1.0,2
+script-ch4.rpy,Natsuki,W-W-What--?,"['w-w-what', '--', '?']",3,0.0,0.0,1.0,1
+script-ch4.rpy,Natsuki,D-Did you seriously just--,"['d-did', 'seriously', '--']",5,-0.3333333333333333,0.6666666666666666,1.0,2
+script-ch4.rpy,Natsuki,A-Ah--,"['a-ah', '--']",2,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,player...,"['player', '...']",1,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,You really shouldnt do that kind of thing to girls...unless you really like them...,"['really', 'shouldnt', 'kind', 'thing', 'girls', '...', 'unless', 'really', 'like', '...']",15,0.3333333333333333,0.43333333333333335,0.8571428571428571,2
+script-ch4.rpy,Natsuki,You know that...right?,"['know', '...', 'right', '?']",4,0.0,0.0,1.0,2
+script-ch4.rpy,Natsuki,Eh?!,"['eh', '?', '!']",1,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,i*Cough*/i,"['*', 'cough', '*', '/i']",3,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,No wonder...,"['wonder', '...']",2,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,You left a dirty tray in here dummy!,"['left', 'dirty', 'tray', 'dummy', '!']",8,-0.375,0.4,1.0,0
+script-ch4.rpy,Natsuki,How could you make a mistake like that?,"['could', 'make', 'mistake', 'like', '?']",8,0.0,0.0,1.0,2
+script-ch4.rpy,Natsuki,Dont blame me for your mistakes!,"['dont', 'blame', 'mistakes', '!']",6,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,Jeez...,"['jeez', '...']",1,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,Anyway...,"['anyway', '...']",1,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,Im...putting them in the oven now.,"['im', '...', 'putting', 'oven']",7,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,Ahh that smells so good!,"['ahh', 'smells', 'good', '!']",5,0.875,0.6000000000000001,1.0,0
+script-ch4.rpy,Natsuki,Look at how cute they all look!,"['look', 'cute', 'look', '!']",7,0.625,1.0,0.8571428571428571,0
+script-ch4.rpy,Natsuki,Not like you need to tell ime/i that!,"['like', 'need', 'tell', 'ime/i', '!']",9,0.0,0.0,1.0,2
+script-ch4.rpy,Natsuki,I brought decorating stuff so I hope you can get creative.,"['brought', 'decorating', 'stuff', 'hope', 'get', 'creative']",11,0.5,1.0,0.9090909090909091,2
+script-ch4.rpy,Natsuki,Here scoop the icing into these bags.,"['scoop', 'icing', 'bags']",7,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,I have these nozzles that will make it look nice and fluffy.,"['nozzles', 'make', 'look', 'nice', 'fluffy']",12,0.19999999999999998,0.7,1.0,2
+script-ch4.rpy,Natsuki,This one can even make flowers!,"['one', 'even', 'make', 'flowers', '!']",6,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,We probably wont be using it this time though.,"['probably', 'wont', 'using', 'time', 'though']",9,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,That ones really thin so you can use it to make stripes or other patterns.,"['ones', 'really', 'thin', 'use', 'make', 'stripes', 'patterns']",15,-0.2625,0.6125,1.0,2
+script-ch4.rpy,Natsuki,But you can also use it to write stuff on a cake.,"['also', 'use', 'write', 'stuff', 'cake']",12,0.0,0.0,1.0,2
+script-ch4.rpy,Natsuki,Like happy birthday! or whatever.,"['like', 'happy', 'birthday', '!', 'whatever']",5,1.0,1.0,1.0,0
+script-ch4.rpy,Natsuki,Eh?,"['eh', '?']",1,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,Uu...,"['uu', '...']",1,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,I was kind of expecting you to say something really stupid...,"['kind', 'expecting', 'say', 'something', 'really', 'stupid', '...']",11,-0.09999999999999998,0.95,1.0,2
+script-ch4.rpy,Natsuki,But thats actually...a really cute idea so...,"['thats', 'actually', '...', 'really', 'cute', 'idea', '...']",8,0.5,1.0,1.0,0
+script-ch4.rpy,Natsuki,W-Whats that supposed to mean?,"['w-whats', 'supposed', 'mean', '?']",6,-0.3125,0.6875,1.0,2
+script-ch4.rpy,Natsuki,Im not cute!,"['im', 'cute', '!']",3,-0.3125,1.0,1.0,0
+script-ch4.rpy,Natsuki,W-Well...,"['w-well', '...']",2,0.0,0.0,1.0,1
+script-ch4.rpy,Natsuki,Same with you...,['...'],3,0.0,0.125,1.0,2
+script-ch4.rpy,Natsuki,N-No nothing!,"['n-no', 'nothing', '!']",3,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,Lets just do the icing!,"['lets', 'icing', '!']",5,0.0,0.0,1.0,2
+script-ch4.rpy,Natsuki,Theres a lot to do so we shouldnt be wasting time!,"['theres', 'lot', 'shouldnt', 'wasting', 'time', '!']",11,0.0,0.0,1.0,2
+script-ch4.rpy,Natsuki,Here Ill show you how to do it.,"['ill', 'show']",8,-0.5,1.0,1.0,2
+script-ch4.rpy,Natsuki,Look at how pretty they are together!,"['look', 'pretty', 'together', '!']",7,0.3125,1.0,1.0,0
+script-ch4.rpy,Natsuki,Uu... I wish I could have one now!,"['uu', '...', 'wish', 'could', 'one', '!']",8,0.0,0.0,0.875,0
+script-ch4.rpy,Natsuki,Well yeah but...,"['well', 'yeah', '...']",3,0.0,0.0,1.0,1
+script-ch4.rpy,Natsuki,My dads making dinner tonight so I really need to save my appetite.,"['dads', 'making', 'dinner', 'tonight', 'really', 'need', 'save', 'appetite']",13,0.2,0.2,0.9230769230769231,0
+script-ch4.rpy,Natsuki,Come on thats just unhealthy!,"['come', 'thats', 'unhealthy', '!']",5,-0.5,0.7,1.0,0
+script-ch4.rpy,Natsuki,Besides when my dad cooks I need to eat as much of it as I can...,"['besides', 'dad', 'cooks', 'need', 'eat', 'much', '...']",16,0.2,0.2,0.875,0
+script-ch4.rpy,Natsuki,...Well anyway!,"['...', 'well', 'anyway', '!']",2,0.0,0.0,1.0,1
+script-ch4.rpy,Natsuki,I was hoping we would have time for manga but I need to be home for dinner...,"['hoping', 'would', 'time', 'manga', 'need', 'home', 'dinner', '...']",17,0.0,0.0,0.8235294117647058,2
+script-ch4.rpy,Natsuki,Its your fault for working so slowly!,"['fault', 'working', 'slowly', '!']",7,-0.37500000000000006,0.39999999999999997,1.0,0
+script-ch4.rpy,Natsuki,You should have thought about that.,['thought'],6,0.0,0.0,1.0,2
+script-ch4.rpy,Natsuki,Its not like youll always have this chance.,"['like', 'youll', 'always', 'chance']",8,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,You can bring the cupcakes tomorrow right?,"['bring', 'cupcakes', 'tomorrow', 'right', '?']",7,0.2857142857142857,0.5357142857142857,1.0,2
+script-ch4.rpy,Natsuki,If you and Sayori each carry some then you can probably do it in one trip.,"['sayori', 'carry', 'probably', 'one', 'trip']",16,0.0,0.0,0.9375,2
+script-ch4.rpy,Natsuki,Ahaha.,['ahaha'],1,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,I wish she would listen to me the way she listens to you.,"['wish', 'would', 'listen', 'way', 'listens']",13,0.0,0.0,0.7692307692307693,2
+script-ch4.rpy,Natsuki,Okay Im all packed up.,"['okay', 'im', 'packed']",5,0.5,0.5,1.0,0
+script-ch4.rpy,Natsuki,Good work today!,"['good', 'work', 'today', '!']",3,0.875,0.6000000000000001,1.0,0
+script-ch4.rpy,Natsuki,Well...,"['well', '...']",1,0.0,0.0,1.0,1
+script-ch4.rpy,Natsuki,I guess Ill be off then...,"['guess', 'ill', '...']",6,-0.5,1.0,1.0,0
+script-ch4.rpy,Natsuki,Thanks for all the help and everything...,"['thanks', 'help', 'everything', '...']",7,0.2,0.2,1.0,0
+script-ch4.rpy,Natsuki,Ill see you tomorrow.,"['ill', 'see', 'tomorrow']",4,-0.5,1.0,1.0,2
+script-ch4.rpy,Natsuki,Eh?,"['eh', '?']",1,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,Um--,"['um', '--']",1,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,Do you...really mean that?,"['...', 'really', 'mean', '?']",5,-0.3125,0.6875,1.0,2
+script-ch4.rpy,Natsuki,player...,"['player', '...']",1,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,I thought you only cared about getting this done...,"['thought', 'cared', 'getting', 'done', '...']",9,0.0,1.0,1.0,0
+script-ch4.rpy,Natsuki,Uu...,"['uu', '...']",1,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,Im sorry I had to leave so early today.,"['im', 'sorry', 'leave', 'early', 'today']",9,-0.2,0.65,1.0,0
+script-ch4.rpy,Natsuki,I really didnt want to!,"['really', 'didnt', 'want', '!']",5,0.25,0.2,1.0,2
+script-ch4.rpy,Natsuki,I would really...stay here longer if I could.,"['would', 'really', '...', 'stay', 'longer', 'could']",9,0.0,0.0,0.875,0
+script-ch4.rpy,Natsuki,I feel the same way as you so...,"['feel', 'way', '...']",8,0.0,0.125,1.0,0
+script-ch4.rpy,Natsuki,Ive felt it...,"['ive', 'felt', '...']",3,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,For a while now...,['...'],4,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,--!!,"['--', '!', '!']",0,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,S-Sayori?!,"['s-sayori', '?', '!']",2,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,A-Ah...,"['a-ah', '...']",2,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,Well...,"['well', '...']",1,0.0,0.0,1.0,1
+script-ch4.rpy,Natsuki,Y-You should have come a little earlier!,"['y-you', 'come', 'little', 'earlier', '!']",8,-0.09375,0.5,1.0,2
+script-ch4.rpy,Natsuki,Im already on my way out so...,"['im', 'already', 'way', '...']",7,0.0,0.0,1.0,0
+script-ch4.rpy,Natsuki,Yeah well...,"['yeah', 'well', '...']",2,0.0,0.0,1.0,1
+script-ch4.rpy,Natsuki,Ill still see you at the festival tomorrow so its fine.,"['ill', 'still', 'see', 'festival', 'tomorrow', 'fine']",11,-0.04166666666666666,0.75,1.0,0
+script-ch4.rpy,Natsuki,Just dont eat any cupcakes before then!,"['dont', 'eat', 'cupcakes', '!']",7,0.0,0.0,1.0,2
+script-ch4.rpy,Natsuki,Anyway later!,"['anyway', 'later', '!']",2,0.0,0.0,1.0,0
+script-ch40.rpy,Natsuki,Huh.,['huh'],1,0.0,0.0,1.0,0
+script-ch40.rpy,Natsuki,So youre the player that Sayoris always talking about?,"['youre', 'player', 'sayoris', 'always', 'talking', '?']",9,0.0,0.0,1.0,0
+script-ch40.rpy,Natsuki,Cmon Yuri...,"['cmon', 'yuri', '...']",2,0.0,0.0,1.0,0
+script-ch40.rpy,Natsuki,No need to be so formal.,"['need', 'formal']",6,0.0,0.0,1.0,0
+script-ch40.rpy,Natsuki,Hes gonna think were really strict or something...,"['hes', 'gon', 'na', 'think', 'really', 'strict', 'something', '...']",8,0.2,0.2,1.0,0
+script-ch40.rpy,Natsuki,Ehehe.,['ehehe'],1,0.0,0.0,1.0,0
+script-ch40.rpy,Natsuki,Well if Sayori is this happy then Im sure it wont be so bad to have you around.,"['well', 'sayori', 'happy', 'im', 'sure', 'wont', 'bad', 'around']",18,0.20000000000000007,0.8518518518518517,0.9444444444444444,2
+script-ch40.rpy,Natsuki,Hey dont ruin the surprise!,"['hey', 'dont', 'ruin', 'surprise', '!']",5,0.0,0.0,1.0,0
+script-ch40.rpy,Natsuki,Everyone sit down at the table okay?,"['everyone', 'sit', 'table', 'okay', '?']",7,0.17222222222222222,0.3944444444444445,1.0,0
+script-ch40.rpy,Natsuki,Okaaay are you ready?,"['okaaay', 'ready', '?']",4,0.2,0.5,1.0,2
+script-ch40.rpy,Natsuki,...Ta-daa!,"['...', 'ta-daa', '!']",2,0.0,0.0,1.0,0
+script-ch40.rpy,Natsuki,Ehehe. Well you know.,"['ehehe', 'well', 'know']",4,0.0,0.0,1.0,1
+script-ch40.rpy,Natsuki,Just hurry and take one!,"['hurry', 'take', 'one', '!']",5,0.0,0.0,1.0,2
+script-ch40.rpy,Natsuki,42c W-Well...of course it is!,"['42c', 'w-well', '...', 'course', '!']",7,0.0,0.0,1.0,1
+script-ch40.rpy,Natsuki,Im a pro after all!,"['im', 'pro', '!']",5,0.0,0.0,1.0,0
+script-ch40.rpy,Natsuki,42a Theres no need to thank me or anything...,"['42a', 'theres', 'need', 'thank', 'anything', '...']",9,0.0,0.0,1.0,2
+script-ch40.rpy,Natsuki,Ehehe. Already trying to impress our new member Yuri?,"['ehehe', 'already', 'trying', 'impress', 'new', 'member', 'yuri', '?']",9,0.13636363636363635,0.45454545454545453,1.0,0
+script-ch40.rpy,Natsuki,Hey Yuri...,"['hey', 'yuri', '...']",2,0.0,0.0,1.0,0
+script-ch40.rpy,Natsuki,Well about...you know the first thing he said...,"['well', '...', 'know', 'first', 'thing', 'said', '...']",9,0.25,0.3333333333333333,1.0,1
+script-ch40.rpy,Natsuki,D-Dont just say it!!,"['d-dont', 'say', '!', '!']",5,0.0,0.0,1.0,2
+script-ch40.rpy,Natsuki,Besides...,"['besides', '...']",1,0.0,0.0,1.0,0
+script-ch40.rpy,Natsuki,Manga...is literature too you know?,"['manga', '...', 'literature', 'know', '?']",6,0.0,0.0,1.0,2
+script-ch40.rpy,Natsuki,So...if player wants to read some of my manga then dont try to stop him or anything!,"['...', 'player', 'wants', 'read', 'manga', 'dont', 'try', 'stop', 'anything', '!']",18,0.25,0.1,0.9411764705882353,2
+script-ch40.rpy,Natsuki,Yeah...,"['yeah', '...']",1,0.0,0.0,1.0,0
+script-ch40.rpy,Natsuki,Youre right as usual President.,"['youre', 'right', 'usual', 'president']",5,0.01785714285714285,0.39285714285714285,1.0,0
+script-ch40.rpy,Natsuki,Guess that means I should try picking up a novel or something huh...?,"['guess', 'means', 'try', 'picking', 'novel', 'something', 'huh', '...', '?']",13,0.0,0.0,1.0,0
+script-ch40.rpy,Natsuki,Then as for Yuri...,"['yuri', '...']",4,0.0,0.0,1.0,0
+script-ch40.rpy,Natsuki,Jeez...,"['jeez', '...']",1,0.0,0.0,1.0,0
+script-ch40.rpy,Natsuki,You were the one who suggested we diversify!,"['one', 'suggested', 'diversify', '!']",8,0.0,0.0,1.0,0
+script-ch40.rpy,Natsuki,You should be a little more open-minded...,"['little', 'open-minded', '...']",8,0.23750000000000002,0.5666666666666667,1.0,2
+script-ch40.rpy,Natsuki,Its kind of hurtful...,"['kind', 'hurtful', '...']",4,0.6,0.9,1.0,0
+script-ch40.rpy,Natsuki,...Are you just saying that?,"['...', 'saying', '?']",5,0.0,0.0,1.0,2
+script-ch40.rpy,Natsuki,Really?!,"['really', '?', '!']",1,0.25,0.2,1.0,0
+script-ch40.rpy,Natsuki,12c I-I mean...,"['12c', 'i-i', 'mean', '...']",4,-0.3125,0.6875,1.0,0
+script-ch40.rpy,Natsuki,It...makes me happy that youd do that for me Yuri.,"['...', 'makes', 'happy', 'youd', 'yuri']",11,0.8,1.0,0.8,2
+script-ch40.rpy,Natsuki,You can trust me to find something that youll really like okay?,"['trust', 'find', 'something', 'youll', 'really', 'like', 'okay', '?']",12,0.35,0.35,1.0,2
+script-ch40.rpy,Natsuki,Just...just you?,"['...', '?']",3,0.0,0.0,1.0,2
+script-ch40.rpy,Natsuki,Um...,"['um', '...']",1,0.0,0.0,1.0,0
+script-ch40.rpy,Natsuki,If you dont mind...,"['dont', 'mind', '...']",4,0.0,0.0,1.0,2
+script-ch40.rpy,Natsuki,Yeah me too...,"['yeah', '...']",3,0.0,0.0,1.0,0
+script-ch40.rpy,Natsuki,Ill show you some manga there too okay?,"['ill', 'show', 'manga', 'okay', '?']",8,0.0,0.75,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,Ugh...!,"['ugh', '...', '!']",1,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Freaking Monika...,"['freaking', 'monika', '...']",2,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,She never puts my stuff back in the right spot!,"['never', 'puts', 'stuff', 'back', 'right', 'spot', '!']",10,0.17857142857142855,0.26785714285714285,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Whats the point in keeping your collection organized if someone else is just gonna mess it up?,"['whats', 'point', 'keeping', 'collection', 'organized', 'someone', 'else', 'gon', 'na', 'mess', '?']",17,-0.175,0.175,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,You read manga right?,"['read', 'manga', 'right', '?']",4,0.2857142857142857,0.5357142857142857,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,I heard you bring it up at some point.,"['heard', 'bring', 'point']",9,0.0,0.0,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,Besides its kind of written on your face.,"['besides', 'kind', 'written', 'face']",8,0.6,0.9,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,iThere/i it is!,"['ithere/i', '!']",4,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Aah much better!,"['aah', 'much', 'better', '!']",3,0.625,0.5,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Seeing a box set with one book missing is probably the most irritating sight in the world.,"['seeing', 'box', 'set', 'one', 'book', 'missing', 'probably', 'irritating', 'sight', 'world']",17,-0.03333333333333335,0.45,0.9411764705882353,0
+script-exclusives-natsuki.rpy,Natsuki,If youre gonna judge you can go do it through the glass on that door.,"['youre', 'gon', 'na', 'judge', 'go', 'glass', 'door']",15,0.0,0.0,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,It was the tone of your voice.,"['tone', 'voice']",7,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,But Ill tell you one thing player.,"['ill', 'tell', 'one', 'thing', 'player']",7,-0.5,1.0,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,Consider this a lesson straight from the Literature Club: Dont judge a book by its cover!,"['consider', 'lesson', 'straight', 'literature', 'club', ':', 'dont', 'judge', 'book', 'cover', '!']",16,0.25,0.4,0.9375,0
+script-exclusives-natsuki.rpy,Natsuki,In fact--,"['fact', '--']",2,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Im gonna show you exactly why!,"['im', 'gon', 'na', 'show', 'exactly', '!']",6,0.3125,0.25,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,Dont just stand there!,"['dont', 'stand', '!']",4,0.0,0.0,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,Chairs wouldnt work.,"['chairs', 'wouldnt', 'work']",3,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,We cant read at the same time like that.,"['cant', 'read', 'time', 'like']",9,0.0,0.125,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,--!,"['--', '!']",0,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,D-Dont just say that!,"['d-dont', 'say', '!']",5,0.0,0.0,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,Youll make me feel weird about it!,"['youll', 'make', 'feel', 'weird', '!']",7,-0.625,1.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Wow how long has it been since I read the beginning...?,"['wow', 'long', 'since', 'read', 'beginning', '...', '?']",11,0.025,0.7,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Not really.,['really'],2,-0.1,0.2,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Maybe sometimes after Ive already finished the series.,"['maybe', 'sometimes', 'ive', 'already', 'finished', 'series']",8,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Hey are you paying attention?,"['hey', 'paying', 'attention', '?']",5,0.0,0.0,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,Well obviously!,"['well', 'obviously', '!']",2,0.0,0.5,1.0,1
+script-exclusives-natsuki.rpy,Natsuki,You think I would enjoy something that didnt have a plot?,"['think', 'would', 'enjoy', 'something', 'didnt', 'plot', '?']",11,0.4,0.5,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,I mean...,"['mean', '...']",2,-0.3125,0.6875,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Well I guess I know what youre saying...,"['well', 'guess', 'know', 'youre', 'saying', '...']",8,0.0,0.0,0.875,1
+script-exclusives-natsuki.rpy,Natsuki,A lot of the beginning is about simple things...,"['lot', 'beginning', 'simple', 'things', '...']",9,0.0,0.35714285714285715,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Like theres a really funny chapter where theyre obsessed with a guy at the ice cream shop...,"['like', 'theres', 'really', 'funny', 'chapter', 'theyre', 'obsessed', 'guy', 'ice', 'cream', 'shop', '...']",17,-0.125,1.0,0.9411764705882353,0
+script-exclusives-natsuki.rpy,Natsuki,But that just helps you get to know the characters!,"['helps', 'get', 'know', 'characters', '!']",10,0.0,0.0,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,And besides its still entertaining.,"['besides', 'still', 'entertaining']",5,0.5,0.7,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,But later on theres all kinds of drama...,"['later', 'theres', 'kinds', 'drama', '...']",8,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Like when they get into all their backstories and when some of the romance starts to happen...,"['like', 'get', 'backstories', 'romance', 'starts', 'happen', '...']",17,0.0,0.0,0.9411764705882353,0
+script-exclusives-natsuki.rpy,Natsuki,Thats really what makes it so good.,"['thats', 'really', 'makes', 'good']",7,0.44999999999999996,0.4,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,There are so many touching parts.,"['many', 'touching', 'parts']",6,0.5,0.5,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Ehehe.,['ehehe'],1,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,...Hey wait!,"['...', 'hey', 'wait', '!']",2,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Whats ithat/i supposed to mean?!,"['whats', 'ithat/i', 'supposed', 'mean', '?', '!']",6,-0.390625,0.6875,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Hmph. Good save.,"['hmph', 'good', 'save']",3,0.7,0.6000000000000001,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Well--,"['well', '--']",1,0.0,0.0,1.0,1
+script-exclusives-natsuki.rpy,Natsuki,...Yeah.,"['...', 'yeah']",1,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Why does that matter?,"['matter', '?']",4,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Thats--,"['thats', '--']",1,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Just a coincidence!,"['coincidence', '!']",3,0.0,0.0,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,I just happened to get into baking around the same time I got this manga.,"['happened', 'get', 'baking', 'around', 'time', 'got', 'manga']",15,0.0,0.125,0.8666666666666667,2
+script-exclusives-natsuki.rpy,Natsuki,Like I would ever get into anything because its in a manga.,"['like', 'would', 'ever', 'get', 'anything', 'manga']",12,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,I feel bad for anyone that impressionable.,"['feel', 'bad', 'anyone', 'impressionable']",7,-0.6999999999999998,0.6666666666666666,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Ahaha!,"['ahaha', '!']",1,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Its not!,['!'],2,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Well...!,"['well', '...', '!']",1,0.0,0.0,1.0,1
+script-exclusives-natsuki.rpy,Natsuki,Im...fine with that.,"['im', '...', 'fine']",4,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,...?,"['...', '?']",0,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Um...,"['um', '...']",1,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Thats not...,"['thats', '...']",2,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Well I wouldnt really know.,"['well', 'wouldnt', 'really', 'know']",5,0.2,0.2,1.0,1
+script-exclusives-natsuki.rpy,Natsuki,Could you not rub it in?,"['could', 'rub', '?']",6,0.0,0.0,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,Jeez...,"['jeez', '...']",1,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Hmph.,['hmph'],1,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Like I could ever get my friends to read this...,"['like', 'could', 'ever', 'get', 'friends', 'read', '...']",10,0.0,0.0,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,They just think manga is for kids.,"['think', 'manga', 'kids']",7,0.0,0.0,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,I cant even bring it up without them being all like...,"['cant', 'even', 'bring', 'without', 'like', '...']",11,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Eh? You still havent grown out of that yet?,"['eh', '?', 'still', 'havent', 'grown', 'yet', '?']",9,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Makes me want to punch them in the face...,"['makes', 'want', 'punch', 'face', '...']",9,0.0,0.0,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,Hm.,['hm'],1,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Yeah thats pretty accurate.,"['yeah', 'thats', 'pretty', 'accurate']",4,0.32500000000000007,0.8166666666666667,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,I mean I feel like I cant even keep it in my own room...,"['mean', 'feel', 'like', 'cant', 'even', 'keep', 'room', '...']",14,0.14375,0.84375,0.8571428571428571,0
+script-exclusives-natsuki.rpy,Natsuki,I dont even know what my dad would do if he found this.,"['dont', 'even', 'know', 'dad', 'would', 'found']",13,0.0,0.0,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,At least its safe here in the clubroom.,"['least', 'safe', 'clubroom']",8,0.1,0.45,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Cept Monika was kind of a jerk about it...,"['cept', 'monika', 'kind', 'jerk', '...']",9,0.6,0.9,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Ugh! I just cant win can I?,"['ugh', '!', 'cant', 'win', '?']",7,0.8,0.4,0.8571428571428571,2
+script-exclusives-natsuki.rpy,Natsuki,Well its not like that solves any of my problems.,"['well', 'like', 'solves', 'problems']",10,0.0,0.0,1.0,1
+script-exclusives-natsuki.rpy,Natsuki,--,['--'],0,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,...So?,"['...', '?']",1,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Jeez thats enough!,"['jeez', 'thats', 'enough', '!']",3,0.0,0.5,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Are you gonna keep reading or what?,"['gon', 'na', 'keep', 'reading', '?']",7,0.0,0.0,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,Ahahaha!,"['ahahaha', '!']",1,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,I totally forgot that happens!,"['totally', 'forgot', 'happens', '!']",5,0.0,0.75,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Minori is my favorite character.,"['minori', 'favorite', 'character']",5,0.5,1.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,You always feel a little bad for her since shes so unlucky.,"['always', 'feel', 'little', 'bad', 'since', 'shes', 'unlucky']",12,-0.4437499999999999,0.5833333333333333,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,But it gets especially bad when--,"['gets', 'especially', 'bad', '--']",6,-1.0,1.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Uu...,"['uu', '...']",1,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,I shouldnt be talking about that yet!,"['shouldnt', 'talking', 'yet', '!']",7,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Just finish this chapter!,"['finish', 'chapter', '!']",4,0.0,0.0,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,Oh come on!,"['oh', 'come', '!']",3,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Could your timing be any worse?,"['could', 'timing', 'worse', '?']",6,-0.4,0.6,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Eh...?,"['eh', '...', '?']",1,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,A-Ah!,"['a-ah', '!']",2,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Youre just giving it back...?,"['youre', 'giving', 'back', '...', '?']",5,0.0,0.0,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,Dont you want to know what happens?,"['dont', 'want', 'know', 'happens', '?']",7,0.0,0.0,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,Dont be dumb.,"['dont', 'dumb']",3,-0.375,0.5,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Just take it home with you.,"['take', 'home']",6,0.0,0.0,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,Well of course.,"['well', 'course']",3,0.0,0.0,1.0,1
+script-exclusives-natsuki.rpy,Natsuki,It would take forever to finish if you didnt take it home.,"['would', 'take', 'forever', 'finish', 'didnt', 'take', 'home']",12,0.0,0.0,0.8333333333333334,2
+script-exclusives-natsuki.rpy,Natsuki,Just finish that one before tomorrow so we can start the next one.,"['finish', 'one', 'tomorrow', 'start', 'next', 'one']",13,0.0,0.0,0.9230769230769231,2
+script-exclusives-natsuki.rpy,Natsuki,And if it gets bent Ill kill you.,"['gets', 'bent', 'ill', 'kill']",8,-0.5,1.0,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,I just wanted to make sure!,"['wanted', 'make', 'sure', '!']",6,0.625,0.8888888888888888,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,Can you blame me for being paranoid?,"['blame', 'paranoid', '?']",7,0.0,0.0,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,I dont give people my manga every day you know.,"['dont', 'give', 'people', 'manga', 'every', 'day', 'know']",10,0.0,0.0,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,Well anyway let me put this one back.,"['well', 'anyway', 'let', 'put', 'one', 'back']",8,0.0,0.0,1.0,1
+script-exclusives-natsuki.rpy,Natsuki,Im gonna get the next one okay?,"['im', 'gon', 'na', 'get', 'next', 'one', 'okay', '?']",7,0.25,0.25,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,So youre gonna tell me everything you thought right??,"['youre', 'gon', 'na', 'tell', 'everything', 'thought', 'right', '?', '?']",9,0.2857142857142857,0.5357142857142857,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,Where did this volume leave off again? I forget.,"['volume', 'leave', '?', 'forget']",9,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,iMonika!!/i,"['imonika', '!', '!', '/i']",2,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Did you move my manga again?!,"['move', 'manga', '?', '!']",6,0.0,0.0,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,Ugh...,"['ugh', '...']",1,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Jeez...!,"['jeez', '...', '!']",1,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,This is so inconvenient!,"['inconvenient', '!']",4,-0.75,1.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Im moving these all back down.,"['im', 'moving', 'back']",6,-0.07777777777777779,0.14444444444444446,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Theres plenty of room on these shelves.,"['theres', 'plenty', 'room', 'shelves']",7,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,And besides...,"['besides', '...']",2,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Theyre really pretty to look at when theyre all lined up!,"['theyre', 'really', 'pretty', 'look', 'theyre', 'lined', '!']",11,0.3125,1.0,0.9090909090909091,0
+script-exclusives-natsuki.rpy,Natsuki,Why would you waste that on the top shelf?,"['would', 'waste', 'top', 'shelf', '?']",9,0.15,0.25,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,I can get them myself!,"['get', '!']",5,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,You think Im too short or something?,"['think', 'im', 'short', 'something', '?']",7,0.0,0.3,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,I iknew/i it!,"['iknew/i', '!']",4,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Well you know what?,"['well', 'know', '?']",4,0.0,0.0,1.0,1
+script-exclusives-natsuki.rpy,Natsuki,Just watch me!,"['watch', '!']",3,0.0,0.0,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,A-Ah...,"['a-ah', '...']",2,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,I know what Im doing!!,"['know', 'im', '!', '!']",5,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,U-Uuuh...,"['u-uuuh', '...']",2,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,See...?,"['see', '...', '?']",1,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Kyah--!,"['kyah', '--', '!']",1,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Wawaa--,"['wawaa', '--']",1,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,T-There!,"['t-there', '!']",2,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,I said I can do it!,"['said', '!']",6,0.0,0.0,0.8333333333333334,2
+script-exclusives-natsuki.rpy,Natsuki,I dont want your help okay?,"['dont', 'want', 'help', 'okay', '?']",6,0.5,0.5,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Im gonna get a chair so just hang on.,"['im', 'gon', 'na', 'get', 'chair', 'hang']",9,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Lets see...,"['lets', 'see', '...']",2,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Aha!,"['aha', '!']",1,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Ush--,"['ush', '--']",1,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Aha! There we go!,"['aha', '!', 'go', '!']",4,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,See? I can easily do it now.,"['see', '?', 'easily']",7,0.43333333333333335,0.8333333333333334,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,W-Wahh--,"['w-wahh', '--']",2,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,What are you doing??,"['?', '?']",4,0.0,0.0,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,Can you at least hold the chair steady instead of sitting and doing nothing?,"['least', 'hold', 'chair', 'steady', 'instead', 'sitting', 'nothing', '?']",14,-0.06666666666666667,0.45,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Hup--,"['hup', '--']",1,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Uu...heavy...,"['uu', '...', 'heavy', '...']",2,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Hey player...,"['hey', 'player', '...']",2,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,I-I dont think I can bend down without falling...!,"['i-i', 'dont', 'think', 'bend', 'without', 'falling', '...', '!']",10,-0.19444444444444448,0.2888888888888889,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Hurry and take this one...,"['hurry', 'take', 'one', '...']",5,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Thats fine...!,"['thats', 'fine', '...', '!']",2,0.5208333333333334,0.5,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Just for a second!,"['second', '!']",4,0.0,0.0,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,Hurry up...,"['hurry', '...']",2,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,What do you mean stand up?,"['mean', 'stand', '?']",6,-0.3125,0.6875,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,Why are you all the way back--,"['way', 'back', '--']",7,0.0,0.0,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,E-Eh...?,"['e-eh', '...', '?']",2,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,iW-What are you looking at?!/i,"['iw-what', 'looking', '?', '!', '/i']",7,0.0,0.0,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,Youre trying to look at my...m-my...,"['youre', 'trying', 'look', '...', 'm-my', '...']",8,0.0,0.0,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,You...you perv!,"['...', 'perv', '!']",3,0.0,0.0,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,You set me up!!,"['set', '!', '!']",4,0.0,0.0,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,Go away!,"['go', 'away', '!']",2,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Get out!,"['get', '!']",2,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Ill do it myself!!,"['ill', '!', '!']",4,-0.78125,1.0,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,A-Ah--,"['a-ah', '--']",2,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,iKyaaaaa!/i,"['ikyaaaaa', '!', '/i']",2,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,U-Uu...,"['u-uu', '...']",2,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Eh...?,"['eh', '...', '?']",1,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,G-Guuuuu...!!,"['g-guuuuu', '...', '!', '!']",2,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Gross! Gross!,"['gross', '!', 'gross', '!']",2,0.0,0.0,0.5,0
+script-exclusives-natsuki.rpy,Natsuki,What were you thinking?!,"['thinking', '?', '!']",4,0.0,0.0,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,You sicko!,"['sicko', '!']",2,0.0,0.0,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,Monika!,"['monika', '!']",1,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,See what happens when you put the manga on the top shelf?!,"['see', 'happens', 'put', 'manga', 'top', 'shelf', '?', '!']",12,0.625,0.5,0.9166666666666666,2
+script-exclusives-natsuki.rpy,Natsuki,Are you trying to kill your club members or something?,"['trying', 'kill', 'club', 'members', 'something', '?']",10,0.0,0.0,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,Jeez!,"['jeez', '!']",1,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Oh and one more thing.,"['oh', 'one', 'thing']",5,0.5,0.5,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,It seems like your most recent club member is a total pervert.,"['seems', 'like', 'recent', 'club', 'member', 'total', 'pervert']",12,0.16666666666666666,0.5,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,So I hope youre happy.,"['hope', 'youre', 'happy']",5,0.8,1.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Oh no...!,"['oh', '...', '!']",2,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,My...my...,"['...', '...']",2,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,i*Sob*/i,"['*', 'sob', '*', '/i']",3,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,12f No!,"['12f', '!']",2,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,No...,['...'],1,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,I dont even care that much...,"['dont', 'even', 'care', 'much', '...']",6,0.2,0.2,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Im just...,"['im', '...']",2,0.0,0.0,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,Having a really bad day today...,"['really', 'bad', 'day', 'today', '...']",6,-0.6999999999999998,0.6666666666666666,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,12i I didnt mean to take it out on you...,"['12i', 'didnt', 'mean', 'take', '...']",10,-0.3125,0.6875,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,I really didnt mean to!,"['really', 'didnt', 'mean', '!']",5,-0.0953125,0.44375,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,Just...,['...'],1,0.0,0.0,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,Every day...,"['every', 'day', '...']",2,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,...is...so hard.,"['...', '...', 'hard']",3,-0.2916666666666667,0.5416666666666666,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,I just want to...,"['want', '...']",4,0.0,0.0,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,...come to the club and...,"['...', 'come', 'club', '...']",5,0.0,0.0,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Youre...,"['youre', '...']",1,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Youre really nice to me...,"['youre', 'really', 'nice', '...']",5,0.6,1.0,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,12f Nn...,"['12f', 'nn', '...']",2,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,T-Thanks...,"['t-thanks', '...']",2,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Good.,['good'],1,0.7,0.6000000000000001,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Even if you werent Id make you anyway.,"['even', 'werent', 'id', 'make', 'anyway']",8,0.0,0.0,0.875,2
+script-exclusives-natsuki.rpy,Natsuki,Youre taking responsibility for what you said.,"['youre', 'taking', 'responsibility', 'said']",7,0.0,0.0,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,The thing about cheering me up.,"['thing', 'cheering']",6,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Yep!,"['yep', '!']",1,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Even you sound more enthusiastic this time.,"['even', 'sound', 'enthusiastic', 'time']",7,0.5,0.6,1.0,2
+script-exclusives-natsuki.rpy,Natsuki,Ehehe.,['ehehe'],1,0.0,0.0,1.0,0
+script-exclusives-natsuki.rpy,Natsuki,Told you.,['told'],2,0.0,0.0,1.0,2
+script-exclusives2-natsuki.rpy,Natsuki,Ugh...!,"['ugh', '...', '!']",1,0.0,0.0,1.0,0
+script-exclusives2-natsuki.rpy,Natsuki,fucking monikammmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm,"['fucking', 'monikammmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm']",2,-0.6,0.8,1.0,0
+script-exclusives2-natsuki.rpy,Natsuki,She never puts my stuff back in the right spot!,"['never', 'puts', 'stuff', 'back', 'right', 'spot', '!']",10,0.17857142857142855,0.26785714285714285,1.0,0
+script-exclusives2-natsuki.rpy,Natsuki,Whats the point in keeping your collection organized if someone else is just gonna mess it up?,"['whats', 'point', 'keeping', 'collection', 'organized', 'someone', 'else', 'gon', 'na', 'mess', '?']",17,-0.175,0.175,1.0,2
+script-exclusives2-natsuki.rpy,Natsuki,You read manga right?,"['read', 'manga', 'right', '?']",4,0.2857142857142857,0.5357142857142857,1.0,2
+script-exclusives2-natsuki.rpy,Natsuki,I heard you bring it up at some point.,"['heard', 'bring', 'point']",9,0.0,0.0,1.0,2
+script-exclusives2-natsuki.rpy,Natsuki,Besides its kind of written on your face.,"['besides', 'kind', 'written', 'face']",8,0.6,0.9,1.0,0
+script-exclusives2-natsuki.rpy,Natsuki,iThere/i it is!,"['ithere/i', '!']",4,0.0,0.0,1.0,0
+script-exclusives2-natsuki.rpy,Natsuki,Aah much better!,"['aah', 'much', 'better', '!']",3,0.625,0.5,1.0,0
+script-exclusives2-natsuki.rpy,Natsuki,Seeing a box set with one book missing is probably the most irritating sight in the world.,"['seeing', 'box', 'set', 'one', 'book', 'missing', 'probably', 'irritating', 'sight', 'world']",17,-0.03333333333333335,0.45,0.9411764705882353,0
+script-exclusives2-natsuki.rpy,Natsuki,If youre gonna judge you can go do it through the glass on that door.,"['youre', 'gon', 'na', 'judge', 'go', 'glass', 'door']",15,0.0,0.0,1.0,2
+script-exclusives2-natsuki.rpy,Natsuki,It was the tone of your voice.,"['tone', 'voice']",7,0.0,0.0,1.0,0
+script-exclusives2-natsuki.rpy,Natsuki,But Ill tell you one thing player.,"['ill', 'tell', 'one', 'thing', 'player']",7,-0.5,1.0,1.0,2
+script-exclusives2-natsuki.rpy,Natsuki,Consider this a lesson straight from the Literature Club:nw,"['consider', 'lesson', 'straight', 'literature', 'club', ':', 'nw']",10,0.2,0.4,1.0,0
+script-exclusives2-natsuki.rpy,Natsuki,dont judge a bookkkkkkkkkkkkkkkkk kkkkk kkspace=20kspace=40kspace=120kspace=160kspace=200k,"['dont', 'judge', 'bookkkkkkkkkkkkkkkkk', 'kkkkk', 'kkspace=20kspace=40kspace=120kspace=160kspace=200k']",11,0.0,0.0,1.0,0
+script-exclusives2-natsuki.rpy,Natsuki,In fact--,"['fact', '--']",2,0.0,0.0,1.0,0
+script-exclusives2-natsuki.rpy,Natsuki,Im gonna show you exactly why!,"['im', 'gon', 'na', 'show', 'exactly', '!']",6,0.3125,0.25,1.0,2
+script-exclusives2-natsuki.rpy,Natsuki,Dont just stand there!,"['dont', 'stand', '!']",4,0.0,0.0,1.0,2
+script-exclusives2-natsuki.rpy,Natsuki,Chairs wouldnt work.,"['chairs', 'wouldnt', 'work']",3,0.0,0.0,1.0,0
+script-exclusives2-natsuki.rpy,Natsuki,We cant read at the same time like that.,"['cant', 'read', 'time', 'like']",9,0.0,0.125,1.0,0
+script-exclusives2-natsuki.rpy,Natsuki,--!,"['--', '!']",0,0.0,0.0,1.0,0
+script-exclusives2-natsuki.rpy,Natsuki,D-Dont just say that!,"['d-dont', 'say', '!']",5,0.0,0.0,1.0,2
+script-exclusives2-natsuki.rpy,Natsuki,Youll make me feel weird about it!,"['youll', 'make', 'feel', 'weird', '!']",7,-0.625,1.0,1.0,0
+script-exclusives2-natsuki.rpy,Natsuki,Wow how long has it been since I read the beginning...?,"['wow', 'long', 'since', 'read', 'beginning', '...', '?']",11,0.025,0.7,1.0,0
+script-exclusives2-natsuki.rpy,Natsuki,Not really.,['really'],2,-0.1,0.2,1.0,0
+script-exclusives2-natsuki.rpy,Natsuki,Maybe sometimes after Ive already finished the series.,"['maybe', 'sometimes', 'ive', 'already', 'finished', 'series']",8,0.0,0.0,1.0,0
+script-exclusives2-natsuki.rpy,Natsuki,Hey are you paying attention?,"['hey', 'paying', 'attention', '?']",5,0.0,0.0,1.0,2
+script-exclusives2-natsuki.rpy,Natsuki,Its not!,['!'],2,0.0,0.0,1.0,0
+script-exclusives2-natsuki.rpy,Natsuki,Well...!,"['well', '...', '!']",1,0.0,0.0,1.0,1
+script-exclusives2-natsuki.rpy,Natsuki,Im...fine with that.,"['im', '...', 'fine']",4,0.0,0.0,1.0,0
+script-exclusives2-natsuki.rpy,Natsuki,...?,"['...', '?']",0,0.0,0.0,1.0,0
+script-exclusives2-natsuki.rpy,Natsuki,Um...,"['um', '...']",1,0.0,0.0,1.0,0
+script-exclusives2-natsuki.rpy,Natsuki,Thats not...,"['thats', '...']",2,0.0,0.0,1.0,0
+script-exclusives2-natsuki.rpy,Natsuki,Well I wouldnt really know.,"['well', 'wouldnt', 'really', 'know']",5,0.2,0.2,1.0,1
+script-exclusives2-natsuki.rpy,Natsuki,Could you not rub it in?,"['could', 'rub', '?']",6,0.0,0.0,1.0,2
+script-exclusives2-natsuki.rpy,Natsuki,Jeez...,"['jeez', '...']",1,0.0,0.0,1.0,0
+script-exclusives2-natsuki.rpy,Natsuki,Hmph.,['hmph'],1,0.0,0.0,1.0,0
+script-exclusives2-natsuki.rpy,Natsuki,Like I could ever get my friends to read this...,"['like', 'could', 'ever', 'get', 'friends', 'read', '...']",10,0.0,0.0,1.0,2
+script-exclusives2-natsuki.rpy,Natsuki,They just think manga is for kids.,"['think', 'manga', 'kids']",7,0.0,0.0,1.0,2
+script-exclusives2-natsuki.rpy,Natsuki,I cant even bring it up without them being all like...,"['cant', 'even', 'bring', 'without', 'like', '...']",11,0.0,0.0,1.0,0
+script-exclusives2-natsuki.rpy,Natsuki,Eh? You still havent grown out of that yet?,"['eh', '?', 'still', 'havent', 'grown', 'yet', '?']",9,0.0,0.0,1.0,0
+script-exclusives2-natsuki.rpy,Natsuki,Makes me want to punch them in the face...,"['makes', 'want', 'punch', 'face', '...']",9,0.0,0.0,1.0,2
+script-exclusives2-natsuki.rpy,Natsuki,Hm.,['hm'],1,0.0,0.0,1.0,0
+script-exclusives2-natsuki.rpy,Natsuki,Yeah thats pretty accurate.,"['yeah', 'thats', 'pretty', 'accurate']",4,0.32500000000000007,0.8166666666666667,1.0,0
+script-exclusives2-natsuki.rpy,Natsuki,I mean I feel like I cant even keep it in my own room...,"['mean', 'feel', 'like', 'cant', 'even', 'keep', 'room', '...']",14,0.14375,0.84375,0.8571428571428571,0
+script-exclusives2-natsuki.rpy,Natsuki,My dad would beat the shit out of me if he found this.,"['dad', 'would', 'beat', 'shit', 'found']",13,-0.2,0.8,1.0,0
+script-exclusives2-natsuki.rpy,Natsuki,At least its safe here in the clubroom.,"['least', 'safe', 'clubroom']",8,0.1,0.45,1.0,0
+script-exclusives2-natsuki.rpy,Natsuki,Cept Monikas kind of a jerk about it...,"['cept', 'monikas', 'kind', 'jerk', '...']",8,0.6,0.9,1.0,0
+script-exclusives2-natsuki.rpy,Natsuki,Ugh! I just cant win can I?,"['ugh', '!', 'cant', 'win', '?']",7,0.8,0.4,0.8571428571428571,2
+script-exclusives2-natsuki.rpy,Natsuki,Well its not like that solves any of my problems.,"['well', 'like', 'solves', 'problems']",10,0.0,0.0,1.0,1
+script-exclusives2-natsuki.rpy,Natsuki,--,['--'],0,0.0,0.0,1.0,0
+script-exclusives2-natsuki.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-exclusives2-natsuki.rpy,Natsuki,...So?,"['...', '?']",1,0.0,0.0,1.0,0
+script-exclusives2-natsuki.rpy,Natsuki,Jeez thats enough!,"['jeez', 'thats', 'enough', '!']",3,0.0,0.5,1.0,0
+script-exclusives2-natsuki.rpy,Natsuki,Are you gonna keep reading or what?,"['gon', 'na', 'keep', 'reading', '?']",7,0.0,0.0,1.0,2
+script-exclusives2-natsuki.rpy,Natsuki,Y-Yeah...?,"['y-yeah', '...', '?']",2,0.0,0.0,1.0,0
+script-exclusives2-natsuki.rpy,Natsuki,color=#000ntext/color,"['color=', '#', '000ntext/color']",3,0.0,0.0,1.0,0
+script-exclusives2-natsuki.rpy,Natsuki,color=#000ntext/color,"['color=', '#', '000ntext/color']",3,0.0,0.0,1.0,0
+script-exclusives2-natsuki.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-exclusives2-natsuki.rpy,Natsuki,I told you not to give mmph...,"['told', 'give', 'mmph', '...']",7,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,Yeah...,"['yeah', '...']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,I told you that you werent gonna like it.,"['told', 'werent', 'gon', 'na', 'like']",9,0.0,0.0,0.8888888888888888,2
+script-poemresponses.rpy,Natsuki,What?,['?'],1,0.0,0.0,1.0,1
+script-poemresponses.rpy,Natsuki,Just be honest!,"['honest', '!']",3,0.75,0.9,1.0,2
+script-poemresponses.rpy,Natsuki,Well--,"['well', '--']",1,0.0,0.0,1.0,1
+script-poemresponses.rpy,Natsuki,Because!,['!'],1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Everyone in high school thinks that writing has to be all sophisticated and stuff...,"['everyone', 'high', 'school', 'thinks', 'writing', 'sophisticated', 'stuff', '...']",14,0.33,0.77,1.0,0
+script-poemresponses.rpy,Natsuki,So people dont even take my writing seriously.,"['people', 'dont', 'even', 'take', 'writing', 'seriously']",8,-0.3333333333333333,0.6666666666666666,1.0,0
+script-poemresponses.rpy,Natsuki,Yes! Exactly!,"['yes', '!', 'exactly', '!']",2,0.3125,0.25,1.0,0
+script-poemresponses.rpy,Natsuki,I like when its easy to read but it hits you hard.,"['like', 'easy', 'read', 'hits', 'hard']",12,0.07083333333333333,0.6875,1.0,2
+script-poemresponses.rpy,Natsuki,Like in this poem.,"['like', 'poem']",4,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Seeing everyone around you do great things can be really disheartening...,"['seeing', 'everyone', 'around', 'great', 'things', 'really', 'disheartening', '...']",11,0.5,0.475,1.0,2
+script-poemresponses.rpy,Natsuki,So I decided to write about it.,"['decided', 'write']",7,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,But the other nice thing about simple writing is that it puts more weight on the wordplay.,"['nice', 'thing', 'simple', 'writing', 'puts', 'weight', 'wordplay']",17,0.24375,0.5580357142857143,0.9411764705882353,0
+script-poemresponses.rpy,Natsuki,Like I set up for a rhyme at the end but then made it fall flat on purpose.,"['like', 'set', 'rhyme', 'end', 'made', 'fall', 'flat', 'purpose']",18,-0.025,0.125,1.0,0
+script-poemresponses.rpy,Natsuki,It helps bring out the feeling in the last line.,"['helps', 'bring', 'feeling', 'last', 'line']",10,0.0,0.06666666666666667,0.9,0
+script-poemresponses.rpy,Natsuki,Thats what it means to be a pro!,"['thats', 'means', 'pro', '!']",8,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,Im glad you learned something.,"['im', 'glad', 'learned', 'something']",5,0.5,1.0,1.0,2
+script-poemresponses.rpy,Natsuki,Didnt expect that from the youngest one here did you?,"['didnt', 'expect', 'youngest', 'one', '?']",10,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,Not bad right?,"['bad', 'right', '?']",3,0.31785714285714284,0.6011904761904762,1.0,0
+script-poemresponses.rpy,Natsuki,Yesterdays was way too short...,"['yesterdays', 'way', 'short', '...']",5,0.0,0.3,1.0,0
+script-poemresponses.rpy,Natsuki,I was just warming up!,"['warming', '!']",5,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,I hope you didnt think that was the best I could do.,"['hope', 'didnt', 'think', 'best', 'could']",12,1.0,0.3,0.9166666666666666,2
+script-poemresponses.rpy,Natsuki,Anyway the message is pretty straightforward in this poem.,"['anyway', 'message', 'pretty', 'straightforward', 'poem']",9,0.3125,0.6875,1.0,0
+script-poemresponses.rpy,Natsuki,I doubt I have to explain it.,"['doubt', 'explain']",7,0.0,0.0,0.8571428571428571,2
+script-poemresponses.rpy,Natsuki,Sometimes you can explain complicated issues with much simpler analogies...,"['sometimes', 'explain', 'complicated', 'issues', 'much', 'simpler', 'analogies', '...']",10,-0.15,0.6,1.0,0
+script-poemresponses.rpy,Natsuki,And it helps people realize how stupid theyre being.,"['helps', 'people', 'realize', 'stupid', 'theyre']",9,-0.7999999999999999,1.0,1.0,0
+script-poemresponses.rpy,Natsuki,Like anyone would agree that the subject of this poem is an ignorant jerk...,"['like', 'anyone', 'would', 'agree', 'subject', 'poem', 'ignorant', 'jerk', '...']",14,-0.16666666666666666,0.3333333333333333,1.0,0
+script-poemresponses.rpy,Natsuki,Of course. Its about how everyone thinks my--,"['course', 'everyone', 'thinks', '--']",8,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,...That doesnt matter! It can be about anything!,"['...', 'doesnt', 'matter', '!', 'anything', '!']",8,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,I wrote it to be easy to relate to...,"['wrote', 'easy', 'relate', '...']",9,0.43333333333333335,0.8333333333333334,0.7777777777777778,2
+script-poemresponses.rpy,Natsuki,Everyone has some kind of weird hobby or a guilty pleasure.,"['everyone', 'kind', 'weird', 'hobby', 'guilty', 'pleasure']",11,-0.13333333333333333,0.9666666666666667,1.0,0
+script-poemresponses.rpy,Natsuki,Something that youre afraid if people find out theyd make fun of you or think less of you.,"['something', 'youre', 'afraid', 'people', 'find', 'theyd', 'make', 'fun', 'think', 'less']",18,-0.15555555555555556,0.3888888888888889,0.8888888888888888,2
+script-poemresponses.rpy,Natsuki,...But that just makes people stupid!,"['...', 'makes', 'people', 'stupid', '!']",6,-0.9999999999999999,1.0,1.0,2
+script-poemresponses.rpy,Natsuki,Who cares what someone likes as long as theyre not hurting anyone and it makes them happy?,"['cares', 'someone', 'likes', 'long', 'theyre', 'hurting', 'anyone', 'makes', 'happy', '?']",17,0.375,0.7,0.9411764705882353,0
+script-poemresponses.rpy,Natsuki,I think people really need to learn to respect others for liking weird things...,"['think', 'people', 'really', 'need', 'learn', 'respect', 'others', 'liking', 'weird', 'things', '...']",14,-0.15,0.6,0.9285714285714286,2
+script-poemresponses.rpy,Natsuki,Huh?,"['huh', '?']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Did you say Yuri?,"['say', 'yuri', '?']",4,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,Really?,"['really', '?']",1,0.2,0.2,1.0,0
+script-poemresponses.rpy,Natsuki,Well...,"['well', '...']",1,0.0,0.0,1.0,1
+script-poemresponses.rpy,Natsuki,I mean Yuris pretty weird so I wouldnt doubt that she has some weird hobbies...,"['mean', 'yuris', 'pretty', 'weird', 'wouldnt', 'doubt', 'weird', 'hobbies', '...']",15,-0.265625,0.921875,0.8666666666666667,0
+script-poemresponses.rpy,Natsuki,...Not that theres anything wrong with that!,"['...', 'theres', 'anything', 'wrong', '!']",7,-0.625,0.9,0.8571428571428571,0
+script-poemresponses.rpy,Natsuki,Uu...,"['uu', '...']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Its not like...I would judge her or anything...,"['like', '...', 'would', 'judge', 'anything', '...']",9,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,I-I guess I should try not to be so mean to her...,"['i-i', 'guess', 'try', 'mean', '...']",13,-0.3125,0.6875,0.9166666666666666,2
+script-poemresponses.rpy,Natsuki,If she feels insecure about her weird behaviors and stuff...,"['feels', 'insecure', 'weird', 'behaviors', 'stuff', '...']",10,-0.5,0.9375,1.0,0
+script-poemresponses.rpy,Natsuki,I mean I always hate people who make me feel insecure...,"['mean', 'always', 'hate', 'people', 'make', 'feel', 'insecure', '...']",11,-0.5375,0.8208333333333333,0.9090909090909091,0
+script-poemresponses.rpy,Natsuki,And Yuri made me feel insecure yesterday!,"['yuri', 'made', 'feel', 'insecure', 'yesterday', '!']",7,-0.625,0.875,1.0,0
+script-poemresponses.rpy,Natsuki,But the way you put it it sounds like shes learned her lesson...,"['way', 'put', 'sounds', 'like', 'shes', 'learned', 'lesson', '...']",13,0.0,0.0,0.9230769230769231,2
+script-poemresponses.rpy,Natsuki,You know...,"['know', '...']",2,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,Im glad that you can appreciate this kind of writing...,"['im', 'glad', 'appreciate', 'kind', 'writing', '...']",10,0.55,0.95,1.0,2
+script-poemresponses.rpy,Natsuki,I mean...I know I was talking about that yesterday.,"['mean', '...', 'know', 'talking', 'yesterday']",10,0.0,0.0,0.8888888888888888,0
+script-poemresponses.rpy,Natsuki,But Ive been...well Ive been enjoying sharing my writing with you so...,"['ive', '...', 'well', 'ive', 'enjoying', 'sharing', 'writing', '...']",13,0.5,0.6,0.9166666666666666,0
+script-poemresponses.rpy,Natsuki,...So consider yourself lucky okay?,"['...', 'consider', 'lucky', 'okay', '?']",5,0.41666666666666663,0.6666666666666667,1.0,0
+script-poemresponses.rpy,Natsuki,Whats that supposed to mean?,"['whats', 'supposed', 'mean', '?']",5,-0.3125,0.6875,1.0,2
+script-poemresponses.rpy,Natsuki,Im always honest!,"['im', 'always', 'honest', '!']",3,0.75,0.9,1.0,0
+script-poemresponses.rpy,Natsuki,12b Jeez...,"['12b', 'jeez', '...']",2,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Just look forward to tomorrow too okay?,"['look', 'forward', 'tomorrow', 'okay', '?']",7,0.5,0.5,1.0,2
+script-poemresponses.rpy,Natsuki,Its what I do best after all!,"['best', '!']",7,1.0,0.3,1.0,0
+script-poemresponses.rpy,Natsuki,I dont like writing unless theres a good message to take away from it.,"['dont', 'like', 'writing', 'unless', 'theres', 'good', 'message', 'take', 'away']",14,0.7,0.6000000000000001,1.0,2
+script-poemresponses.rpy,Natsuki,Like conveying emotions is important...,"['like', 'conveying', 'emotions', 'important', '...']",5,0.4,1.0,1.0,0
+script-poemresponses.rpy,Natsuki,But I want to make people think not just feel.,"['want', 'make', 'people', 'think', 'feel']",10,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,Remember that!,"['remember', '!']",2,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Im gonna write a good one for tomorrow too so look forward to it.,"['im', 'gon', 'na', 'write', 'good', 'one', 'tomorrow', 'look', 'forward']",14,0.7,0.6000000000000001,1.0,2
+script-poemresponses.rpy,Natsuki,Yeah...,"['yeah', '...']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,I felt like I kept writing about negative things so I wanted to write something with a nice message for once.,"['felt', 'like', 'kept', 'writing', 'negative', 'things', 'wanted', 'write', 'something', 'nice', 'message']",21,0.15,0.7,0.9047619047619048,0
+script-poemresponses.rpy,Natsuki,Besides...the beach is awesome!,"['besides', '...', 'beach', 'awesome', '!']",5,1.0,1.0,1.0,0
+script-poemresponses.rpy,Natsuki,Kinda hard to write anything negative about the beach.,"['kinda', 'hard', 'write', 'anything', 'negative', 'beach']",9,-0.29583333333333334,0.4708333333333333,1.0,0
+script-poemresponses.rpy,Natsuki,Yeah well...,"['yeah', 'well', '...']",2,0.0,0.0,1.0,1
+script-poemresponses.rpy,Natsuki,Its only because of what happened yesterday.,"['happened', 'yesterday']",7,0.0,1.0,1.0,0
+script-poemresponses.rpy,Natsuki,I mean after Yuri and I realized we kind of wrote about the same thing...,"['mean', 'yuri', 'realized', 'kind', 'wrote', 'thing', '...']",15,0.09583333333333333,0.5708333333333333,0.9333333333333333,0
+script-poemresponses.rpy,Natsuki,She wanted to pick a topic and have us both write about it or whatever.,"['wanted', 'pick', 'topic', 'us', 'write', 'whatever']",15,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,Well thats--,"['well', 'thats', '--']",2,0.0,0.0,1.0,1
+script-poemresponses.rpy,Natsuki,42c Jeez...she better not have said anything bad about mine!,"['42c', 'jeez', '...', 'better', 'said', 'anything', 'bad', 'mine', '!']",11,-0.1874999999999999,0.5833333333333333,1.0,0
+script-poemresponses.rpy,Natsuki,After all she was the one who wanted us to write about the same topic.,"['one', 'wanted', 'us', 'write', 'topic']",15,0.0,0.125,0.9333333333333333,0
+script-poemresponses.rpy,Natsuki,Ugh...you can really see her doing that too.,"['ugh', '...', 'really', 'see']",9,0.2,0.2,1.0,2
+script-poemresponses.rpy,Natsuki,Making us write about a simple topic then trying to impress me by coming up with something all fancy.,"['making', 'us', 'write', 'simple', 'topic', 'trying', 'impress', 'coming', 'something', 'fancy']",19,0.0,0.35714285714285715,1.0,2
+script-poemresponses.rpy,Natsuki,Well its not like I care.,"['well', 'like', 'care']",6,0.0,0.0,1.0,1
+script-poemresponses.rpy,Natsuki,I just did it anyway.,['anyway'],5,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,I mean I guess mine ended up being kind of metaphorical too...,"['mean', 'guess', 'mine', 'ended', 'kind', 'metaphorical', '...']",12,0.09583333333333333,0.5958333333333333,0.9166666666666666,0
+script-poemresponses.rpy,Natsuki,...But theres nothing wrong with doing that once in a while!,"['...', 'theres', 'nothing', 'wrong', '!']",11,-0.625,0.9,1.0,0
+script-poemresponses.rpy,Natsuki,At the very least it was good practice.,"['least', 'good', 'practice']",8,0.15499999999999997,0.56,1.0,0
+script-poemresponses.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,...Why are you looking at me like that?,"['...', 'looking', 'like', '?']",8,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,If you dont like it then just say it.,"['dont', 'like', 'say']",9,0.0,0.0,0.8888888888888888,2
+script-poemresponses.rpy,Natsuki,I wont...get mad.,"['wont', '...', 'get', 'mad']",4,-0.625,1.0,1.0,0
+script-poemresponses.rpy,Natsuki,D-Dont just say that!,"['d-dont', 'say', '!']",5,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,Dummy...,"['dummy', '...']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,What do you think...the point of writing is?,"['think', '...', 'point', 'writing', '?']",9,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,Expressing things that you cant just say...,"['expressing', 'things', 'cant', 'say', '...']",7,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,Well...yeah...,"['well', '...', 'yeah', '...']",2,0.0,0.0,1.0,1
+script-poemresponses.rpy,Natsuki,Im...Im a pro so...,"['im', '...', 'im', 'pro', '...']",5,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Just...,['...'],1,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,12c Remember that...I can think these things sometimes too!,"['12c', 'remember', '...', 'think', 'things', 'sometimes', '!']",10,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,You know when youre nice to me its...,"['know', 'youre', 'nice', '...']",8,0.6,1.0,1.0,2
+script-poemresponses.rpy,Natsuki,12a ...,"['12a', '...']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,...Meaningful.,"['...', 'meaningful']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,12b I dont want it.,"['12b', 'dont', 'want']",5,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,12c I just dont!,"['12c', 'dont', '!']",4,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,Jeez...,"['jeez', '...']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,...Good.,"['...', 'good']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,If you didnt I would...,"['didnt', 'would', '...']",5,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Never mind...,"['never', 'mind', '...']",2,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Just...Im glad that you want it.,"['...', 'im', 'glad', 'want']",7,0.5,1.0,1.0,2
+script-poemresponses.rpy,Natsuki,Thats all for now so...,"['thats', '...']",5,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Go put it away before someone sees it okay?,"['go', 'put', 'away', 'someone', 'sees', 'okay', '?']",9,0.5,0.5,0.8888888888888888,2
+script-poemresponses.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,player if youre not going to take this club seriously then go home.,"['player', 'youre', 'going', 'take', 'club', 'seriously', 'go', 'home']",13,-0.3333333333333333,0.6666666666666666,0.9230769230769231,2
+script-poemresponses.rpy,Natsuki,42c What you expect me to believe that you actually put effort into this?,"['42c', 'expect', 'believe', 'actually', 'put', 'effort', '?']",14,0.0,0.1,0.9285714285714286,2
+script-poemresponses.rpy,Natsuki,Do you think Im stupid?,"['think', 'im', 'stupid', '?']",5,-0.7999999999999999,1.0,1.0,2
+script-poemresponses.rpy,Natsuki,!!,"['!', '!']",0,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Fine.,['fine'],1,0.4166666666666667,0.5,1.0,0
+script-poemresponses.rpy,Natsuki,Well sorry.,"['well', 'sorry']",2,-0.5,1.0,1.0,1
+script-poemresponses.rpy,Natsuki,Youll get better anyway.,"['youll', 'get', 'better', 'anyway']",4,0.5,0.5,1.0,0
+script-poemresponses.rpy,Natsuki,Id tell you what to improve but youre better off just trying again.,"['id', 'tell', 'improve', 'youre', 'better', 'trying']",13,0.5,0.5,1.0,2
+script-poemresponses.rpy,Natsuki,Anyway I guess I gotta share mine now...,"['anyway', 'guess', 'got', 'ta', 'share', 'mine', '...']",8,0.0,0.0,0.875,0
+script-poemresponses.rpy,Natsuki,Knowing you youll probably think its stupid.,"['knowing', 'youll', 'probably', 'think', 'stupid']",7,-0.7999999999999999,1.0,1.0,2
+script-poemresponses.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,...Well its about what I expected from someone like you.,"['...', 'well', 'expected', 'someone', 'like']",10,-0.1,0.4,1.0,1
+script-poemresponses.rpy,Natsuki,Well excuse me.,"['well', 'excuse']",3,-0.05,0.05,1.0,1
+script-poemresponses.rpy,Natsuki,Its not like I said it was bad.,"['like', 'said', 'bad']",8,-0.6999999999999998,0.6666666666666666,1.0,0
+script-poemresponses.rpy,Natsuki,It just didnt evoke any emotions.,"['didnt', 'evoke', 'emotions']",6,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,Do you want to get smacked?,"['want', 'get', 'smacked', '?']",6,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,42b Sigh...,"['42b', 'sigh', '...']",2,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,42c Well anyway I guess I need to show you mine.,"['42c', 'well', 'anyway', 'guess', 'need', 'show', 'mine']",11,0.0,0.0,0.9090909090909091,1
+script-poemresponses.rpy,Natsuki,Not that youll like it.,"['youll', 'like']",5,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,...Okay well lets start with the things I dont like!,"['...', 'okay', 'well', 'lets', 'start', 'things', 'dont', 'like', '!']",10,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,First of all um...,"['first', 'um', '...']",4,0.25,0.3333333333333333,1.0,0
+script-poemresponses.rpy,Natsuki,N-Never mind. I dont feel like giving you my opinion.,"['n-never', 'mind', 'dont', 'feel', 'like', 'giving', 'opinion']",11,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,Uu...,"['uu', '...']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Uuuu...!,"['uuuu', '...', '!']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Well I would be more comfortable sharing my poem if yours was really bad!,"['well', 'would', 'comfortable', 'sharing', 'poem', 'really', 'bad', '!']",14,0.008333333333333415,0.6555555555555556,0.9285714285714286,0
+script-poemresponses.rpy,Natsuki,You were supposed to show me some dumb poem and make me go Hah well its not that great but let me show you what real literature looks like!,"['supposed', 'show', 'dumb', 'poem', 'make', 'go', 'hah', 'well', 'great', 'let', 'show', 'real', 'literature', 'looks', 'like', '!']",29,0.225,0.5166666666666667,0.8620689655172413,2
+script-poemresponses.rpy,Natsuki,And you went and ruined it!,"['went', 'ruined', '!']",6,0.0,0.0,0.8333333333333334,2
+script-poemresponses.rpy,Natsuki,I hope youre happy!,"['hope', 'youre', 'happy', '!']",4,1.0,1.0,1.0,0
+script-poemresponses.rpy,Natsuki,Urk--,"['urk', '--']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Uuuuuuuuu...Youre so...!,"['uuuuuuuuu', '...', 'youre', '...', '!']",3,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,You just...you...dont understand anything do you?,"['...', '...', 'dont', 'understand', 'anything', '?']",8,0.0,0.0,0.8333333333333334,2
+script-poemresponses.rpy,Natsuki,I already told you that you dont have to go announcing it to the world like youre all self-important!,"['already', 'told', 'dont', 'go', 'announcing', 'world', 'like', 'youre', 'self-important', '!']",20,0.0,0.0,0.8947368421052632,2
+script-poemresponses.rpy,Natsuki,Gr... Fine I guess.,"['gr', '...', 'fine', 'guess']",4,0.4166666666666667,0.5,1.0,0
+script-poemresponses.rpy,Natsuki,Only because Monika will make me if I dont.,"['monika', 'make', 'dont']",9,0.0,1.0,1.0,2
+script-poemresponses.rpy,Natsuki,...Hm.,"['...', 'hm']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Well I can admit that its better than the last one.,"['well', 'admit', 'better', 'last', 'one']",11,0.25,0.2833333333333333,1.0,1
+script-poemresponses.rpy,Natsuki,Its nice to see that youre putting in some effort.,"['nice', 'see', 'youre', 'putting', 'effort']",10,0.6,1.0,1.0,2
+script-poemresponses.rpy,Natsuki,But I still dont like this at all.,"['still', 'dont', 'like']",8,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Its trying too hard to be serious.,"['trying', 'hard', 'serious']",7,-0.3125,0.6041666666666666,1.0,2
+script-poemresponses.rpy,Natsuki,Poems dont need to be all deep-sounding to express something.,"['poems', 'dont', 'need', 'deep-sounding', 'express', 'something']",11,0.0,0.0,0.9,2
+script-poemresponses.rpy,Natsuki,Its going to just sound like youre forcing it unless you really dont suck at it.,"['going', 'sound', 'like', 'youre', 'forcing', 'unless', 'really', 'dont', 'suck']",16,0.30000000000000004,0.30000000000000004,0.9375,2
+script-poemresponses.rpy,Natsuki,Honestly... Dont bother trying to write poems like this until youre on Yuris level--,"['honestly', '...', 'dont', 'bother', 'trying', 'write', 'poems', 'like', 'youre', 'yuris', 'level', '--']",14,0.6,0.9,1.0,2
+script-poemresponses.rpy,Natsuki,D-Dont...tell me...,"['d-dont', '...', 'tell', '...']",4,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,Youre not...youre not just trying to impress Yuri are you?!,"['youre', '...', 'youre', 'trying', 'impress', 'yuri', '?', '!']",11,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,You know Yuri would love this kind of...this angsty.......!!,"['know', 'yuri', 'would', 'love', 'kind', '...', 'angsty', '.......', '!', '!']",10,0.71875,0.75,1.0,2
+script-poemresponses.rpy,Natsuki,Uu....!!,"['uu', '....', '!', '!']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,I am so done with you.,['done'],6,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,Take your stupid poem. If you wrote it for someone else just dont show it to me!,"['take', 'stupid', 'poem', 'wrote', 'someone', 'else', 'dont', 'show', '!']",17,-0.9999999999999999,1.0,0.9411764705882353,2
+script-poemresponses.rpy,Natsuki,...Hm.,"['...', 'hm']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,I liked your last one better.,"['liked', 'last', 'one', 'better']",6,0.3666666666666667,0.45555555555555555,1.0,0
+script-poemresponses.rpy,Natsuki,Well yeah. I can tell you were a little more daring with this one.,"['well', 'yeah', 'tell', 'little', 'daring', 'one']",14,0.15625,0.5,1.0,1
+script-poemresponses.rpy,Natsuki,But youre really not good enough for that yet. It fell flat.,"['youre', 'really', 'good', 'enough', 'yet', 'fell', 'flat']",12,-0.125,0.4083333333333334,1.0,0
+script-poemresponses.rpy,Natsuki,I mean I always like poems that arent trying too hard.,"['mean', 'always', 'like', 'poems', 'arent', 'trying', 'hard']",11,-0.30208333333333337,0.6145833333333333,0.9090909090909091,0
+script-poemresponses.rpy,Natsuki,I hate when people try to sound fancy or add more meaning just by using annoying and complicated language.,"['hate', 'people', 'try', 'sound', 'fancy', 'add', 'meaning', 'using', 'annoying', 'complicated', 'language']",19,-0.24000000000000005,0.74,1.0,2
+script-poemresponses.rpy,Natsuki,Just make it simple cute and to the point!,"['make', 'simple', 'cute', 'point', '!']",9,0.3125,0.6785714285714286,1.0,2
+script-poemresponses.rpy,Natsuki,Yuris head over heels for all this cryptic nonsense but I see right through that BS. Hah!,"['yuris', 'head', 'heels', 'cryptic', 'nonsense', 'see', 'right', 'bs', 'hah', '!']",17,0.3571428571428571,0.5357142857142857,1.0,0
+script-poemresponses.rpy,Natsuki,42a Making your reader look so hard for all this deep meaning is just an excuse to have no meaning at all.,"['42a', 'making', 'reader', 'look', 'hard', 'deep', 'meaning', 'excuse', 'meaning']",22,-0.11388888888888889,0.33055555555555555,0.9090909090909091,0
+script-poemresponses.rpy,Natsuki,Well everyone has their own opinion.,"['well', 'everyone', 'opinion']",6,0.6,1.0,1.0,1
+script-poemresponses.rpy,Natsuki,But my opinion is the best opinion. Im sure youve figured that out already.,"['opinion', 'best', 'opinion', 'im', 'sure', 'youve', 'figured', 'already']",14,0.75,0.5944444444444444,0.9285714285714286,0
+script-poemresponses.rpy,Natsuki,Anyway heres my poem. Maybe youll learn something.,"['anyway', 'heres', 'poem', 'maybe', 'youll', 'learn', 'something']",8,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,...Hm.,"['...', 'hm']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Well I can admit that its better than the last one.,"['well', 'admit', 'better', 'last', 'one']",11,0.25,0.2833333333333333,1.0,1
+script-poemresponses.rpy,Natsuki,Its nice to see that youre putting in some effort.,"['nice', 'see', 'youre', 'putting', 'effort']",10,0.6,1.0,1.0,2
+script-poemresponses.rpy,Natsuki,Come to think of it this kind of reminds me of Sayoris poem from yesterday...,"['come', 'think', 'kind', 'reminds', 'sayoris', 'poem', 'yesterday', '...']",15,0.6,0.9,0.8666666666666667,2
+script-poemresponses.rpy,Natsuki,Yeah. Well I guess if youve been friends with her for so long you might be on the same wavelength.,"['yeah', 'well', 'guess', 'youve', 'friends', 'long', 'might', 'wavelength']",20,-0.025,0.2625,0.95,0
+script-poemresponses.rpy,Natsuki,But you never really struck me as her type.,"['never', 'really', 'struck', 'type']",9,-0.1,0.2,1.0,2
+script-poemresponses.rpy,Natsuki,42c Well I dont know! But honestly how can someone so...er fluffy...spend so much time with someone like you?,"['42c', 'well', 'dont', 'know', '!', 'honestly', 'someone', '...', 'er', 'fluffy', '...', 'spend', 'much', 'time', 'someone', 'like', '?']",21,0.4,0.55,0.9473684210526315,2
+script-poemresponses.rpy,Natsuki,Its like shes dragging around a dead weight.,"['like', 'shes', 'dragging', 'around', 'dead', 'weight']",8,-0.2,0.4,1.0,0
+script-poemresponses.rpy,Natsuki,Whatever it is I dont get it...,"['whatever', 'dont', 'get', '...']",7,0.0,0.0,0.8571428571428571,2
+script-poemresponses.rpy,Natsuki,...Oh yeah I guess Im supposed to show you my poem.,"['...', 'oh', 'yeah', 'guess', 'im', 'supposed', 'show', 'poem']",11,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,Here.,[],1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,...Hm.,"['...', 'hm']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Well its not really any worse than your last one.,"['well', 'really', 'worse', 'last', 'one']",10,-0.16666666666666666,0.2888888888888889,1.0,1
+script-poemresponses.rpy,Natsuki,But I cant really say its any better either.,"['cant', 'really', 'say', 'better', 'either']",9,0.35,0.35,1.0,0
+script-poemresponses.rpy,Natsuki,Huh? Phew what?,"['huh', '?', 'phew', '?']",3,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,H-Hey! What makes you--,"['h-hey', '!', 'makes', '--']",5,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,i(Wait maybe that was a compliment...?)/i,"['(', 'wait', 'maybe', 'compliment', '...', '?', ')', '/i']",8,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,A-Ahah! Glad to see someone recognizes my experience!,"['a-ahah', '!', 'glad', 'see', 'someone', 'recognizes', 'experience', '!']",9,0.625,1.0,1.0,0
+script-poemresponses.rpy,Natsuki,Well then keep practicing and maybe youll be as good as me someday!,"['well', 'keep', 'practicing', 'maybe', 'youll', 'good', 'someday', '!']",13,0.875,0.6000000000000001,0.9230769230769231,0
+script-poemresponses.rpy,Natsuki,...Hm.,"['...', 'hm']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Well its not terrible.,"['well', 'terrible']",4,0.5,1.0,1.0,1
+script-poemresponses.rpy,Natsuki,But its pretty disappointing after your last one.,"['pretty', 'disappointing', 'last', 'one']",8,-0.11666666666666665,0.5888888888888889,1.0,0
+script-poemresponses.rpy,Natsuki,Then again if this one was as good as your last one I would be completely pissed.,"['one', 'good', 'last', 'one', 'would', 'completely', 'pissed']",17,0.26666666666666666,0.3555555555555556,0.8235294117647058,0
+script-poemresponses.rpy,Natsuki,Fair enough. Youre still new to this so I wouldnt expect you to find your style right away.,"['fair', 'enough', 'youre', 'still', 'new', 'wouldnt', 'expect', 'find', 'style', 'right', 'away']",18,0.2805194805194805,0.597564935064935,0.9444444444444444,2
+script-poemresponses.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,...Arent you supposed to be bad at this?,"['...', 'arent', 'supposed', 'bad', '?']",8,-0.6999999999999998,0.6666666666666666,1.0,2
+script-poemresponses.rpy,Natsuki,N-No! I mean... You know...,"['n-no', '!', 'mean', '...', 'know', '...']",6,-0.3125,0.6875,1.0,2
+script-poemresponses.rpy,Natsuki,I just...expected a lot less after what you showed me yesterday.,"['...', 'expected', 'lot', 'less', 'showed', 'yesterday']",12,-0.16666666666666666,0.06666666666666667,1.0,2
+script-poemresponses.rpy,Natsuki,Thats all.,['thats'],2,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Y-Yeah!! Exactly!,"['y-yeah', '!', '!', 'exactly', '!']",3,0.3125,0.25,1.0,0
+script-poemresponses.rpy,Natsuki,You just got lucky you know?,"['got', 'lucky', 'know', '?']",6,0.3333333333333333,0.8333333333333334,0.8333333333333334,2
+script-poemresponses.rpy,Natsuki,Dont get used to it.,"['dont', 'get', 'used']",5,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,You wont always manage to write poems this cute. I mean--!,"['wont', 'always', 'manage', 'write', 'poems', 'cute', 'mean', '--', '!']",11,0.0546875,0.84375,1.0,2
+script-poemresponses.rpy,Natsuki,I mean well-written! No I mean--,"['mean', 'well-written', '!', 'mean', '--']",7,-0.1171875,0.6875,0.6666666666666666,1
+script-poemresponses.rpy,Natsuki,No! Why are you smiling?! Its not like I like cute things!,"['!', 'smiling', '?', '!', 'like', 'like', 'cute', 'things', '!']",12,0.625,1.0,0.9166666666666666,2
+script-poemresponses.rpy,Natsuki,H-Huh! Reading it again I decided that its not so great after all.,"['h-huh', '!', 'reading', 'decided', 'great']",14,0.8,0.75,1.0,0
+script-poemresponses.rpy,Natsuki,Its too cute and doki-doki.,"['cute', 'doki-doki']",6,0.5,1.0,1.0,0
+script-poemresponses.rpy,Natsuki,It would only impress...you know girls...who like those kinds of things.,"['would', 'impress', '...', 'know', 'girls', '...', 'like', 'kinds', 'things']",13,0.0,1.0,1.0,2
+script-poemresponses.rpy,Natsuki,Ahaha!,"['ahaha', '!']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Well anyway...!,"['well', 'anyway', '...', '!']",2,0.0,0.0,1.0,1
+script-poemresponses.rpy,Natsuki,Youre gonna read mine now right?,"['youre', 'gon', 'na', 'read', 'mine', 'right', '?']",6,0.2857142857142857,0.5357142857142857,1.0,0
+script-poemresponses.rpy,Natsuki,Judging by your tastes youll probably like it a lot.,"['judging', 'tastes', 'youll', 'probably', 'like', 'lot']",10,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Youll probably learn something too. Dont forget who the ireal/i pro is.,"['youll', 'probably', 'learn', 'something', 'dont', 'forget', 'ireal/i', 'pro']",13,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Rrgh...,"['rrgh', '...']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,No! No its not!,"['!', '!']",4,0.0,0.0,0.75,0
+script-poemresponses.rpy,Natsuki,Its good. Its really good okay?!,"['good', 'really', 'good', 'okay', '?', '!']",6,0.6749999999999999,0.5666666666666668,0.6666666666666666,0
+script-poemresponses.rpy,Natsuki,There I said it!,"['said', '!']",4,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Ugh this wasnt supposed to happen at all...!,"['ugh', 'wasnt', 'supposed', 'happen', '...', '!']",8,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Why cant you just be bad at this?,"['cant', 'bad', '?']",8,-0.6999999999999998,0.6666666666666666,1.0,2
+script-poemresponses.rpy,Natsuki,My poems are supposed to impress iyou/i not the other way around!,"['poems', 'supposed', 'impress', 'iyou/i', 'way', 'around', '!']",13,-0.15625,0.375,1.0,2
+script-poemresponses.rpy,Natsuki,12c Obviously! You think Id let you enjoy Yuris writing more than mine?,"['12c', 'obviously', '!', 'think', 'id', 'let', 'enjoy', 'yuris', 'writing', 'mine', '?']",13,0.3,0.5,0.9230769230769231,2
+script-poemresponses.rpy,Natsuki,Give me a break.,"['give', 'break']",4,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Ill tell you! You--,"['ill', 'tell', '!', '--']",4,-0.625,1.0,0.75,2
+script-poemresponses.rpy,Natsuki,--,['--'],0,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Y-Y-You...,"['y-y-you', '...']",3,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,Youre trying to...impress ime?/i,"['youre', 'trying', '...', 'impress', 'ime', '?', '/i']",6,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,I...have to use the bathroom!,"['...', 'use', 'bathroom', '!']",6,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,Hey!,"['hey', '!']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Did you read this Monika?,"['read', 'monika', '?']",5,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,Ugh...,"['ugh', '...']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,You should really stop reading things that arent for you you know.,"['really', 'stop', 'reading', 'things', 'arent', 'know']",12,0.2,0.2,0.8333333333333334,2
+script-poemresponses.rpy,Natsuki,You have a bad habit of doing that.,"['bad', 'habit']",8,-0.6999999999999998,0.6666666666666666,1.0,2
+script-poemresponses.rpy,Natsuki,Uu--,"['uu', '--']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,42c Okay well I think player is done sharing this poem with everyone.,"['42c', 'okay', 'well', 'think', 'player', 'done', 'sharing', 'poem', 'everyone']",13,0.5,0.5,1.0,0
+script-poemresponses.rpy,Natsuki,Its not like anyone would want to read this anyway.,"['like', 'anyone', 'would', 'want', 'read', 'anyway']",10,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,In fact Im just going to hold onto this.,"['fact', 'im', 'going', 'hold', 'onto']",9,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,What?,['?'],1,0.0,0.0,1.0,1
+script-poemresponses.rpy,Natsuki,Why are you looking at me like that??,"['looking', 'like', '?', '?']",8,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,12b Ugh...,"['12b', 'ugh', '...']",2,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Never mind.,"['never', 'mind']",2,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,So what?,['?'],2,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,...Fine.,"['...', 'fine']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Its not like shes going to like it though.,"['like', 'shes', 'going', 'like', 'though']",9,0.0,0.0,0.8888888888888888,2
+script-poemresponses.rpy,Natsuki,Anyway read my poem now.,"['anyway', 'read', 'poem']",5,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,And no I wont let you keep it.,"['wont', 'let', 'keep']",8,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,This is my only copy.,['copy'],5,0.0,1.0,1.0,0
+script-poemresponses.rpy,Natsuki,Yeah no thanks.,"['yeah', 'thanks']",3,-0.1,0.2,1.0,0
+script-poemresponses.rpy,Natsuki,iNext!/i,"['inext', '!', '/i']",2,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,...Meh.,"['...', 'meh']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,I guess you really havent learned anything after all.,"['guess', 'really', 'havent', 'learned', 'anything']",9,0.2,0.2,1.0,0
+script-poemresponses.rpy,Natsuki,Honestly I dont know why I got my hopes up in the first place.,"['honestly', 'dont', 'know', 'got', 'hopes', 'first', 'place']",14,0.425,0.6166666666666667,0.9285714285714286,0
+script-poemresponses.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Oh man.,"['oh', 'man']",2,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,This is seriously a step backwards.,"['seriously', 'step', 'backwards']",6,-0.3333333333333333,0.6666666666666666,1.0,0
+script-poemresponses.rpy,Natsuki,I liked your last two way better than this one.,"['liked', 'last', 'two', 'way', 'better', 'one']",10,0.3666666666666667,0.45555555555555555,1.0,0
+script-poemresponses.rpy,Natsuki,I mean...,"['mean', '...']",2,-0.3125,0.6875,1.0,0
+script-poemresponses.rpy,Natsuki,I guess I cant be mad at you for trying different things.,"['guess', 'cant', 'mad', 'trying', 'different', 'things']",12,-0.3125,0.8,0.9166666666666666,2
+script-poemresponses.rpy,Natsuki,As long as youre not just trying to impress Yuri or something like that.,"['long', 'youre', 'trying', 'impress', 'yuri', 'something', 'like']",14,-0.05,0.4,0.9285714285714286,2
+script-poemresponses.rpy,Natsuki,Gross.,['gross'],1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,...Eh?,"['...', 'eh', '?']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,N-No! Gross!,"['n-no', '!', 'gross', '!']",3,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Its not like I care!,"['like', 'care', '!']",5,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Its just that ione/i of us in this club has to make sure youre not slacking off.,"['ione/i', 'us', 'club', 'make', 'sure', 'youre', 'slacking']",18,0.5,0.8888888888888888,1.0,2
+script-poemresponses.rpy,Natsuki,Thats--um...,"['thats', '--', 'um', '...']",2,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,...Its not like you would actually do that.,"['...', 'like', 'would', 'actually']",8,0.0,0.1,1.0,2
+script-poemresponses.rpy,Natsuki,Oh?,"['oh', '?']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Maybe I wont mind scaring you away after all.,"['maybe', 'wont', 'mind', 'scaring', 'away']",9,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Oh I know!,"['oh', 'know', '!']",3,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Dont worry I was too.,"['dont', 'worry']",5,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Ahahaha!,"['ahahaha', '!']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Anyway...,"['anyway', '...']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,...This ones alright.,"['...', 'ones', 'alright']",3,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Well yeah.,"['well', 'yeah']",2,0.0,0.0,1.0,1
+script-poemresponses.rpy,Natsuki,It doesnt blow me away.,"['doesnt', 'blow', 'away']",5,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,But theres nothing I really hate about it.,"['theres', 'nothing', 'really', 'hate']",8,-0.8,0.9,1.0,0
+script-poemresponses.rpy,Natsuki,Its just not really my style. I mean thats fine.,"['really', 'style', 'mean', 'thats', 'fine']",10,0.0013888888888889024,0.46249999999999997,1.0,0
+script-poemresponses.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,...This ones alright.,"['...', 'ones', 'alright']",3,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Well yeah.,"['well', 'yeah']",2,0.0,0.0,1.0,1
+script-poemresponses.rpy,Natsuki,About as good as yesterdays anyway.,"['good', 'yesterdays', 'anyway']",6,0.7,0.6000000000000001,0.8333333333333334,0
+script-poemresponses.rpy,Natsuki,I see what youre going for but its just not really my style.,"['see', 'youre', 'going', 'really', 'style']",13,-0.1,0.2,1.0,2
+script-poemresponses.rpy,Natsuki,I mean thats fine.,"['mean', 'thats', 'fine']",4,0.05208333333333334,0.59375,1.0,0
+script-poemresponses.rpy,Natsuki,Im mostly just glad that youre trying a little bit.,"['im', 'mostly', 'glad', 'youre', 'trying', 'little', 'bit']",10,0.2708333333333333,0.6666666666666666,1.0,2
+script-poemresponses.rpy,Natsuki,Lets see lets see!,"['lets', 'see', 'lets', 'see', '!']",4,0.0,0.0,0.5,0
+script-poemresponses.rpy,Natsuki,Of course.,['course'],2,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,You know I like your writing.,"['know', 'like', 'writing']",6,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,Well... Well of course!,"['well', '...', 'well', 'course', '!']",4,0.0,0.0,0.75,1
+script-poemresponses.rpy,Natsuki,I just had to put you in your place a little bit!,"['put', 'place', 'little', 'bit', '!']",12,-0.234375,0.5,1.0,2
+script-poemresponses.rpy,Natsuki,Its not like...,"['like', '...']",3,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,I mean its not like I was shy or anything stupid like that.,"['mean', 'like', 'shy', 'anything', 'stupid', 'like']",13,-0.5375,0.7291666666666666,0.8461538461538461,0
+script-poemresponses.rpy,Natsuki,Or jealous!,"['jealous', '!']",2,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,I really wasnt jealous.,"['really', 'wasnt', 'jealous']",4,0.2,0.2,1.0,0
+script-poemresponses.rpy,Natsuki,Just because you happen to be a good writer?,"['happen', 'good', 'writer', '?']",9,0.7,0.6000000000000001,1.0,2
+script-poemresponses.rpy,Natsuki,Thats such a dumb thing to get jealous about.,"['thats', 'dumb', 'thing', 'get', 'jealous']",9,-0.1875,0.5,1.0,0
+script-poemresponses.rpy,Natsuki,Ahaha!,"['ahaha', '!']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,What??,"['?', '?']",1,0.0,0.0,1.0,1
+script-poemresponses.rpy,Natsuki,...Eh?,"['...', 'eh', '?']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,W-What are you talking about?,"['w-what', 'talking', '?']",6,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,My writing is obviously the best...,"['writing', 'obviously', 'best', '...']",6,0.5,0.4,1.0,0
+script-poemresponses.rpy,Natsuki,...Right?,"['...', 'right', '?']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Right...?,"['right', '...', '?']",1,0.2857142857142857,0.5357142857142857,1.0,0
+script-poemresponses.rpy,Natsuki,player...,"['player', '...']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Please just tell me you like my poems.,"['please', 'tell', 'like', 'poems']",8,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,I dont care if you hate them.,"['dont', 'care', 'hate']",7,-0.8,0.9,1.0,2
+script-poemresponses.rpy,Natsuki,Just please tell me Im the best.,"['please', 'tell', 'im', 'best']",7,1.0,0.3,1.0,2
+script-poemresponses.rpy,Natsuki,I just...,['...'],2,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,I just really need to hear that from someone.,"['really', 'need', 'hear', 'someone']",9,0.2,0.2,1.0,2
+script-poemresponses.rpy,Natsuki,I know I sound stupid.,"['know', 'sound', 'stupid']",5,-0.19999999999999996,0.7,0.8,0
+script-poemresponses.rpy,Natsuki,But theres a reason I never shared my poems before this.,"['theres', 'reason', 'never', 'shared', 'poems']",11,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Because...,['...'],1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,12c Because nobody ever takes me seriously!,"['12c', 'nobody', 'ever', 'takes', 'seriously', '!']",7,-0.41666666666666663,0.6666666666666666,1.0,0
+script-poemresponses.rpy,Natsuki,Whats the point in sharing my poems if people just laugh and say \Thats so cute just like you Natsuki!\,"['whats', 'point', 'sharing', 'poems', 'people', 'laugh', 'say', '\\thats', 'cute', 'like', 'natsuki', '!', '\\']",20,0.4,0.55,0.95,2
+script-poemresponses.rpy,Natsuki,Sometimes I dont want to be cute!,"['sometimes', 'dont', 'want', 'cute', '!']",7,0.625,1.0,1.0,2
+script-poemresponses.rpy,Natsuki,12d But nobody understands that!,"['12d', 'nobody', 'understands', '!']",5,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,I try really hard when I write.,"['try', 'really', 'hard', 'write']",7,-0.2916666666666667,0.5416666666666666,0.8571428571428571,0
+script-poemresponses.rpy,Natsuki,12e The style doesnt matter.,"['12e', 'style', 'doesnt', 'matter']",5,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,The emotions are there.,['emotions'],4,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Why cant anyone isee/i that...?,"['cant', 'anyone', 'isee/i', '...', '?']",6,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,I just want...,"['want', '...']",3,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,D-Dont read it!,"['d-dont', 'read', '!']",4,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,Its not any good.,['good'],4,0.7,0.6000000000000001,1.0,0
+script-poemresponses.rpy,Natsuki,And I know you hate my poems.,"['know', 'hate', 'poems']",7,-0.8,0.9,1.0,2
+script-poemresponses.rpy,Natsuki,So you dont have to read this one okay?,"['dont', 'read', 'one', 'okay', '?']",9,0.5,0.5,1.0,2
+script-poemresponses.rpy,Natsuki,W-Why?,"['w-why', '?']",2,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,12e You can...read it.,"['12e', '...', 'read']",5,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,Just turn that way.,"['turn', 'way']",4,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,I dont want you to...look at my face right now.,"['dont', 'want', '...', 'look', 'face', 'right']",11,0.2857142857142857,0.5357142857142857,1.0,2
+script-poemresponses.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,...Finally!,"['...', 'finally', '!']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,This one. Its good!,"['one', 'good', '!']",4,0.875,0.6000000000000001,1.0,0
+script-poemresponses.rpy,Natsuki,I was wondering how long it would take you.,"['wondering', 'long', 'would', 'take']",9,-0.05,0.4,1.0,2
+script-poemresponses.rpy,Natsuki,Yeah seriously.,"['yeah', 'seriously']",2,-0.3333333333333333,0.6666666666666666,1.0,0
+script-poemresponses.rpy,Natsuki,Dont listen to what anyone else says.,"['dont', 'listen', 'anyone', 'else', 'says']",7,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,Especially Yuri.,"['especially', 'yuri']",2,0.0,1.0,1.0,0
+script-poemresponses.rpy,Natsuki,Just keep writing poems like this. Thats all you need!,"['keep', 'writing', 'poems', 'like', 'thats', 'need', '!']",10,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,Excuse me?,"['excuse', '?']",2,-0.05,0.05,1.0,0
+script-poemresponses.rpy,Natsuki,Youre talking to a pro you know.,"['youre', 'talking', 'pro', 'know']",7,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,Dont you think you should trust my opinion the most?,"['dont', 'think', 'trust', 'opinion', '?']",10,0.5,0.5,0.9,2
+script-poemresponses.rpy,Natsuki,Biased?,"['biased', '?']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,Of course not.,['course'],3,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,My opinion just happens to be the best.,"['opinion', 'happens', 'best']",8,1.0,0.3,1.0,2
+script-poemresponses.rpy,Natsuki,Ahaha!,"['ahaha', '!']",1,0.0,0.0,1.0,0
+script-poemresponses.rpy,Natsuki,I knew youd finally understand.,"['knew', 'youd', 'finally', 'understand']",5,0.0,1.0,1.0,0
+script-poemresponses.rpy,Natsuki,Just keep showing me your poems and youll be a pro before you know it.,"['keep', 'showing', 'poems', 'youll', 'pro', 'know']",15,0.0,0.0,1.0,2
+script-poemresponses.rpy,Natsuki,Anyway heres the one I wrote.,"['anyway', 'heres', 'one', 'wrote']",6,0.0,0.0,1.0,0
+script-poemresponses2.rpy,Natsuki,Not bad right?,"['bad', 'right', '?']",3,0.31785714285714284,0.6011904761904762,1.0,0
+script-poemresponses2.rpy,Natsuki,Yesterdays was way too short...,"['yesterdays', 'way', 'short', '...']",5,0.0,0.3,1.0,0
+script-poemresponses2.rpy,Natsuki,I was just warming up!,"['warming', '!']",5,0.0,0.0,1.0,2
+script-poemresponses2.rpy,Natsuki,I hope you didnt think that was the best I could do.,"['hope', 'didnt', 'think', 'best', 'could']",12,1.0,0.3,0.9166666666666666,2
+script-poemresponses2.rpy,Natsuki,Anyway the message is pretty straightforward in this poem.,"['anyway', 'message', 'pretty', 'straightforward', 'poem']",9,0.3125,0.6875,1.0,0
+script-poemresponses2.rpy,Natsuki,I doubt I have to explain it.,"['doubt', 'explain']",7,0.0,0.0,0.8571428571428571,2
+script-poemresponses2.rpy,Natsuki,Like anyone would agree that the subject of this poem is an ignorant jerk...,"['like', 'anyone', 'would', 'agree', 'subject', 'poem', 'ignorant', 'jerk', '...']",14,-0.16666666666666666,0.3333333333333333,1.0,0
+script-poemresponses2.rpy,Natsuki,Everyone has some kind of weird hobby or a guilty pleasure.,"['everyone', 'kind', 'weird', 'hobby', 'guilty', 'pleasure']",11,-0.13333333333333333,0.9666666666666667,1.0,0
+script-poemresponses2.rpy,Natsuki,Something that youre afraid if people find out theyd make fun of you or think less of you.,"['something', 'youre', 'afraid', 'people', 'find', 'theyd', 'make', 'fun', 'think', 'less']",18,-0.15555555555555556,0.3888888888888889,0.8888888888888888,2
+script-poemresponses2.rpy,Natsuki,...But that just makes people stupid!,"['...', 'makes', 'people', 'stupid', '!']",6,-0.9999999999999999,1.0,1.0,2
+script-poemresponses2.rpy,Natsuki,Who cares what someone likes as long as theyre not hurting anyone and it makes them happy?,"['cares', 'someone', 'likes', 'long', 'theyre', 'hurting', 'anyone', 'makes', 'happy', '?']",17,0.375,0.7,0.9411764705882353,0
+script-poemresponses2.rpy,Natsuki,I think people really need to learn to respect others for liking weird things...,"['think', 'people', 'really', 'need', 'learn', 'respect', 'others', 'liking', 'weird', 'things', '...']",14,-0.15,0.6,0.9285714285714286,2
+script-poemresponses2.rpy,Natsuki,...Such as two of the girls in this very club whom I respectfully wont name.,"['...', 'two', 'girls', 'club', 'respectfully', 'wont', 'name']",15,0.35,0.5,1.0,0
+script-poemresponses2.rpy,Natsuki,Kind of ironic that even in my one place of comfort I cant even have people respect me...,"['kind', 'ironic', 'even', 'one', 'place', 'comfort', 'cant', 'even', 'people', 'respect', '...']",18,0.4,0.9,0.8888888888888888,0
+script-poemresponses2.rpy,Natsuki,...Jeez now youre making me complain too much!,"['...', 'jeez', 'youre', 'making', 'complain', 'much', '!']",8,0.25,0.2,1.0,0
+script-poemresponses2.rpy,Natsuki,Well--,"['well', '--']",1,0.0,0.0,1.0,1
+script-poemresponses2.rpy,Natsuki,I guess thanks...,"['guess', 'thanks', '...']",3,0.2,0.2,1.0,0
+script-poemresponses2.rpy,Natsuki,...But its kind of obvious that you respect Yuri more so...,"['...', 'kind', 'obvious', 'respect', 'yuri', '...']",11,0.3666666666666667,0.6333333333333333,1.0,2
+script-poemresponses2.rpy,Natsuki,42c Whatever... Were done sharing so you can leave now.,"['42c', 'whatever', '...', 'done', 'sharing', 'leave']",10,0.0,0.0,1.0,0
+script-poemresponses2.rpy,Natsuki,player...,"['player', '...']",1,0.0,0.0,1.0,0
+script-poemresponses2.rpy,Natsuki,Why didnt you come read with me today?,"['didnt', 'come', 'read', 'today', '?']",8,0.0,0.0,1.0,2
+script-poemresponses2.rpy,Natsuki,I was waiting for you.,['waiting'],5,0.0,0.0,1.0,2
+script-poemresponses2.rpy,Natsuki,I was waiting for a long time.,"['waiting', 'long', 'time']",7,-0.05,0.4,1.0,0
+script-poemresponses2.rpy,Natsuki,It was the only thing I had to look forward to today.,"['thing', 'look', 'forward', 'today']",12,0.0,1.0,0.9166666666666666,2
+script-poemresponses2.rpy,Natsuki,Why did you ruin it?,"['ruin', '?']",5,0.0,0.0,1.0,2
+script-poemresponses2.rpy,Natsuki,Do you like Yuri more?,"['like', 'yuri', '?']",5,0.5,0.5,1.0,2
+script-poemresponses2.rpy,Natsuki,I think youre better off not associating with her.,"['think', 'youre', 'better', 'associating']",9,0.5,0.5,1.0,0
+script-poemresponses2.rpy,Natsuki,Are you listening to me?,"['listening', '?']",5,0.0,0.0,1.0,2
+script-poemresponses2.rpy,Natsuki,ghost1 Yuri is a sick freak.,"['ghost1', 'yuri', 'sick', 'freak']",6,-0.7142857142857143,0.8571428571428571,1.0,0
+script-poemresponses2.rpy,Natsuki,That should be obvious by now.,['obvious'],6,0.0,0.5,1.0,0
+script-poemresponses2.rpy,Natsuki,So just play with me instead.,"['play', 'instead']",6,0.0,0.0,1.0,2
+script-poemresponses2.rpy,Natsuki,Okay?,"['okay', '?']",1,0.5,0.5,1.0,0
+script-poemresponses2.rpy,Natsuki,You dont hate me player do you?,"['dont', 'hate', 'player', '?']",7,-0.8,0.9,0.8571428571428571,2
+script-poemresponses2.rpy,Natsuki,Do you hate me?,"['hate', '?']",4,-0.8,0.9,1.0,2
+script-poemresponses2.rpy,Natsuki,Do you want to make me go home crying?,"['want', 'make', 'go', 'home', 'crying', '?']",9,-0.2,0.6,1.0,2
+script-poemresponses2.rpy,Natsuki,The club is the only place I feel safe.,"['club', 'place', 'feel', 'safe']",9,0.25,0.75,0.8888888888888888,0
+script-poemresponses2.rpy,Natsuki,Dont ruin that for me.,"['dont', 'ruin']",5,0.0,0.0,1.0,2
+script-poemresponses2.rpy,Natsuki,Dont ruin it.,"['dont', 'ruin']",3,0.0,0.0,1.0,2
+script-poemresponses2.rpy,Natsuki,Please.,['please'],1,0.0,0.0,1.0,0
+script-poemresponses2.rpy,Natsuki,Just stop talking to Yuri.,"['stop', 'talking', 'yuri']",5,0.0,0.0,1.0,2
+script-poemresponses2.rpy,Natsuki,Play with me instead.,"['play', 'instead']",4,0.0,0.0,1.0,0
+script-poemresponses2.rpy,Natsuki,Its all I have...,['...'],4,0.0,0.0,1.0,0
+script-poemresponses2.rpy,Natsuki,Play with me.,['play'],3,0.0,0.0,1.0,0
+script-poemresponses2.rpy,Natsuki,ghost2 PLAY WITH ME!!!,"['ghost2', 'play', '!', '!', '!']",4,0.0,0.0,1.0,0
+script-poemresponses2.rpy,Natsuki,I changed my mind.,"['changed', 'mind']",4,0.0,0.0,1.0,0
+script-poemresponses2.rpy,Natsuki,Ignore everything you just read.,"['ignore', 'everything', 'read']",5,0.0,0.0,1.0,2
+script-poemresponses2.rpy,Natsuki,Theres no point in trying to do anything.,"['theres', 'point', 'trying', 'anything']",8,0.0,0.0,1.0,2
+script-poemresponses2.rpy,Natsuki,Its Yuris own fault that shes so unlikable.,"['yuris', 'fault', 'shes', 'unlikable']",8,0.6,1.0,1.0,0
+script-poemresponses2.rpy,Natsuki,Can you hear me player?,"['hear', 'player', '?']",5,0.0,0.0,1.0,2
+script-poemresponses2.rpy,Natsuki,If you would just spend more time with Monika all these problems would go away.,"['would', 'spend', 'time', 'monika', 'problems', 'would', 'go', 'away']",15,0.5,0.5,0.9333333333333333,2
+script-poemresponses2.rpy,Natsuki,Yuri and I are too messed up for someone as wonderful as you.,"['yuri', 'messed', 'someone', 'wonderful']",13,1.0,1.0,0.9230769230769231,2
+script-poemresponses2.rpy,Natsuki,Just think of Monika from now on.,"['think', 'monika']",7,0.0,0.0,1.0,2
+script-poemresponses2.rpy,Natsuki,Just Monika.,['monika'],2,0.0,0.0,1.0,2
+script-poemresponses2.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-poemresponses2.rpy,Natsuki,Yeah just as I thought...,"['yeah', 'thought', '...']",5,0.0,0.0,1.0,0
+script-poemresponses2.rpy,Natsuki,player come on.,"['player', 'come']",3,0.0,0.0,1.0,0
+script-poemresponses2.rpy,Natsuki,Im not stupid.,"['im', 'stupid']",3,0.39999999999999997,1.0,1.0,0
+script-poemresponses2.rpy,Natsuki,I know how much time youve been spending with Yuri...,"['know', 'much', 'time', 'youve', 'spending', 'yuri', '...']",10,0.2,0.2,1.0,0
+script-poemresponses2.rpy,Natsuki,Its obvious that you care more about impressing her than trying to improve your writing.,"['obvious', 'care', 'impressing', 'trying', 'improve', 'writing']",15,0.25,0.5,1.0,2
+script-poemresponses2.rpy,Natsuki,To put it bluntly its kind of pathetic.,"['put', 'bluntly', 'kind', 'pathetic']",8,-0.2,0.95,1.0,2
+script-poemresponses2.rpy,Natsuki,Why are you even in this club player?,"['even', 'club', 'player', '?']",8,0.0,0.0,1.0,2
+script-poemresponses2.rpy,Natsuki,Honestly...,"['honestly', '...']",1,0.6,0.9,1.0,0
+script-poemresponses2.rpy,Natsuki,I thought getting a new member would help everyone get more involved together.,"['thought', 'getting', 'new', 'member', 'would', 'help', 'everyone', 'get', 'involved', 'together']",13,0.3181818181818182,0.4772727272727273,0.9230769230769231,0
+script-poemresponses2.rpy,Natsuki,Not exclude each other even more.,"['exclude', 'even']",6,0.1875,0.4375,1.0,0
+script-poemresponses2.rpy,Natsuki,This is such a stupid activity anyway...,"['stupid', 'activity', 'anyway', '...']",7,-0.39999999999999997,0.75,1.0,0
+script-poemresponses2.rpy,Natsuki,12c ...Look Im not in a good mood today and I just really dont feel like talking right now.,"['12c', '...', 'look', 'im', 'good', 'mood', 'today', 'really', 'dont', 'feel', 'like', 'talking', 'right']",19,0.39523809523809517,0.44523809523809527,1.0,2
+script-poemresponses2.rpy,Natsuki,Please go away.,"['please', 'go', 'away']",3,0.0,0.0,1.0,0
+script-poemresponses2.rpy,Natsuki,...Hm.,"['...', 'hm']",1,0.0,0.0,1.0,0
+script-poemresponses2.rpy,Natsuki,I liked your last one better.,"['liked', 'last', 'one', 'better']",6,0.3666666666666667,0.45555555555555555,1.0,0
+script-poemresponses2.rpy,Natsuki,Well yeah. I can tell you were a little more daring with this one.,"['well', 'yeah', 'tell', 'little', 'daring', 'one']",14,0.15625,0.5,1.0,1
+script-poemresponses2.rpy,Natsuki,But youre really not good enough for that yet. It fell flat.,"['youre', 'really', 'good', 'enough', 'yet', 'fell', 'flat']",12,-0.125,0.4083333333333334,1.0,0
+script-poemresponses2.rpy,Natsuki,...Hm.,"['...', 'hm']",1,0.0,0.0,1.0,0
+script-poemresponses2.rpy,Natsuki,Well I can admit that its better than the last one.,"['well', 'admit', 'better', 'last', 'one']",11,0.25,0.2833333333333333,1.0,1
+script-poemresponses2.rpy,Natsuki,Its nice to see that youre putting in some effort.,"['nice', 'see', 'youre', 'putting', 'effort']",10,0.6,1.0,1.0,2
+script-poemresponses2.rpy,Natsuki,Just make sure you find a little bit of influence from everyone.,"['make', 'sure', 'find', 'little', 'bit', 'influence', 'everyone']",12,0.15625,0.6944444444444444,1.0,2
+script-poemresponses2.rpy,Natsuki,I think youre at least being influenced by Yuri a little bit arent you?,"['think', 'youre', 'least', 'influenced', 'yuri', 'little', 'bit', 'arent', '?']",14,-0.24375,0.45,1.0,2
+script-poemresponses2.rpy,Natsuki,I mean I know youve been like...,"['mean', 'know', 'youve', 'like', '...']",7,-0.3125,0.6875,0.8571428571428571,0
+script-poemresponses2.rpy,Natsuki,Spending some time with her or whatever...,"['spending', 'time', 'whatever', '...']",7,0.0,0.0,1.0,0
+script-poemresponses2.rpy,Natsuki,But you know Monika and I are just as good as her!,"['know', 'monika', 'good', '!']",12,0.875,0.6000000000000001,0.9166666666666666,2
+script-poemresponses2.rpy,Natsuki,A-At poems I mean!,"['a-at', 'poems', 'mean', '!']",5,-0.390625,0.6875,1.0,0
+script-poemresponses2.rpy,Natsuki,So you should really try to learn something or youll never get better!,"['really', 'try', 'learn', 'something', 'youll', 'never', 'get', 'better', '!']",13,0.4125,0.35,1.0,2
+script-poemresponses2.rpy,Natsuki,Heres the one I wrote...,"['heres', 'one', 'wrote', '...']",5,0.0,0.0,1.0,0
+script-poemresponses2.rpy,Natsuki,Ill make sure you learn something from it.,"['ill', 'make', 'sure', 'learn', 'something']",8,0.0,0.9444444444444444,1.0,2
+script-poemresponses2.rpy,Natsuki,...Hm.,"['...', 'hm']",1,0.0,0.0,1.0,0
+script-poemresponses2.rpy,Natsuki,Well its not really any worse than your last one.,"['well', 'really', 'worse', 'last', 'one']",10,-0.16666666666666666,0.2888888888888889,1.0,1
+script-poemresponses2.rpy,Natsuki,But I cant really say its any better either.,"['cant', 'really', 'say', 'better', 'either']",9,0.35,0.35,1.0,0
+script-poemresponses2.rpy,Natsuki,Huh? Phew what?,"['huh', '?', 'phew', '?']",3,0.0,0.0,1.0,0
+script-poemresponses2.rpy,Natsuki,H-Hey! What makes you--,"['h-hey', '!', 'makes', '--']",5,0.0,0.0,1.0,2
+script-poemresponses2.rpy,Natsuki,i(Wait maybe that was a compliment...?)/i,"['(', 'wait', 'maybe', 'compliment', '...', '?', ')', '/i']",8,0.0,0.0,1.0,0
+script-poemresponses2.rpy,Natsuki,A-Ahah! Glad to see someone recognizes my experience!,"['a-ahah', '!', 'glad', 'see', 'someone', 'recognizes', 'experience', '!']",9,0.625,1.0,1.0,0
+script-poemresponses2.rpy,Natsuki,Well then keep practicing and maybe youll be as good as me someday!,"['well', 'keep', 'practicing', 'maybe', 'youll', 'good', 'someday', '!']",13,0.875,0.6000000000000001,0.9230769230769231,0
+script-poemresponses2.rpy,Natsuki,...Hm.,"['...', 'hm']",1,0.0,0.0,1.0,0
+script-poemresponses2.rpy,Natsuki,Well its not terrible.,"['well', 'terrible']",4,0.5,1.0,1.0,1
+script-poemresponses2.rpy,Natsuki,But its pretty disappointing after your last one.,"['pretty', 'disappointing', 'last', 'one']",8,-0.11666666666666665,0.5888888888888889,1.0,0
+script-poemresponses2.rpy,Natsuki,Then again if this one was as good as your last one I would be completely pissed.,"['one', 'good', 'last', 'one', 'would', 'completely', 'pissed']",17,0.26666666666666666,0.3555555555555556,0.8235294117647058,0
+script-poemresponses2.rpy,Natsuki,Fair enough. Youre still new to this so I wouldnt expect you to find your style right away.,"['fair', 'enough', 'youre', 'still', 'new', 'wouldnt', 'expect', 'find', 'style', 'right', 'away']",18,0.2805194805194805,0.597564935064935,0.9444444444444444,2
+script-poemresponses2.rpy,Natsuki,I mean everyone in the club writes really differently from each other...,"['mean', 'everyone', 'club', 'writes', 'really', 'differently', '...']",12,-0.14583333333333334,0.5541666666666667,1.0,0
+script-poemresponses2.rpy,Natsuki,Maybe youll find a little influence from all of us.,"['maybe', 'youll', 'find', 'little', 'influence', 'us']",10,-0.1875,0.5,1.0,0
+script-poemresponses2.rpy,Natsuki,For instance...,"['instance', '...']",2,0.0,0.0,1.0,0
+script-poemresponses2.rpy,Natsuki,I noticed that you were spending some time with Yuri today...,"['noticed', 'spending', 'time', 'yuri', 'today', '...']",11,0.0,0.0,1.0,2
+script-poemresponses2.rpy,Natsuki,Not that I care who you spend your time with.,"['care', 'spend', 'time']",10,0.0,0.0,1.0,2
+script-poemresponses2.rpy,Natsuki,After all I was taught never to expect anything from anybody.,"['taught', 'never', 'expect', 'anything', 'anybody']",11,0.0,0.0,1.0,0
+script-poemresponses2.rpy,Natsuki,So its not like I was waiting for you or anything.,"['like', 'waiting', 'anything']",11,0.0,0.0,1.0,2
+script-poemresponses2.rpy,Natsuki,Still you should at least look over my poem...,"['still', 'least', 'look', 'poem', '...']",9,-0.3,0.4,1.0,2
+script-poemresponses2.rpy,Natsuki,Youll probably be able to learn something from it.,"['youll', 'probably', 'able', 'learn', 'something']",9,0.5,0.625,1.0,2
+script-poemresponses2.rpy,Natsuki,Im not going to read another one of your Yuri suck-up poems.,"['im', 'going', 'read', 'another', 'one', 'yuri', 'suck-up', 'poems']",13,0.0,0.0,1.0,2
+script-poemresponses2.rpy,Natsuki,But Im still going to make you read mine.,"['im', 'still', 'going', 'make', 'read', 'mine']",9,0.0,0.0,1.0,2
+script-poemresponses2.rpy,Natsuki,Theres a reason.,"['theres', 'reason']",3,0.0,0.0,1.0,0
+script-poemresponses2.rpy,Natsuki,I really wish I didnt have to do this...,"['really', 'wish', 'didnt', '...']",9,0.2,0.2,0.8888888888888888,2
+script-poemresponses2.rpy,Natsuki,But unfortunately I dont have much of a choice.,"['unfortunately', 'dont', 'much', 'choice']",9,-0.15,0.6,1.0,0
+script-poemresponses2.rpy,Natsuki,Just...read it carefully okay?,"['...', 'read', 'carefully', 'okay', '?']",5,0.5,0.5,1.0,2
+script-poemresponses2.rpy,Natsuki,Then you can go away.,"['go', 'away']",5,0.0,0.0,1.0,2
+script-poemresponses2.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-poemresponses2.rpy,Natsuki,...Meh.,"['...', 'meh']",1,0.0,0.0,1.0,0
+script-poemresponses2.rpy,Natsuki,I guess you really havent learned anything after all.,"['guess', 'really', 'havent', 'learned', 'anything']",9,0.2,0.2,1.0,0
+script-poemresponses2.rpy,Natsuki,Honestly I dont know why I got my hopes up in the first place.,"['honestly', 'dont', 'know', 'got', 'hopes', 'first', 'place']",14,0.425,0.6166666666666667,0.9285714285714286,0
+script-poemresponses2.rpy,Natsuki,42c This is clearly Yuris influence...,"['42c', 'clearly', 'yuris', 'influence', '...']",6,0.10000000000000002,0.3833333333333333,1.0,0
+script-poemresponses2.rpy,Natsuki,I didnt realize you were so impressionable.,"['didnt', 'realize', 'impressionable']",7,0.0,0.0,1.0,2
+script-poemresponses2.rpy,Natsuki,Spending all this time with her in the club...,"['spending', 'time', 'club', '...']",9,0.0,0.0,1.0,0
+script-poemresponses2.rpy,Natsuki,Now trying to write like her...,"['trying', 'write', 'like', '...']",6,0.0,0.0,1.0,2
+script-poemresponses2.rpy,Natsuki,This is stupid.,['stupid'],3,-0.7999999999999999,1.0,1.0,0
+script-poemresponses2.rpy,Natsuki,At least Monika appreciates my writing...,"['least', 'monika', 'appreciates', 'writing', '...']",6,-0.3,0.4,1.0,0
+script-poemresponses2.rpy,Natsuki,...Ugh.,"['...', 'ugh']",1,0.0,0.0,1.0,0
+script-poemresponses2.rpy,Natsuki,Okay...I guess Im going to share my poem with you now.,"['okay', '...', 'guess', 'im', 'going', 'share', 'poem']",12,0.0,0.0,1.0,2
+script-poemresponses2.rpy,Natsuki,I really hate that I have to do this.,"['really', 'hate']",9,-0.8,0.9,0.8888888888888888,2
+script-poemresponses2.rpy,Natsuki,But unfortunately I dont have much of a choice.,"['unfortunately', 'dont', 'much', 'choice']",9,-0.15,0.6,1.0,0
+script-poemresponses2.rpy,Natsuki,Just...read it carefully okay?,"['...', 'read', 'carefully', 'okay', '?']",5,0.5,0.5,1.0,2
+script-poemresponses2.rpy,Natsuki,Then you can go away.,"['go', 'away']",5,0.0,0.0,1.0,2
+script-poemresponses2.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-poemresponses2.rpy,Natsuki,Oh man.,"['oh', 'man']",2,0.0,0.0,1.0,0
+script-poemresponses2.rpy,Natsuki,This is seriously a step backwards.,"['seriously', 'step', 'backwards']",6,-0.3333333333333333,0.6666666666666666,1.0,0
+script-poemresponses2.rpy,Natsuki,I liked your last two way better than this one.,"['liked', 'last', 'two', 'way', 'better', 'one']",10,0.3666666666666667,0.45555555555555555,1.0,0
+script-poemresponses2.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-poemresponses2.rpy,Natsuki,...This ones alright.,"['...', 'ones', 'alright']",3,0.0,0.0,1.0,0
+script-poemresponses2.rpy,Natsuki,Yeah its at least better than yesterdays.,"['yeah', 'least', 'better', 'yesterdays']",7,0.1,0.45,1.0,0
+script-poemresponses2.rpy,Natsuki,I still cant really tell how much you actually care about writing but either way youre doing alright.,"['still', 'cant', 'really', 'tell', 'much', 'actually', 'care', 'writing', 'either', 'way', 'youre', 'alright']",18,0.13333333333333333,0.16666666666666666,1.0,0
+script-poemresponses2.rpy,Natsuki,Even though youre not really spending time with anyone but Yuri...,"['even', 'though', 'youre', 'really', 'spending', 'time', 'anyone', 'yuri', '...']",11,-0.1,0.2,1.0,0
+script-poemresponses2.rpy,Natsuki,I still think its nice to have activities that we all participate in.,"['still', 'think', 'nice', 'activities', 'participate']",13,0.6,1.0,1.0,2
+script-poemresponses2.rpy,Natsuki,So you better keep working hard!,"['better', 'keep', 'working', 'hard', '!']",6,0.06770833333333331,0.5208333333333333,1.0,0
+script-poemresponses2.rpy,Natsuki,I mean...,"['mean', '...']",2,-0.3125,0.6875,1.0,0
+script-poemresponses2.rpy,Natsuki,I know Im not President or Vice President or anything...,"['know', 'im', 'president', 'vice', 'president', 'anything', '...']",10,0.0,0.0,0.8,0
+script-poemresponses2.rpy,Natsuki,But that doesnt mean you can let me down okay?,"['doesnt', 'mean', 'let', 'okay', '?']",10,0.010648148148148148,0.49212962962962964,1.0,2
+script-poemresponses2.rpy,Natsuki,So at least read mine too for now.,"['least', 'read', 'mine']",8,-0.3,0.4,1.0,0
+script-poemresponses2.rpy,Natsuki,But just to be clear...,"['clear', '...']",5,0.10000000000000002,0.3833333333333333,1.0,2
+script-poemresponses2.rpy,Natsuki,This poem...means a lot to me.,"['poem', '...', 'means', 'lot']",7,0.0,0.0,1.0,2
+script-poemresponses2.rpy,Natsuki,So read it carefully okay?,"['read', 'carefully', 'okay', '?']",5,0.5,0.5,1.0,0
+script-poemresponses2.rpy,Natsuki,...,['...'],0,0.0,0.0,1.0,0
+script-poemresponses2.rpy,Natsuki,...This ones alright.,"['...', 'ones', 'alright']",3,0.0,0.0,1.0,0
+script-poemresponses2.rpy,Natsuki,Well yeah.,"['well', 'yeah']",2,0.0,0.0,1.0,1
+script-poemresponses2.rpy,Natsuki,About as good as yesterdays anyway.,"['good', 'yesterdays', 'anyway']",6,0.7,0.6000000000000001,0.8333333333333334,0
+script-poemresponses2.rpy,Natsuki,What?,['?'],1,0.0,0.0,1.0,1
+script-poemresponses2.rpy,Natsuki,You gave your poem to Yuri?,"['gave', 'poem', 'yuri', '?']",6,0.0,0.0,1.0,2
+script-poemresponses2.rpy,Natsuki,Gross!,"['gross', '!']",1,0.0,0.0,1.0,0
+script-poemresponses2.rpy,Natsuki,What is with you two?,"['two', '?']",5,0.0,0.0,1.0,2
+script-poemresponses2.rpy,Natsuki,Hmph...,"['hmph', '...']",1,0.0,0.0,1.0,0
+script-poemresponses2.rpy,Natsuki,Its not like I wanted to read it anyway.,"['like', 'wanted', 'read', 'anyway']",9,0.0,0.0,1.0,2
+script-poemresponses2.rpy,Natsuki,Its just pissing me off a little bit that you didnt even think to show me at all.,"['pissing', 'little', 'bit', 'didnt', 'even', 'think', 'show']",18,-0.1875,0.5,0.9444444444444444,2
+script-poemresponses2.rpy,Natsuki,...Ugh.,"['...', 'ugh']",1,0.0,0.0,1.0,0
+script-poemresponses2.rpy,Natsuki,Okay...I guess Im going to share my poem with you anyway.,"['okay', '...', 'guess', 'im', 'going', 'share', 'poem', 'anyway']",12,0.0,0.0,1.0,2
+script-poemresponses2.rpy,Natsuki,I really hate that I have to do this.,"['really', 'hate']",9,-0.8,0.9,0.8888888888888888,2
+script-poemresponses2.rpy,Natsuki,But unfortunately I dont have much of a choice.,"['unfortunately', 'dont', 'much', 'choice']",9,-0.15,0.6,1.0,0
+script-poemresponses2.rpy,Natsuki,Just...read it carefully okay?,"['...', 'read', 'carefully', 'okay', '?']",5,0.5,0.5,1.0,2
+script-poemresponses2.rpy,Natsuki,Then you can go away.,"['go', 'away']",5,0.0,0.0,1.0,2
