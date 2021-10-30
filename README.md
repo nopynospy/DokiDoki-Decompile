@@ -4,6 +4,9 @@ This repo is a fork from https://github.com/judge2020/DokiDoki-Decompile.
 I did some text analysis on the scripts from the different characters.
 Hopefully, mod developers can find this useful.
 
+## Notebook files may be too large to view on Github, so as to not have to download, use the link below
+https://nopynospy.com/scenarios/doki_doki_scipt_code/
+
 ## Files added
 
 Compared to the original repo, this forked repo has the following additional files:
